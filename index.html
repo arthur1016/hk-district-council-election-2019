@@ -48,9 +48,13 @@
 	function showRegions(path, showUncontestedSeatsOnly) {
 		$.getJSON(path, function(data) {
 		$.each(data, function(index, value) {
-			if(!showUncontestedSeatsOnly || value.isUncontested){
+			if(!showUncontestedSeatsOnly){ //Show All Seats
 				L.polygon([value.points], {className: value.code}).addTo(map);
-				}
+			} else if(value.isUncontested){ //Only Show Uncontested Seats
+				L.polygon([value.points], {className: value.code, color:"#FF0000"}).addTo(map);
+			} else {
+				//The Contested Seats are not shown
+			}
 			});
 		});
 	}
