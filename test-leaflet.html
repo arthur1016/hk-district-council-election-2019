@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title></title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+   crossorigin=""/>
+   <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"
+   integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
+   crossorigin=""></script>
+  <style type="text/css">
+    #mapid {
+      width: 1600px;
+      height: 800px;
+    }
+  </style>
+</head>
+<body>
+  <div id="mapid"></div>
+  <script>
+	//Ad-hoc parameters
+    var map = L.map('mapid').setView([22.31552, 114.16769], 16);
+
+	//Base Map from OpenStreetMap
+	L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+	}).addTo(map);
+
+	//Base JSON
+	//TODO 1: All Boundaries, Region Name, Contestants, Organization
+	//TODO 2: Read from Separate JSON Source for easier Maintenance
+	
+	//Separate JSON/Source 
+	//TODO 3: Visualization depends on Use
+	
+	//As current examples
+	var polygonE06 = L.polygon([
+		[22.319252, 114.169385],
+		[22.318885, 114.167207],
+		[22.318309, 114.167315],
+		[22.318081, 114.166263],
+		[22.314756, 114.166757],
+		[22.315341, 114.170201]
+	], {color: '#FF0000',weight: '2'}).addTo(map);
+	
+	
+	//TODO: Pop-up Functionality
+	var popup = L.popup();
+	
+	//TODO: Take from JSON Source for Content
+	function onMapClick(e) {
+    popup
+        .setLatLng(e.latlng)
+        .setContent("You clicked the map at " + e.latlng.toString())
+        .openOn(map);
+	}
+	map.on('click', onMapClick);
+	
+  </script>
+</body>
+</html>
