@@ -11,19 +11,49 @@
 	integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
 	crossorigin=""></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 	<style type="text/css">
 	#mapid {
-		width: 1600px;
 		height: 800px;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 90%;
     }
 	</style>
 </head>
 <body>
-	<div id="mapid"></div>
+	<h1 style="text-align: center;">2019年區議會一般選舉 - 反自動當選運動</h1>
+	<button style="" type="button" class="btn btn-danger btn-lg btn-block" onclick="contestedSeats()" id="showUncontestedOnly">只顯示自動當選選區</button> 
+	<div style="" id="mapid"></div>
 	<script>
 	//Functions
+	function contestedSeats(e) {
+		showUncontestedSeatsOnly = !showUncontestedSeatsOnly;
+		if(showUncontestedSeatsOnly){
+			$("#showUncontestedOnly").addClass("btn-success").removeClass("btn-danger");
+			$("#showUncontestedOnly").html("顯示全部選區");
+		} else {
+			$("#showUncontestedOnly").addClass("btn-danger").removeClass("btn-success");
+			$("#showUncontestedOnly").html("只顯示自動當選選區");
+		}
+		map.eachLayer(function(layer){
+			if(layer._url != "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"){
+				layer.remove();
+			}
+		});
+		showRegions("./boundary.json", showUncontestedSeatsOnly);
+	}
 	
-	
+	function showRegions(path, showUncontestedSeatsOnly) {
+		$.getJSON(path, function(data) {
+		$.each(data, function(index, value) {
+			if(!showUncontestedSeatsOnly || value.isUncontested){
+				L.polygon([value.points], {className: value.code}).addTo(map);
+				}
+			});
+		});
+	}
 	</script>
 	<script>
 	//Ad-hoc parameters
@@ -39,14 +69,12 @@
 	//TODO 2: Read from Separate JSON Source for easier Maintenance - DONE
 	//TODO 3: Visualization depends on Use
 	
-	$.getJSON("./boundary.json", function(data) {
-		console.log(data);
-		$.each(data, function(index, value) {
-			L.polygon([value.points]).addTo(map);
-		});
-	});
+	var showUncontestedSeatsOnly = false;
+	showRegions("./boundary.json", showUncontestedSeatsOnly);
 	
-	//TODO: Pop-up Functionality according to selected region
+	//console.log($(".E06"));
+	
+	//TODO: Pop-up Functionality according to selected region, Use className for each SVG element
 	var popup = L.popup();
 	
 	//TODO: Take from JSON Source for Content
