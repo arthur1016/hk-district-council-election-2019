@@ -563,6 +563,70 @@
 		"telephone": ""
 	}]
 },{
+	"district": "深水埗區",
+	"code": "F14",
+	"name": "荔枝角南",
+	"estab_contestant": "吳婉秋",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "楊彧",
+	"democrat_organization": "民協",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/hoilai.yuk/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "深水埗區",
+	"code": "F15",
+	"name": "美孚南",
+	"estab_contestant": "黃達東",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "周琬雯",
+	"democrat_organization": "公民黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/eunicechau.cp/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "深水埗區",
+	"code": "F16",
+	"name": "美孚中",
+	"estab_contestant": "葉沛霖",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "伍月蘭",
+	"democrat_organization": "公民黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/janet.ng.5074",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "深水埗區",
+	"code": "F17",
+	"name": "美孚北",
+	"estab_contestant": "張永森",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "李俊晞",
+	"democrat_organization": "公民黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/JoshuaChunHei/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
 	"district": "離島區",
 	"code": "T10",
 	"name": "長洲",
