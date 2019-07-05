@@ -7,14 +7,14 @@
 	"estab_organization": "民建聯",
 	"democrat_contestant": "(待定)",
 	"democrat_organization": "(待定)",
-	"organization": {
+	"organization": [{
 		"name": "(待定)",
 		"fbpage": "",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E02",
@@ -23,14 +23,14 @@
 	"estab_organization": "民建聯",
 	"democrat_contestant": "李穎妍",
 	"democrat_organization": "民主黨",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/cindyliwingyin/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E03",
@@ -39,14 +39,14 @@
 	"estab_organization": "經民聯",
 	"democrat_contestant": "朱慧芳",
 	"democrat_organization": "佐敦有晴",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "佐敦有晴",
 		"fbpage": "https://www.facebook.com/佐敦有晴-284959705753053/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E04",
@@ -55,14 +55,21 @@
 	"estab_organization": "經民聯",
 	"democrat_contestant": "胡穗珊",
 	"democrat_organization": "社區前進",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/wusuishan/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "社區前進",
 		"fbpage": "https://www.facebook.com/communitymarch/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E05",
@@ -71,14 +78,14 @@
 	"estab_organization": "民建聯",
 	"democrat_contestant": "李偉峰",
 	"democrat_organization": "民主黨",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/LeeWaiFung2011/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E06",
@@ -87,14 +94,14 @@
 	"estab_organization": "西九新動力",
 	"democrat_contestant": "陳源彬",
 	"democrat_organization": "獨立",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/yuenpan.chan.3",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E07",
@@ -103,14 +110,14 @@
 	"estab_organization": "西九新動力",
 	"democrat_contestant": "余德寶",
 	"democrat_organization": "公民黨",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/YuTakPoANDY/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E08",
@@ -119,14 +126,14 @@
 	"estab_organization": "西九新動力",
 	"democrat_contestant": "涂謹申",
 	"democrat_organization": "民主黨",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/ToKunSun/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E09",
@@ -135,14 +142,14 @@
 	"estab_organization": "西九新動力",
 	"democrat_contestant": "伍僥敏",
 	"democrat_organization": "公民黨",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/Gloria-Ng-伍僥敏-1499974336748633/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E10",
@@ -151,14 +158,14 @@
 	"estab_organization": "民建聯",
 	"democrat_contestant": "曾自鳴",
 	"democrat_organization": "民主黨",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/曾自鳴-Tsang-Tsz-Ming-Douglas-191339784825319/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E11",
@@ -167,14 +174,14 @@
 	"estab_organization": "民建聯",
 	"democrat_contestant": "李傲然",
 	"democrat_organization": "獨立",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/owanliowanli/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E12",
@@ -183,14 +190,21 @@
 	"estab_organization": "經民聯",
 	"democrat_contestant": "李國權",
 	"democrat_organization": "社區前進",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/LeeKwokKuen/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	},{
+		"name": "社區前進",
+		"fbpage": "https://www.facebook.com/communitymarch/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E13",
@@ -199,14 +213,14 @@
 	"estab_organization": "經民聯",
 	"democrat_contestant": "吳志輝",
 	"democrat_organization": "社區前進",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "社區前進",
 		"fbpage": "https://www.facebook.com/communitymarch/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E14",
@@ -215,14 +229,21 @@
 	"estab_organization": "經民聯",
 	"democrat_contestant": "林兆彬",
 	"democrat_organization": "社區前進",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/orochi.ben.lam",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	},{
+		"name": "社區前進",
+		"fbpage": "https://www.facebook.com/communitymarch/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E15",
@@ -231,14 +252,21 @@
 	"estab_organization": "西九新動力",
 	"democrat_contestant": "朱江瑋",
 	"democrat_organization": "社區前進",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/旺角南朱江瑋-266002360722989/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	},{
+		"name": "社區前進",
+		"fbpage": "https://www.facebook.com/communitymarch/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E16",
@@ -247,14 +275,14 @@
 	"estab_organization": "西九新動力",
 	"democrat_contestant": "林健文",
 	"democrat_organization": "獨立",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/profile.php?id=100000740815383",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "123",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E17",
@@ -263,14 +291,14 @@
 	"estab_organization": "西九新動力",
 	"democrat_contestant": "朱子洛",
 	"democrat_organization": "民主黨",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/leochupage/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E18",
@@ -279,14 +307,14 @@
 	"estab_organization": "民建聯",
 	"democrat_contestant": "何富榮",
 	"democrat_organization": "佐敦同行",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "佐敦同行",
 		"fbpage": "https://www.facebook.com/jordanpeers2019/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E19",
@@ -295,14 +323,14 @@
 	"estab_organization": "民建聯",
 	"democrat_contestant": "陳梓維",
 	"democrat_organization": "獨立",
-	"organization": {
+	"organization": [{
 		"name": "",
 		"fbpage": "",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "油尖旺區",
 	"code": "E20",
@@ -311,14 +339,21 @@
 	"estab_organization": "民建聯",
 	"democrat_contestant": "賀卓軒",
 	"democrat_organization": "社區前進",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/isaachooo/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	},{
+		"name": "社區前進",
+		"fbpage": "https://www.facebook.com/communitymarch/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
 },{
 	"district": "深水埗區",
 	"code": "F01",
@@ -327,14 +362,14 @@
 	"estab_organization": "經民聯",
 	"democrat_contestant": "麥偉明",
 	"democrat_organization": "民協",
-	"organization": {
+	"organization": [{
 		"name": "",
 		"fbpage": "",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "深水埗區",
 	"code": "F02",
@@ -343,14 +378,14 @@
 	"estab_organization": "經民聯",
 	"democrat_contestant": "李文浩",
 	"democrat_organization": "長沙灣社區發展力量",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "長沙灣社區發展力量",
 		"fbpage": "https://www.facebook.com/cswpower",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "深水埗區",
 	"code": "F03",
@@ -359,14 +394,14 @@
 	"estab_organization": "民建聯",
 	"democrat_contestant": "盧德昌",
 	"democrat_organization": "大專政改關注組",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/Colinlotakcheong/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "深水埗區",
 	"code": "F04",
@@ -375,14 +410,14 @@
 	"estab_organization": "經民聯",
 	"democrat_contestant": "郭偉誠",
 	"democrat_organization": "獨立",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/kwokwaishing1221/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "深水埗區",
 	"code": "F05",
@@ -391,14 +426,14 @@
 	"estab_organization": "民建聯",
 	"democrat_contestant": "何啟明",
 	"democrat_organization": "民協",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/kalvinhokaiming/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "深水埗區",
 	"code": "F06",
@@ -407,14 +442,14 @@
 	"estab_organization": "勞聯",
 	"democrat_contestant": "李庭豐",
 	"democrat_organization": "民協",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/jaylitingfung/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "深水埗區",
 	"code": "F07",
@@ -423,14 +458,14 @@
 	"estab_organization": "民建聯",
 	"democrat_contestant": "",
 	"democrat_organization": "",
-	"organization": {
+	"organization": [{
 		"name": "",
 		"fbpage": "",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "深水埗區",
 	"code": "F08",
@@ -439,14 +474,14 @@
 	"estab_organization": "西九新動力",
 	"democrat_contestant": "衞煥南",
 	"democrat_organization": "民協",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/waiwoonnam/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "深水埗區",
 	"code": "F09",
@@ -455,14 +490,14 @@
 	"estab_organization": "經民聯",
 	"democrat_contestant": "黃傑朗",
 	"democrat_organization": "長沙灣西社區陣線",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "長沙灣西社區陣線",
 		"fbpage": "https://www.facebook.com/cswwfront/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "深水埗區",
 	"code": "F10",
@@ -471,14 +506,14 @@
 	"estab_organization": "民建聯 工聯會",
 	"democrat_contestant": "李炯",
 	"democrat_organization": "民協",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/RichardLiKwing/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "深水埗區",
 	"code": "F11",
@@ -487,14 +522,14 @@
 	"estab_organization": "民建聯",
 	"democrat_contestant": "徐溢軒",
 	"democrat_organization": "民協",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/TsuiRonald/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 },{
 	"district": "離島區",
 	"code": "T10",
@@ -503,13 +538,13 @@
 	"estab_organization": "民建聯",
 	"democrat_contestant": "梁國豪",
 	"democrat_organization": "朱凱廸團隊",
-	"organization": {
-		"name": "",
+	"organization": [{
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/leungkwokho01/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	}
+	}]
 }
 ]
