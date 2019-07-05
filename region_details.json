@@ -321,7 +321,103 @@
 	}
 },{
 	"district": "深水埗區",
+	"code": "F01",
+	"name": "寶麗",
+	"estab_contestant": "譚振宇",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "麥偉明",
+	"democrat_organization": "民協",
+	"organization": {
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "深水埗區",
+	"code": "F02",
+	"name": "長沙灣",
+	"estab_contestant": "龐朝輝",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "李文浩",
+	"democrat_organization": "長沙灣社區發展力量",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/cswpower",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "深水埗區",
+	"code": "F03",
+	"name": "南昌北",
+	"estab_contestant": "鄭泳舜",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "盧德昌",
+	"democrat_organization": "大專政改關注組",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/Colinlotakcheong/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "深水埗區",
+	"code": "F04",
+	"name": "石硤尾",
+	"estab_contestant": "陳國偉",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "郭偉誠",
+	"democrat_organization": "獨立",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/kwokwaishing1221/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "深水埗區",
+	"code": "F05",
+	"name": "南昌東",
+	"estab_contestant": "陳龍傑",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "何啟明",
+	"democrat_organization": "民協",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/kalvinhokaiming/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "深水埗區",
 	"code": "F06",
+	"name": "南昌南",
+	"estab_contestant": "李詠民",
+	"estab_organization": "勞聯",
+	"democrat_contestant": "李庭豐",
+	"democrat_organization": "民協",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/jaylitingfung/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "深水埗區",
+	"code": "F07",
 	"name": "南昌中",
 	"estab_contestant": "劉佩玉",
 	"estab_organization": "民建聯",
@@ -330,6 +426,54 @@
 	"organization": {
 		"name": "",
 		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "深水埗區",
+	"code": "F08",
+	"name": "南昌西",
+	"estab_contestant": "夏泳迦",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "衞煥南",
+	"democrat_organization": "民協",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/waiwoonnam/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "深水埗區",
+	"code": "F09",
+	"name": "富昌",
+	"estab_contestant": "梁文廣",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "黃傑朗",
+	"democrat_organization": "長沙灣西社區陣線",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/cswwfront/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "深水埗區",
+	"code": "F10",
+	"name": "麗閣",
+	"estab_contestant": "陳穎欣",
+	"estab_organization": "民建聯 工聯會",
+	"democrat_contestant": "李炯",
+	"democrat_organization": "民協",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/RichardLiKwing/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
