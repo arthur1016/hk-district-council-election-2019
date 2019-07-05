@@ -531,6 +531,38 @@
 		"telephone": ""
 	}]
 },{
+	"district": "深水埗區",
+	"code": "F12",
+	"name": "碧匯",
+	"estab_contestant": "黃永威",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "鄒穎恒",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/zoewinghengchow/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "深水埗區",
+	"code": "F13",
+	"name": "荔枝角中",
+	"estab_contestant": "李祺逢",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "袁海文",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/yuenhoiman/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
 	"district": "離島區",
 	"code": "T10",
 	"name": "長洲",
