@@ -90,9 +90,9 @@
 	map.on('click', onRegionClick);
 		
 	function onRegionClick(e) {
-		if (e.originalEvent.originalTarget.classList.length == 2){
-			var region_code = e.originalEvent.originalTarget.classList[0];
-			
+		//console.log(e.originalEvent);
+		if (e.originalEvent.target.classList.length == 2){			
+			var region_code = e.originalEvent.target.classList[0];			
 			$.getJSON("./region_details.json", function(data) {
 				$.each(data, function(index, value) {
 					if(value.code == region_code){
