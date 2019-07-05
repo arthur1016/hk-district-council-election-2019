@@ -14,7 +14,7 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 	<style type="text/css">
 	#mapid {
-		height: 800px;
+		height: 750px;
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
@@ -25,9 +25,9 @@
 <body>
 	<h1 style="text-align: center;">2019年區議會一般選舉選區地圖</h1>
 	<h2 style="text-align: center;"><a target="_blank" href="https://www.facebook.com/%E5%8F%8D%E8%87%AA%E5%8B%95%E7%95%B6%E9%81%B8%E9%81%8B%E5%8B%95-2510455555631639/" >反自動當選運動 Facebook Page</a></h2>
-	<h2 style="text-align: center;"><a target="_blank" href="https://docs.google.com/spreadsheets/d/1ZYyCwTT7Yyx5wDpiB8eZVadha1e4f_Tsb_jddT42YPQ/edit#gid=1304213120" >2019區議會積極考慮參選名單
-</a></h2>
-	<h3 style="text-align: center;" id='entry_status'>1</h3>
+	<h2 style="text-align: center; margin-bottom: 10px;"><a target="_blank" href="https://docs.google.com/spreadsheets/d/1ZYyCwTT7Yyx5wDpiB8eZVadha1e4f_Tsb_jddT42YPQ/edit#gid=1304213120" >2019區議會積極考慮參選名單
+</a>(連登原帖傳送門：<a target="_blank" href="https://lihkg.com/thread/1255227/page/1">https://lihkg.com/thread/1255227/page/1</a>)</h2>
+	<h5 style="text-align: right; margin-right: 5%;" id='entry_status'>1</h5>
 	<!--<button style="" type="button" class="btn btn-danger btn-lg btn-block" onclick="contestedSeats()" id="showUncontestedOnly">只顯示自動當選選區</button> -->
 	<div style="" id="mapid"></div>
 	<script>
@@ -67,14 +67,14 @@
 				}
 			});
 		var d = new Date();
-		var datetime = d.getFullYear()+"年"+(d.getMonth() + 1)+"月"+d.getDate()+"日"+" "+d.getHours()+"時"+d.getMinutes()+"分";
+		var datetime = d.getFullYear()+"年"+(d.getMonth() + 1)+"月"+d.getDate()+"日"+d.getHours()+"時"+d.getMinutes()+"分";
 		$("#entry_status").html("截至" + datetime + ",已輸入" + allRegions.toString() + "/452個選區, 其中<span style='color: red;'>" + uncontestedRegions.toString() + "個選區</span>未有民主派候選人參選");
 		});		
 	}
 	</script>
 	<script>
 	//Ad-hoc parameters
-    var map = L.map('mapid').setView([22.31552, 114.16769], 16);
+    var map = L.map('mapid').setView([22.31552, 114.16769], 15);
 
 	//Base Map from OpenStreetMap
 	L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
