@@ -74,10 +74,10 @@
 	</script>
 	<script>
 	//Ad-hoc parameters for data entry
-    //var map = L.map('mapid').setView([22.33554, 114.157691], 15);
+    var map = L.map('mapid').setView([22.33554, 114.157691], 15);
 	
 	//Center of HK for use
-	var map = L.map('mapid').setView([22.354554, 114.161682], 11);
+	//var map = L.map('mapid').setView([22.354554, 114.161682], 11);
 	
 	//Base Map from OpenStreetMap
 	L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
@@ -101,9 +101,9 @@
 		console.log(e);
 		popup.setLatLng(e.latlng).setContent("You clicked the map at " + e.latlng.toString()).openOn(map);
 	}
-	//map.on('click', onMapClick);
+	map.on('click', onMapClick);
 	
-	map.on('click', onRegionClick);
+	//map.on('click', onRegionClick);
 		
 	function onRegionClick(e) {
 		//console.log(e.originalEvent);
