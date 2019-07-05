@@ -14,7 +14,7 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 	<style type="text/css">
 	#mapid {
-		height: 750px;
+		height: 710px;
 		display: block;
 		margin-left: auto;
 		margin-right: auto;
@@ -68,17 +68,20 @@
 			});
 		var d = new Date();
 		var datetime = d.getFullYear()+"年"+(d.getMonth() + 1)+"月"+d.getDate()+"日"+d.getHours()+"時"+d.getMinutes()+"分";
-		$("#entry_status").html("截至" + datetime + ",已輸入" + allRegions.toString() + "/452個選區, 其中<span style='color: red;'>" + uncontestedRegions.toString() + "個選區</span>未有民主派候選人參選");
+		$("#entry_status").html("截至" + datetime + ",已輸入" + allRegions.toString() + "/452個選區, 其中<span style='color: red;'>" + uncontestedRegions.toString() + "個選區</span>有機會由建制派自動當選。");
 		});		
 	}
 	</script>
 	<script>
-	//Ad-hoc parameters
+	//Ad-hoc parameters for data entry
     var map = L.map('mapid').setView([22.31552, 114.16769], 15);
-
+	
+	//Center of HK for use
+	//var map = L.map('mapid').setView([22.354554, 114.161682], 11);
+	
 	//Base Map from OpenStreetMap
 	L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+    attribution: '&copy; <a target="_blank" href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 	}).addTo(map);
 
 	//Base JSON
@@ -98,9 +101,9 @@
 		console.log(e);
 		popup.setLatLng(e.latlng).setContent("You clicked the map at " + e.latlng.toString()).openOn(map);
 	}
-	//map.on('click', onMapClick);
+	map.on('click', onMapClick);
 	
-	map.on('click', onRegionClick);
+	//map.on('click', onRegionClick);
 		
 	function onRegionClick(e) {
 		//console.log(e.originalEvent);
@@ -114,9 +117,9 @@
 						"地區：" + value.district + "<br/>" +
 						"選區編號：" + value.code + "<br/>" +
 						"選區名稱：" + value.name + "<br/>" +
-						"建制派候選人：" + value.estab_contestant + "(" + value.estab_organization + ")<br/>";
+						"建制派擬參選人：" + value.estab_contestant + "(" + value.estab_organization + ")<br/>";
 					if (!!value.democrat_contestant){					
-						region_content = region_content + "民主派候選人：" + value.democrat_contestant + "(" + value.democrat_organization + ")<br/>";
+						region_content = region_content + "民主派擬參選人：" + value.democrat_contestant + "(" + value.democrat_organization + ")<br/>";
 					} else {
 						region_content = region_content + "<span style='color: red;'><strong>未有民主派候選人！</strong></span><br/>"
 					}
@@ -130,7 +133,7 @@
 						if (!!value.organization.whatsapp) {organzation_content = organzation_content + "Whatsapp：" + value.organization.whatsapp + "<br/>"}
 						if (!!value.organization.telephone) {organzation_content = organzation_content + "電話號碼：" + value.organization.telephone + "<br/>"}
 					} else {
-						organzation_content = "<br/><strong>有意競選市民,請聯絡<a target='_blank' href='https://www.facebook.com/pg/反自動當選運動-2510455555631639'>反自動當選運動</a></strong><br/>";
+						organzation_content = "<br/><strong>有意參選市民,請聯絡<a target='_blank' href='https://www.facebook.com/pg/反自動當選運動-2510455555631639'>反自動當選運動</a></strong><br/>";
 					}
 					
 					popup.setLatLng(e.latlng).setContent(region_content + organzation_content).openOn(map);	
@@ -140,5 +143,7 @@
 		}
 	}	
 	</script>
+	<div style="text-align: left; margin-left: 5%; margin-right: 5%;"><small>頭盔： 本地圖來自<a target="_blank" href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>及<a target="_blank" href="https://www.eac.hk/ch/distco/2019dc_elect_map.htm">選管會2019年區議會一般選舉選區分界圖</a>，而各擬參選人的資訊則來自網路上的公開資料。本網頁<strong>不保證</strong>資料的正確性。為免觸犯選舉法例，2019年區議會一般選舉的提名期開始後，本網頁所有參選人的資料將會被消除，各位市民可按照自己的意願參與社區義工服務。如有問題/意見請聯絡<em>1155105730[at]link[dot]cuhk[dot]edu[dot]hk</em>。</small></div>
+	<div style="text-align: center"><small><strong>勿忘行動訴求:  完全撤回逃犯修例  追究警方開槍責任  不檢控及釋放所有示威者  撤銷定性6月12日集會為暴動  林鄭月娥問責下台  立即重啓政改實行行政長官立法會雙普選</strong></small></div>
 </body>
 </html>
