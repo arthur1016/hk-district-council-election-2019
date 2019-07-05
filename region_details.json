@@ -480,6 +480,22 @@
 		"telephone": ""
 	}
 },{
+	"district": "深水埗區",
+	"code": "F11",
+	"name": "幸福",
+	"estab_contestant": "張德偉",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "徐溢軒",
+	"democrat_organization": "民協",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/TsuiRonald/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
 	"district": "離島區",
 	"code": "T10",
 	"name": "長洲",
