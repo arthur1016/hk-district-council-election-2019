@@ -1,0 +1,67 @@
+[
+{
+	"district": "油尖旺區",
+	"code": "E06",
+	"name": "旺角西",
+	"estab_contestant": "許德亮",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "陳源彬",
+	"democrat_organization": "獨立",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/yuenpan.chan.3",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
+	"code": "E16",
+	"name": "油麻地北",
+	"estab_contestant": "李文傑",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "林健文",
+	"democrat_organization": "獨立",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/profile.php?id=100000740815383",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "123",
+		"telephone": ""
+	}
+},{
+	"district": "深水埗區",
+	"code": "F06",
+	"name": "南昌中",
+	"estab_contestant": "劉佩玉",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": {
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "離島區",
+	"code": "T10",
+	"name": "長洲",
+	"estab_contestant": "郭慧文",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "梁國豪",
+	"democrat_organization": "朱凱廸團隊",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/leungkwokho01/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+}
+]
