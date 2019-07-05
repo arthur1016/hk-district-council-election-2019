@@ -1,6 +1,86 @@
 [
 {
 	"district": "油尖旺區",
+	"code": "E01",
+	"name": "尖沙咀西",
+	"estab_contestant": "潘景和",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": {
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
+	"code": "E02",
+	"name": "九龍站",
+	"estab_contestant": "孔昭華",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "李穎妍",
+	"democrat_organization": "民主黨",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/cindyliwingyin/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
+	"code": "E03",
+	"name": "佐敦西",
+	"estab_contestant": "陳少棠",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "朱慧芳",
+	"democrat_organization": "佐敦有晴",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/佐敦有晴-284959705753053/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
+	"code": "E04",
+	"name": "油麻地南",
+	"estab_contestant": "楊子熙",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "胡穗珊",
+	"democrat_organization": "社區前進",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/communitymarch/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
+	"code": "E05",
+	"name": "富榮",
+	"estab_contestant": "鍾港武",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "李偉峰",
+	"democrat_organization": "民主黨",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/LeeWaiFung2011/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
 	"code": "E06",
 	"name": "旺角西",
 	"estab_contestant": "許德亮",
@@ -10,6 +90,150 @@
 	"organization": {
 		"name": "",
 		"fbpage": "https://www.facebook.com/yuenpan.chan.3",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
+	"code": "E07",
+	"name": "富柏",
+	"estab_contestant": "陳德立",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "余德寶",
+	"democrat_organization": "公民黨",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/YuTakPoANDY/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
+	"code": "E08",
+	"name": "奧運",
+	"estab_contestant": "伍嘉敏",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "涂謹申",
+	"democrat_organization": "民主黨",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/ToKunSun/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
+	"code": "E09",
+	"name": "櫻桃",
+	"estab_contestant": "鍾澤暉",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "伍僥敏",
+	"democrat_organization": "公民黨",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/Gloria-Ng-伍僥敏-1499974336748633/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
+	"code": "E10",
+	"name": "大角咀南",
+	"estab_contestant": "蔡少峰",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "曾自鳴",
+	"democrat_organization": "民主黨",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/曾自鳴-Tsang-Tsz-Ming-Douglas-191339784825319/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
+	"code": "E11",
+	"name": "大角咀北",
+	"estab_contestant": "劉柏祺",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "李傲然",
+	"democrat_organization": "獨立",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/owanliowanli/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
+	"code": "E12",
+	"name": "大南",
+	"estab_contestant": "李思敏",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "李國權",
+	"democrat_organization": "社區前進",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/LeeKwokKuen/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
+	"code": "E13",
+	"name": "旺角北",
+	"estab_contestant": "黃舒明",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "吳志輝",
+	"democrat_organization": "社區前進",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/communitymarch/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
+	"code": "E14",
+	"name": "旺角東",
+	"estab_contestant": "黃建新",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "林兆彬",
+	"democrat_organization": "社區前進",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/orochi.ben.lam",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
+	"code": "E15",
+	"name": "旺角南",
+	"estab_contestant": "仇振輝",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "朱江瑋",
+	"democrat_organization": "社區前進",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/旺角南朱江瑋-266002360722989/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
@@ -29,6 +253,70 @@
 		"telegram": "",
 		"email": "",
 		"whatsapp": "123",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
+	"code": "E17",
+	"name": "尖東及京士柏",
+	"estab_contestant": "鄧銘心",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "朱子洛",
+	"democrat_organization": "民主黨",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/leochupage/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
+	"code": "E18",
+	"name": "佐敦北",
+	"estab_contestant": "楊鎮華",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "何富榮",
+	"democrat_organization": "佐敦同行",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/jordanpeers2019/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
+	"code": "E19",
+	"name": "佐敦南",
+	"estab_contestant": "葉傲冬",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "陳梓維",
+	"democrat_organization": "獨立",
+	"organization": {
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}
+},{
+	"district": "油尖旺區",
+	"code": "E20",
+	"name": "尖沙咀中",
+	"estab_contestant": "關秀玲",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "賀卓軒",
+	"democrat_organization": "社區前進",
+	"organization": {
+		"name": "",
+		"fbpage": "https://www.facebook.com/isaachooo/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
 		"telephone": ""
 	}
 },{
