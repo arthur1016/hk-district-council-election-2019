@@ -23,8 +23,12 @@
 	</style>
 </head>
 <body>
-	<h1 style="text-align: center;">2019年區議會一般選舉 - 反自動當選運動</h1>
-	<button style="" type="button" class="btn btn-danger btn-lg btn-block" onclick="contestedSeats()" id="showUncontestedOnly">只顯示自動當選選區</button> 
+	<h1 style="text-align: center;">2019年區議會一般選舉選區地圖</h1>
+	<h2 style="text-align: center;"><a target="_blank" href="https://www.facebook.com/%E5%8F%8D%E8%87%AA%E5%8B%95%E7%95%B6%E9%81%B8%E9%81%8B%E5%8B%95-2510455555631639/" >反自動當選運動 Facebook Page</a></h2>
+	<h2 style="text-align: center;"><a target="_blank" href="https://docs.google.com/spreadsheets/d/1ZYyCwTT7Yyx5wDpiB8eZVadha1e4f_Tsb_jddT42YPQ/edit#gid=1304213120" >2019區議會積極考慮參選名單
+</a></h2>
+	<h3 style="text-align: center;" id='entry_status'>1</h3>
+	<!--<button style="" type="button" class="btn btn-danger btn-lg btn-block" onclick="contestedSeats()" id="showUncontestedOnly">只顯示自動當選選區</button> -->
 	<div style="" id="mapid"></div>
 	<script>
 	//Functions
@@ -47,16 +51,25 @@
 	
 	function showRegions(path, showUncontestedSeatsOnly) {
 		$.getJSON(path, function(data) {
+			var allRegions = 0;
+			var uncontestedRegions = 0;
 			$.each(data, function(index, value) {
-				if(!showUncontestedSeatsOnly){ //Show All Seats
+				/*if(!showUncontestedSeatsOnly){ //Show All Seats
 					L.polygon([value.points], {className: value.code}).addTo(map);
-				} else if(value.isUncontested){ //Only Show Uncontested Seats
+				} else*/
+				allRegions = allRegions + 1;
+				if(value.isUncontested){ //Only Show Uncontested Seats
 					L.polygon([value.points], {className: value.code, color:"#FF0000"}).addTo(map);
+					uncontestedRegions = uncontestedRegions + 1;
 				} else {
+					L.polygon([value.points], {className: value.code}).addTo(map);
 					//The Contested Seats are not shown
 				}
 			});
-		});
+		var d = new Date();
+		var datetime = d.getFullYear()+"年"+(d.getMonth() + 1)+"月"+d.getDate()+"日"+" "+d.getHours()+"時"+d.getMinutes()+"分";
+		$("#entry_status").html("截至" + datetime + ",已輸入" + allRegions.toString() + "/452個選區, 其中<span style='color: red;'>" + uncontestedRegions.toString() + "個選區</span>未有民主派候選人參選");
+		});		
 	}
 	</script>
 	<script>
