@@ -1191,6 +1191,150 @@
 	}]
 },{
 	"district": "離島區",
+	"code": "T01",
+	"name": "大嶼山",
+	"estab_contestant": "余漢坤",
+	"estab_organization": "獨立",
+	"democrat_contestant": "馮小燕",
+	"democrat_organization": "朱凱廸團隊",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "離島區",
+	"code": "T02",
+	"name": "滿逸",
+	"estab_contestant": "王俊傑",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "郭平",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "離島區",
+	"code": "T03",
+	"name": "逸東邨北",
+	"estab_contestant": "劉展鵬",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "方龍飛",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "離島區",
+	"code": "T04",
+	"name": "東涌南",
+	"estab_contestant": "周浩鼎",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "王進洋",
+	"democrat_organization": "東涌人",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "離島區",
+	"code": "T05",
+	"name": "東涌中",
+	"estab_contestant": "傅曉琳",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "李嘉豪",
+	"democrat_organization": "公民黨",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "離島區",
+	"code": "T06",
+	"name": "東涌北",
+	"estab_contestant": "葉培基",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "蔡耀昌",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "離島區",
+	"code": "T07",
+	"name": "愉景灣",
+	"estab_contestant": "趙德威",
+	"estab_organization": "獨立",
+	"democrat_contestant": "容詠嫦",
+	"democrat_organization": "公民黨",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "離島區",
+	"code": "T08",
+	"name": "坪洲及喜靈洲",
+	"estab_contestant": "曾秀好",
+	"estab_organization": "獨立",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "離島區",
+	"code": "T09",
+	"name": "南丫及蒲台",
+	"estab_contestant": "余麗芬",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "離島區",
 	"code": "T10",
 	"name": "長洲",
 	"estab_contestant": "郭慧文",
