@@ -851,6 +851,265 @@
 		"telephone": ""
 	}]
 },{
+	"district": "九龍城區",
+	"code": "G07",
+	"name": "何文田",
+	"estab_contestant": "鄭利明",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "馮文韜",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/joshuafungmantao/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G08",
+	"name": "嘉道理",
+	"estab_contestant": "黃文港",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "蕭亮聲",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/SiuLeongSingOfficial/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G09",
+	"name": "太子",
+	"estab_contestant": "丁建華",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "黃國桐",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/wongkwoktung",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G10",
+	"name": "九龍塘",
+	"estab_contestant": "何顯明",
+	"estab_organization": "自由黨",
+	"democrat_contestant": "溫仲然",
+	"democrat_organization": "公民黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/cywanmatthew/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G11",
+	"name": "龍城",
+	"estab_contestant": "吳寶強",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "馮達浚",
+	"democrat_organization": "九龍城大小事",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/frankiefung.hk",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/klcmatters/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G12",
+	"name": "啟德北",
+	"estab_contestant": "梁婉婷",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G13",
+	"name": "啟德東",
+	"estab_contestant": "何華漢",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G14",
+	"name": "啟德中及南",
+	"estab_contestant": "張景勛",
+	"estab_organization": "自由黨",
+	"democrat_contestant": "梁咏欣",
+	"democrat_organization": "公民黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/梁咏欣-Sandra-Leung-414955815900219/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G15",
+	"name": "海心",
+	"estab_contestant": "潘國華",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "曾穎彤",
+	"democrat_organization": "九龍角落",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/nettetsangwt/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "九龍角落",
+		"fbpage": "https://www.facebook.com/synergykln.org/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G16",
+	"name": "土瓜灣北",
+	"estab_contestant": "李慧琼",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G17",
+	"name": "土瓜灣南",
+	"estab_contestant": "林博",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "李軒朗/黃綺婷",
+	"democrat_organization": "九龍角落/維修香港",
+	"organization": [{
+		"name": "李軒朗個人Facebook Page",
+		"fbpage": "https://www.facebook.com/timothyleehinlong/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "黃綺婷個人Facebook Page",
+		"fbpage": "https://www.facebook.com/ET.Wong2019/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "九龍角落",
+		"fbpage": "https://www.facebook.com/synergykln.org/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "維修香港",
+		"fbpage": "https://www.facebook.com/FixingHK/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G18",
+	"name": "鶴園海逸",
+	"estab_contestant": "余志榮",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "郭天立",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/RealTonyKwok/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G19",
+	"name": "黃埔東",
+	"estab_contestant": "李超宇",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "關家倫",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/Dr.Kwan/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G20",
+	"name": "黃埔西",
+	"estab_contestant": "鄭曉玲",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "鄺葆賢",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/apokwong",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
 	"district": "離島區",
 	"code": "T10",
 	"name": "長洲",
