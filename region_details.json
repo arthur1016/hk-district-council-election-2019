@@ -1190,6 +1190,470 @@
 		"telephone": ""
 	}]
 },{
+	"district": "西貢區",
+	"code": "Q01",
+	"name": "西貢市中心",
+	"estab_contestant": "吳仕福",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "梁衍忻",
+	"democrat_organization": "西貢鄉民",
+	"organization": [{
+		"name": "組織Facebook Page",
+		"fbpage": "https://www.facebook.com/SaiKungCommons/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q02",
+	"name": "白沙灣",
+	"estab_contestant": "陳權軍",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "何偉航",
+	"democrat_organization": "西貢鄉民",
+	"organization": [{
+		"name": "組織Facebook Page",
+		"fbpage": "https://www.facebook.com/SaiKungCommons/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q03",
+	"name": "西貢離島",
+	"estab_contestant": "李家良",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "陳嘉琳",
+	"democrat_organization": "西貢鄉民",
+	"organization": [{
+		"name": "組織Facebook Page",
+		"fbpage": "https://www.facebook.com/SaiKungCommons/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q04",
+	"name": "坑口東",
+	"estab_contestant": "劉偉章",
+	"estab_organization": "新界社團聯會",
+	"democrat_contestant": "李賢浩",
+	"democrat_organization": "將軍澳民生關注組",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q05",
+	"name": "坑口西",
+	"estab_contestant": "邱浩麟",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q06",
+	"name": "彩健",
+	"estab_contestant": "何民傑",
+	"estab_organization": "獨立",
+	"democrat_contestant": "黃炳雄",
+	"democrat_organization": "將軍澳民生關注組",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/tommy.li.50364",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q07",
+	"name": "健明",
+	"estab_contestant": "何博浩",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "梁里",
+	"democrat_organization": "新民主同盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/%E6%A2%81%E9%87%8C-199422220126900/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q08",
+	"name": "都善",
+	"estab_contestant": "張展鵬",
+	"estab_organization": "專業動力",
+	"democrat_contestant": "李栢棠",
+	"democrat_organization": "將軍澳民生關注組",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/tommy.li.50364",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q09",
+	"name": "維景",
+	"estab_contestant": "陳繼偉",
+	"estab_organization": "專業動力",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q10",
+	"name": "海晉",
+	"estab_contestant": "林樂儀",
+	"estab_organization": "專業動力",
+	"democrat_contestant": "黎煒棠",
+	"democrat_organization": "新民主同盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/ivanlaitko/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q11",
+	"name": "寶怡",
+	"estab_contestant": "朱琳",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "謝正楓",
+	"democrat_organization": "將軍澳民生關注組",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/edmondtcf/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q12",
+	"name": "富君",
+	"estab_contestant": "黃遠康",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "陸平才",
+	"democrat_organization": "將軍澳民生關注組",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q13",
+	"name": "澳唐",
+	"estab_contestant": "林志達",
+	"estab_organization": "專業動力",
+	"democrat_contestant": "呂文光",
+	"democrat_organization": "新民主同盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/luimankwong",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q14",
+	"name": "尚德",
+	"estab_contestant": "簡兆祺",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "葉嘉榮",
+	"democrat_organization": "將軍澳民生關注組",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/KelvinYipSocial/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q15",
+	"name": "廣明",
+	"estab_contestant": "莊元苳",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "柯耀林",
+	"democrat_organization": "將軍澳民生關注組",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/rickyor.TKO/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q16",
+	"name": "康景",
+	"estab_contestant": "陳健浚",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "林少忠",
+	"democrat_organization": "新民主同盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%9E%97%E5%B0%91%E5%BF%A0-347772265294658/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q17",
+	"name": "翠林",
+	"estab_contestant": "譚領律",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "蔡明禧",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q18",
+	"name": "寶林",
+	"estab_contestant": "譚竹君",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "馮君安",
+	"democrat_organization": "新民主同盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/kwanonpolam/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q19",
+	"name": "欣英",
+	"estab_contestant": "李國邦",
+	"estab_organization": "獨立",
+	"democrat_contestant": "鍾錦麟",
+	"democrat_organization": "新民主同盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/tkokamlun/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q20",
+	"name": "慧茵",
+	"estab_contestant": "吳家竣",
+	"estab_organization": "獨立",
+	"democrat_contestant": "秦海城",
+	"democrat_organization": "新民主同盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/HenryChunND/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q21",
+	"name": "運亨",
+	"estab_contestant": "溫佩麟",
+	"estab_organization": "獨立",
+	"democrat_contestant": "范國威",
+	"democrat_organization": "新民主同盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/%E8%8C%83%E5%9C%8B%E5%A8%81-Gary-Fan-124853124283126/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q22",
+	"name": "景林",
+	"estab_contestant": "溫啟明",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "林咏然",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q23",
+	"name": "厚德",
+	"estab_contestant": "莫繡安",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "王卓雅",
+	"democrat_organization": "將軍澳民生關注組",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/Valeriewongcn/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q24",
+	"name": "富藍",
+	"estab_contestant": "陳博智",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "陳耀初",
+	"democrat_organization": "將軍澳民生關注組",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/andrew.chan.tko/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q25",
+	"name": "德明",
+	"estab_contestant": "陳志豪",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "鄭仲文",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/%E9%84%AD%E4%BB%B2%E6%96%87-694207447623793/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q26",
+	"name": "南安",
+	"estab_contestant": "陳宇婷",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "周賢明",
+	"democrat_organization": "將軍澳民生關注組",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/%E5%91%A8%E8%B3%A2%E6%98%8E%E8%AD%B0%E5%93%A1%E8%BE%A6%E4%BA%8B%E8%99%95-135005043328699/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q27",
+	"name": "軍寶",
+	"estab_contestant": "李嘉欣",
+	"estab_organization": "獨立",
+	"democrat_contestant": "黎銘澤",
+	"democrat_organization": "新民主同盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/jackylaimingchak/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q28",
+	"name": "環保北",
+	"estab_contestant": "方國珊",
+	"estab_organization": "專業動力",
+	"democrat_contestant": "陳展浚",
+	"democrat_organization": "將軍澳民生關注組",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/%E9%99%B3%E5%B1%95%E6%B5%9A-%E5%A7%9C%E6%96%B0%E8%8F%AF-522831511411070/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "西貢區",
+	"code": "Q",
+	"name": "環保南",
+	"estab_contestant": "張美雄",
+	"estab_organization": "專業動力",
+	"democrat_contestant": "姜新華",
+	"democrat_organization": "將軍澳民生關注組",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/%E9%99%B3%E5%B1%95%E6%B5%9A-%E5%A7%9C%E6%96%B0%E8%8F%AF-522831511411070/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
 	"district": "沙田區",
 	"code": "R01",
 	"name": "沙田市中心",
@@ -1206,7 +1670,6 @@
 		"telephone": ""
 	}]
 },{
-
 	"district": "沙田區",
 	"code": "R02",
 	"name": "瀝源",
