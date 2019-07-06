@@ -1110,6 +1110,86 @@
 		"telephone": ""
 	}]
 },{
+	"district": "九龍城區",
+	"code": "G21",
+	"name": "紅磡灣",
+	"estab_contestant": "黃馳",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "葉健榮/任國棟",
+	"democrat_organization": "紅土家/民主黨",
+	"organization": [{
+		"name": "紅土家",
+		"fbpage": "https://www.facebook.com/HungToAlliance/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G22",
+	"name": "紅磡",
+	"estab_contestant": "林德成",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G23",
+	"name": "家維",
+	"estab_contestant": "勞超傑",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "周熙雯",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/周熙雯-Emily-Chau-1998842407018361/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G24",
+	"name": "愛民",
+	"estab_contestant": "吳奮金",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "陳麗君",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G25",
+	"name": "愛俊",
+	"estab_contestant": "左滙雄",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "麥瑞淇",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/麥瑞淇-Jakki-Mak-366556590466624/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
 	"district": "離島區",
 	"code": "T10",
 	"name": "長洲",
