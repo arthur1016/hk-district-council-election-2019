@@ -1,6 +1,7 @@
 <!doctype html>
 <html>
 <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 </head>
 <body>
     <p>Usage: Paste the response from curl in textarea.</p>
@@ -35,15 +36,14 @@
         var str = "";
         source.forEach((s) => {
             var result = proj4('EPSG:2326', 'EPSG:4326', s);
-            str += `[${result[1]}, ${result[0]}],\n`;
+            str += `\t\t[${result[1]}, ${result[0]}],\n`;
         });
         document.getElementById("result").innerHTML = `
 <pre>
-{<br />
-    "district": "",
+    "district": "xx區",
     "code": "${data.features[0].attributes.CACODE}",
     "name": "",
-    "isUncontested": null,
+    "isUncontested": false,
     "points": [\n${str}\n]
 },{
 </pre>`;
