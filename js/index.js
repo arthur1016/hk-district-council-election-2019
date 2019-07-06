@@ -43,7 +43,7 @@ function showRegions(path, showUncontestedSeatsOnly) {
 
 
 //Ad-hoc parameters for data entry
-//var map = L.map('mapid').setView([22.33554, 114.157691], 15);
+//var map = L.map('mapid').setView([22.320638, 114.194829], 14);
 
 //Center of HK for use
 var map = L.map('mapid').setView([22.354554, 114.161682], 11);
@@ -88,9 +88,9 @@ function onRegionClick(e) {
                         "地區：" + value.district + "<br/>" +
                         "選區編號：" + value.code + "<br/>" +
                         "選區名稱：" + value.name + "<br/>" +
-                        "建制派擬參選人：" + value.estab_contestant + "(" + value.estab_organization + ")<br/>";
+                        "建制派擬參選人：" + value.estab_contestant + " (" + value.estab_organization + ")<br/>";
                     if (!!value.democrat_contestant) {
-                        region_content = region_content + "民主派擬參選人：" + value.democrat_contestant + "(" + value.democrat_organization + ")<br/>";
+                        region_content = region_content + "民主派擬參選人：" + value.democrat_contestant + " (" + value.democrat_organization + ")<br/>";
                     } else {
                         region_content = region_content + "<span style='color: red;'><strong>未有民主派候選人！</strong></span><br/>"
                     }

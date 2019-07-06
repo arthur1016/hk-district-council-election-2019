@@ -747,8 +747,104 @@
 	"democrat_contestant": "譚國僑",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "",
+		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/tamkwokkiu2016/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G01",
+	"name": "馬頭圍",
+	"estab_contestant": "邵天虹",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "曾健超",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/KENTsangKinChiu/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G02",
+	"name": "宋皇臺",
+	"estab_contestant": "(待定)",
+	"estab_organization": "(待定)",
+	"democrat_contestant": "楊振宇",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/ronaldo.yeung.1",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G03",
+	"name": "馬坑涌",
+	"estab_contestant": "鄧巧彤",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "黎廣偉",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/kennylaikw/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G04",
+	"name": "馬頭角",
+	"estab_contestant": "關浩洋",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "馬希鵬",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G05",
+	"name": "樂民",
+	"estab_contestant": "楊永杰",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "林正軒",
+	"democrat_organization": "香港本土",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/klcityvincent/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "九龍城區",
+	"code": "G06",
+	"name": "常樂",
+	"estab_contestant": "陸勁光",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "黃永傑",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/wongwingkit.hmt/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
