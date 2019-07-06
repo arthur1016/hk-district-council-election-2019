@@ -4,9 +4,11 @@
 </head>
 <body>
     <p>Usage: Paste the response from curl in textarea.</p>
+    <p>Update the code highlighed in red to get different disctricts</p>
+    <p>Curl GUI tool: <a href="https://www.getpostman.com/">Postman</a></p>
     <pre>
             curl -X GET \
-            'https://www.map.gov.hk/arcgis2/rest/services/rGeoInfoMap/rgeo_highlight_d00/MapServer/10/query?f=json&maxAllowableOffset=0.25&resultOffset=0&resultRecordCount=1000&where=CACODE%20=%20%28%27A01%27%29&outFields=CACODE%2COBJECTID&outSR=2326&spatialRel=esriSpatialRelIntersects' \
+            'https://www.map.gov.hk/arcgis2/rest/services/rGeoInfoMap/rgeo_highlight_d00/MapServer/10/query?f=json&maxAllowableOffset=0.25&resultOffset=0&resultRecordCount=1000&where=CACODE%20=%20%28%27<span style="color:red;font-weight:bold">A01</span>%27%29&outFields=CACODE%2COBJECTID&outSR=2326&spatialRel=esriSpatialRelIntersects' \
             -H 'Accept: */*' \
             -H 'Accept-Encoding: gzip, deflate, br' \
             -H 'Accept-Language: en,zh-TW;q=0.9,zh;q=0.8,zh-CN;q=0.7' \
