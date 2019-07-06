@@ -1516,7 +1516,7 @@
 },{
 	"district": "離島區",
 	"code": "T01",
-	"name": "",
+	"name": "大嶼山",
 	"isUncontested": false,
 	"points": [
 		[22.28481373624904, 113.99143976326322],
@@ -1850,7 +1850,7 @@
 },{
 	"district": "離島區",
 	"code": "T02",
-	"name": "",
+	"name": "滿逸",
 	"isUncontested": false,
 	"points": [
 		[22.2821539538395, 113.93629323057513],
@@ -1996,7 +1996,7 @@
 },{
 	"district": "離島區",
 	"code": "T03",
-	"name": "",
+	"name": "逸東邨北",
 	"isUncontested": false,
 	"points": [
 		[22.28084867433639, 113.93678159566092],
@@ -2039,7 +2039,7 @@
 },{
 	"district": "離島區",
 	"code": "T04",
-	"name": "",
+	"name": "東涌南",
 	"isUncontested": false,
 	"points": [
 		[22.293948019173342, 113.94050638820194],
@@ -2134,7 +2134,7 @@
 },{
 	"district": "離島區",
     "code": "T05",
-    "name": "",
+    "name": "東涌中",
     "isUncontested": false,
     "points": [
 		[22.293020576245823, 113.95338216870056],
@@ -2223,7 +2223,7 @@
 },{
 	"district": "離島區",
     "code": "T06",
-    "name": "",
+    "name": "東涌北",
     "isUncontested": false,
     "points": [
 		[22.29150476527285, 113.94759799441466],
@@ -2417,7 +2417,7 @@
 },{	
 	"district": "離島區",
     "code": "T07",
-    "name": "",
+    "name": "愉景灣",
     "isUncontested": false,
     "points": [
 		[22.31253005023506, 114.07269291187622],
@@ -2641,7 +2641,7 @@
 },{
 	"district": "離島區",
     "code": "T08",
-    "name": "",
+    "name": "坪洲及喜靈洲",
     "isUncontested": true,
     "points": [
 		[22.294109531181775, 114.10989505177224],
@@ -2816,7 +2816,7 @@
 },{
 	"district": "離島區",
     "code": "T09",
-    "name": "",
+    "name": "南丫及蒲台",
     "isUncontested": true,
     "points": [
 		[22.269459713088562, 114.11014624104799],
@@ -2837,7 +2837,7 @@
 },{
 	"district": "離島區",
     "code": "T10",
-    "name": "",
+    "name": "長洲",
     "isUncontested": false,
     "points": [
 		[22.189574662378327, 114.0433657687248],
