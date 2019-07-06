@@ -456,10 +456,10 @@
 	"name": "南昌中",
 	"estab_contestant": "劉佩玉",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "",
-	"democrat_organization": "",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
 	"organization": [{
-		"name": "",
+		"name": "(待定)",
 		"fbpage": "",
 		"telegram": "",
 		"email": "",
@@ -621,6 +621,134 @@
 	"organization": [{
 		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/JoshuaChunHei/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "深水埗區",
+	"code": "F18",
+	"name": "荔枝角北",
+	"estab_contestant": "周晉輝",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "覃德誠",
+	"democrat_organization": "民協",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/chumtakshing/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "深水埗區",
+	"code": "F19",
+	"name": "元州",
+	"estab_contestant": "陳偉明",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "利瀚庭",
+	"democrat_organization": "民協",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/honting.lee",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "深水埗區",
+	"code": "F20",
+	"name": "蘇屋",
+	"estab_contestant": "何坤洲",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "陳銘基",
+	"democrat_organization": "民協",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/souksogood/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "深水埗區",
+	"code": "F21",
+	"name": "李鄭屋",
+	"estab_contestant": "陳鏡秋",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "江貴生",
+	"democrat_organization": "民協",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/lcukskong/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "深水埗區",
+	"code": "F22",
+	"name": "龍坪及上白田",
+	"estab_contestant": "羅國豪",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "吳美",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/adpl.coc",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "深水埗區",
+	"code": "F23",
+	"name": "下白田",
+	"estab_contestant": "甄啟榮",
+	"estab_organization": "獨立",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "深水埗區",
+	"code": "F24",
+	"name": "又一村",
+	"estab_contestant": "李梓敬",
+	"estab_organization": "自由黨",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "深水埗區",
+	"code": "F25",
+	"name": "南山、大坑東及大坑西",
+	"estab_contestant": "陳麗紅",
+	"estab_organization": "西九新動力",
+	"democrat_contestant": "譚國僑",
+	"democrat_organization": "民協",
+	"organization": [{
+		"name": "",
+		"fbpage": "https://www.facebook.com/tamkwokkiu2016/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
