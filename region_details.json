@@ -1,5 +1,266 @@
 [
 {
+	"district": "中西區",
+    "code": "A01",
+    "name": "中環",
+	"estab_contestant": "黃鐘蔚",
+	"estab_organization": "獨立",
+	"democrat_contestant": "許智峯",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/huichifung913/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "中西區",
+    "code": "A02",
+    "name": "半山東",
+	"estab_contestant": "莫淦森",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "吳兆康",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/siuhongng/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "中西區",
+    "code": "A03",
+    "name": "衛城",
+	"estab_contestant": "馮家亮",
+	"estab_organization": "自由黨",
+	"democrat_contestant": "鄭麗琼",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/King-%E9%84%AD%E9%BA%97%E7%90%BC-Cheng-Lai-King-2125828711010749/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "中西區",
+    "code": "A04",
+    "name": "山頂",
+	"estab_contestant": "楊哲安",
+	"estab_organization": "自由黨",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "中西區",
+    "code": "A05",
+    "name": "大學",
+	"estab_contestant": "陳捷貴",
+	"estab_organization": "新論壇",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "中西區",
+    "code": "A06",
+    "name": "觀龍",
+	"estab_contestant": "楊開永",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "中西區",
+    "code": "A07",
+    "name": "堅摩",
+	"estab_contestant": "陳學鋒",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "黃健菁",
+	"democrat_organization": "守護堅城",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/CherryWongKC/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "守護堅城",
+		"fbpage": "https://www.facebook.com/protectktngp/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "中西區",
+    "code": "A08",
+    "name": "西環",
+	"estab_contestant": "張國鈞",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "彭家浩",
+	"democrat_organization": "維多利亞社區協會",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/kahosaiwan/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "維多利亞社區協會",
+		"fbpage": "https://www.facebook.com/HKVSA/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "中西區",
+    "code": "A09",
+    "name": "寶翠",
+	"estab_contestant": "葉永成",
+	"estab_organization": "香港島各界聯合會",
+	"democrat_contestant": "楊浩然",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/victor.yeung.180",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "中西區",
+    "code": "A10",
+    "name": "石塘咀",
+	"estab_contestant": "陳財喜/施永泰",
+	"estab_organization": "新論壇/民建聯",
+	"democrat_contestant": "葉錦龍",
+	"democrat_organization": "西環飛躍動力",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/hk.samyip/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "西環飛躍動力",
+		"fbpage": "https://zh-hk.facebook.com/iwdmhk/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "中西區",
+    "code": "A11",
+    "name": "石塘咀",
+	"estab_contestant": "劉天正",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "中西區",
+    "code": "A12",
+    "name": "上環",
+	"estab_contestant": "呂鴻賓",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "甘乃威",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/profile.php?id=1946752185653273&ref=br_rs",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "中西區",
+    "code": "A13",
+    "name": "東華",
+	"estab_contestant": "張嘉恩",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "伍凱欣",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/nghoiyan.official/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "中西區",
+    "code": "A14",
+    "name": "正街",
+	"estab_contestant": "李志恒",
+	"estab_organization": "香港島各界聯合會",
+	"democrat_contestant": "張啟昕",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/kycheungdphk/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "中西區",
+    "code": "A15",
+    "name": "正街",
+	"estab_contestant": "楊學明",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "何致宏",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://zh-hk.facebook.com/chiwangh",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
 	"district": "油尖旺區",
 	"code": "E01",
 	"name": "尖沙咀西",
