@@ -3919,6 +3919,537 @@
 		"telephone": ""
 	}]
 },{
+	"district": "屯門區",
+	"code": "L01",
+	"name": "屯門市中心",
+	"estab_contestant": "歐志遠/李彥儀",
+	"estab_organization": "新界社團聯會/民主思路",
+	"democrat_contestant": "黎駿穎",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/lai.alfredhk/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L02",
+	"name": "兆置",
+	"estab_contestant": "林阮輝",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "林頌鎧",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/profile.php?id=100017936798110",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L03",
+	"name": "安定",
+	"estab_contestant": "馮沛賢",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "黃泳希",
+	"democrat_organization": "民協",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/黃泳希-David-Wong-374212189766702/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L04",
+	"name": "兆翠",
+	"estab_contestant": "葉文斌",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "甄霈霖",
+	"democrat_organization": "朱凱廸團隊",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/profile.php?id=693724866&ref=br_rs",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L05",
+	"name": "友愛南",
+	"estab_contestant": "曾憲康",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "林健翔",
+	"democrat_organization": "工黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/林明恩-林健翔-辦事處-1724888254422013/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L06",
+	"name": "友愛北",
+	"estab_contestant": "葉俊遠",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "林明恩",
+	"democrat_organization": "工黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/林明恩-林健翔-辦事處-1724888254422013/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L07",
+	"name": "翠興",
+	"estab_contestant": "朱耀華/李根銘",
+	"estab_organization": "實政圓桌/獨立",
+	"democrat_contestant": "潘智鍵",
+	"democrat_organization": "屯門社區網絡",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/garypck/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "屯門社區網絡",
+		"fbpage": "https://www.facebook.com/HKTMCN/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L08",
+	"name": "山景",
+	"estab_contestant": "吳鍱佩",
+	"estab_organization": "獨立",
+	"democrat_contestant": "黃丹晴",
+	"democrat_organization": "屯門社區網絡",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/LemonWongHK/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "屯門社區網絡",
+		"fbpage": "https://www.facebook.com/HKTMCN/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L09",
+	"name": "景興",
+	"estab_contestant": "陳有海",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "羅焯勇",
+	"democrat_organization": "屯門社區網絡",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/羅焯勇-Cheukyunglaw-242757909656259/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "屯門社區網絡",
+		"fbpage": "https://www.facebook.com/HKTMCN/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L10",
+	"name": "興澤",
+	"estab_contestant": "徐帆",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "曾振興",
+	"democrat_organization": "屯門社區網絡",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/tmchristsang/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "屯門社區網絡",
+		"fbpage": "https://www.facebook.com/HKTMCN/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L11",
+	"name": "新墟",
+	"estab_contestant": "古漢強",
+	"estab_organization": "新界社團聯會",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L12",
+	"name": "掃管笏",
+	"estab_contestant": "劉啟文/陳家正",
+	"estab_organization": "實政圓桌/獨立",
+	"democrat_contestant": "馬旗",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/馬旗-Kee-MA-407162756704254/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L13",
+	"name": "三聖",
+	"estab_contestant": "葉劉淑儀",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "巫堃泰",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/MichaelKTMo/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L14",
+	"name": "恒福",
+	"estab_contestant": "方淳恩",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "朱順雅",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/profile.php?id=1424468444549917&ref=br_rs",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L15",
+	"name": "悅湖",
+	"estab_contestant": "張恒輝",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "黃虹銘",
+	"democrat_organization": "民協",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/ianwong.wisc",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L16",
+	"name": "兆禧",
+	"estab_contestant": "蔡承憲",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "甄紹南",
+	"democrat_organization": "民協",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/profile.php?id=100004772850064",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L17",
+	"name": "湖景",
+	"estab_contestant": "梁健文",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "周啟廉",
+	"democrat_organization": "民協",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/kailim.chow.92",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L18",
+	"name": "蝴蝶",
+	"estab_contestant": "鍾健峰",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "楊智恒",
+	"democrat_organization": "民協",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L19",
+	"name": "富新",
+	"estab_contestant": "甘文鋒",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L20",
+	"name": "樂翠",
+	"estab_contestant": "何君堯",
+	"estab_organization": "新論壇",
+	"democrat_contestant": "盧俊宇",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/cylo0421",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L21",
+	"name": "龍門",
+	"estab_contestant": "龍瑞卿",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "林偉基",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/lamwaikeidphk",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L22",
+	"name": "新景",
+	"estab_contestant": "陳暹恒",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "黃麗嫦",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L23",
+	"name": "良景",
+	"estab_contestant": "程志紅/鄧文傑",
+	"estab_organization": "民建聯/熱血公民",
+	"democrat_contestant": "王德源",
+	"democrat_organization": "屯門社區網絡",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/WONGTAKYUEN.OFFICIAL/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "屯門社區網絡",
+		"fbpage": "https://www.facebook.com/HKTMCN/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L24",
+	"name": "田景",
+	"estab_contestant": "李洪森/梁逸朗",
+	"estab_organization": "工聯會/熱血公民",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L25",
+	"name": "寶田",
+	"estab_contestant": "蘇嘉雯",
+	"estab_organization": "實政圓桌",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L26",
+	"name": "建生",
+	"estab_contestant": "陳文華",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "羅佩麗",
+	"democrat_organization": "朱凱廸團隊",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L27",
+	"name": "兆康",
+	"estab_contestant": "巫成鋒",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "陳樹英",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/ShuYingChan",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L28",
+	"name": "欣田",
+	"estab_contestant": "賴嘉汶/黃梓雋",
+	"estab_organization": "民建聯/實政圓桌",
+	"democrat_contestant": "盧偉明",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/waiminglo",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L29",
+	"name": "屯門鄉郊",
+	"estab_contestant": "陶錫源",
+	"estab_organization": "城鄉居民共和協會",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L30",
+	"name": "富泰",
+	"estab_contestant": "陳文偉",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "何國豪",
+	"democrat_organization": "匯政衞言",
+	"organization": [{
+		"name": "匯政衞言",
+		"fbpage": "https://www.facebook.com/empoweringhongkong/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "屯門區",
+	"code": "L31",
+	"name": "景峰",
+	"estab_contestant": "鄺珉樀",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "何杏梅",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/hohangmui",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
 	"district": "西貢區",
 	"code": "Q01",
 	"name": "西貢市中心",
