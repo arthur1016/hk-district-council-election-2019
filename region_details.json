@@ -1085,6 +1085,278 @@
 		"telephone": ""
 	}]
 },{
+	"district": "南區",
+    "code": "D01",
+    "name": "香港仔",
+	"estab_contestant": "任葆琳",
+	"estab_organization": "獨立",
+	"democrat_contestant": "黃銳熺",
+	"democrat_organization": "區諾軒辦",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/abdanguswong/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "南區",
+    "code": "D02",
+    "name": "鴨脷洲邨",
+	"estab_contestant": "林玉珍",
+	"estab_organization": "香港島各界聯合會",
+	"democrat_contestant": "陳堡明",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/pomingchanALC/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "南區",
+    "code": "D03",
+    "name": "鴨脷洲北",
+	"estab_contestant": "張錫容",
+	"estab_organization": "香港島各界聯合會",
+	"democrat_contestant": "陳炳洋",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/chanpingyeung/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "南區",
+    "code": "D04",
+    "name": "利東一",
+	"estab_contestant": "吳啟新",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "陳欣兒",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/CJaniceYY/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "南區",
+    "code": "D05",
+    "name": "利東二",
+	"estab_contestant": "譚晉杰",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "羅健熙",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/dphk.leitung/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "南區",
+    "code": "D06",
+    "name": "海怡東",
+	"estab_contestant": "林啟暉",
+	"estab_organization": "香港島各界聯合會",
+	"democrat_contestant": "俞竣晞",
+	"democrat_organization": "公民黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/JamesYuChunHei/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "南區",
+    "code": "D07",
+    "name": "海怡西",
+	"estab_contestant": "陳家珮",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "林浩波",
+	"democrat_organization": "區諾軒辦",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/kelvinlamhp/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "南區",
+    "code": "D08",
+    "name": "華貴",
+	"estab_contestant": "麥謝巧玲",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "潘秉康",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/Benpoonwk/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "南區",
+    "code": "D09",
+    "name": "華富南",
+	"estab_contestant": "黃才立",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "黎熙琳",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/wahfuest",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "南區",
+    "code": "D10",
+    "name": "華富北",
+	"estab_contestant": "張偉楠",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "嚴駿豪",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/YimC.Philip/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "南區",
+    "code": "D11",
+    "name": "薄扶林",
+	"estab_contestant": "蕭煒忠/姚潔凝",
+	"estab_organization": "民建聯/民主思路",
+	"democrat_contestant": "司馬文",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/PZpage/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "南區",
+    "code": "D12",
+    "name": "置富",
+	"estab_contestant": "朱慶虹",
+	"estab_organization": "香港島各界聯合會",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "南區",
+    "code": "D13",
+    "name": "田灣",
+	"estab_contestant": "陳富明",
+	"estab_organization": "香港島各界聯合會",
+	"democrat_contestant": "袁嘉蔚",
+	"democrat_organization": "區諾軒辦",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/kawaitiffany/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "南區",
+    "code": "D14",
+    "name": "石漁",
+	"estab_contestant": "朱立威",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "南區",
+    "code": "D15",
+    "name": "黃竹坑",
+	"estab_contestant": "陳榮恩",
+	"estab_organization": "工聯會/民建聯",
+	"democrat_contestant": "徐遠華",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/imagingWCH/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "南區",
+    "code": "D16",
+    "name": "海灣",
+	"estab_contestant": "梁俊",
+	"estab_organization": "自由黨",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "南區",
+    "code": "D17",
+    "name": "赤柱及石澳",
+	"estab_contestant": "陳李佩英",
+	"estab_organization": "香港島各界聯合會",
+	"democrat_contestant": "梁偉權",
+	"democrat_organization": "南區民生關注組",
+	"organization": [{
+		"name": "南區民生關注組",
+		"fbpage": "https://www.facebook.com/%E5%8D%97%E5%8D%80%E6%B0%91%E7%94%9F%E9%97%9C%E6%B3%A8%E7%B5%84-589778554700940/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
 	"district": "油尖旺區",
 	"code": "E01",
 	"name": "尖沙咀西",
