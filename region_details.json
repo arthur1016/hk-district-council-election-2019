@@ -2547,6 +2547,420 @@
 		"telephone": ""
 	}]
 },{
+	"district": "黃大仙區",
+	"code": "H01",
+	"name": "龍趣",
+	"estab_contestant": "李東江",
+	"estab_organization": "九龍社團聯會",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H02",
+	"name": "龍下",
+	"estab_contestant": "鍾博文",
+	"estab_organization": "創建力量",
+	"democrat_contestant": "郭秀英",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H03",
+	"name": "龍上",
+	"estab_contestant": "林文輝",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H04",
+	"name": "鳳凰",
+	"estab_contestant": "楊諾軒",
+	"estab_organization": "創建力量",
+	"democrat_contestant": "鄧惠強/鄭詩陶",
+	"democrat_organization": "民主黨/譚香文團隊",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/SzeToCHENG/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H05",
+	"name": "鳳德",
+	"estab_contestant": "越毅強",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "張嘉宜",
+	"democrat_organization": "慈雲山建設力量",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/profile.php?id=100024778537975",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "慈雲山建設力量",
+		"fbpage": "https://www.facebook.com/twspower/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H06",
+	"name": "龍星",
+	"estab_contestant": "莫嘉傑/陳進雄",
+	"estab_organization": "創建力量/民主思路",
+	"democrat_contestant": "譚香文",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/mandytamheungman/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H07",
+	"name": "新蒲崗",
+	"estab_contestant": "雷啟蓮",
+	"estab_organization": "創建力量",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H08",
+	"name": "東頭",
+	"estab_contestant": "李德康",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "溫子眾",
+	"democrat_organization": "人民力量",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/profile.php?id=566972435&ref=br_rs",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H09",
+	"name": "東美",
+	"estab_contestant": "楊光富",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "施德來",
+	"democrat_organization": "民協",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/szetakloy",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H10",
+	"name": "樂富",
+	"estab_contestant": "陳偉坤",
+	"estab_organization": "創建力量",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H11",
+	"name": "橫頭磡",
+	"estab_contestant": "黎榮浩",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H12",
+	"name": "天強",
+	"estab_contestant": "陳安泰",
+	"estab_organization": "自由黨",
+	"democrat_contestant": "鄭文杰",
+	"democrat_organization": "公民黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/JayChengManKit/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H13",
+	"name": "翠竹與鵬程",
+	"estab_contestant": "陳英",
+	"estab_organization": "獨立",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H14",
+	"name": "竹園南",
+	"estab_contestant": "李健聰",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "許錦成",
+	"democrat_organization": "民協",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/huikamsshing",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H15",
+	"name": "竹園北",
+	"estab_contestant": "丁志威",
+	"estab_organization": "獨立",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H16",
+	"name": "慈雲西",
+	"estab_contestant": "袁國強",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "張茂清",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/mau.ching.7",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H17",
+	"name": "正愛",
+	"estab_contestant": "潘卓斌",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "岑宇軒",
+	"democrat_organization": "慈雲山建設力量",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/profile.php?id=100020114764341",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "慈雲山建設力量",
+		"fbpage": "https://www.facebook.com/twspower/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H18",
+	"name": "正安",
+	"estab_contestant": "劉學廉",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "黃逸旭",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/WongYatYukRoger/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H19",
+	"name": "慈雲東",
+	"estab_contestant": "何漢文",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "莫綺霞",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/msmok2019/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H20",
+	"name": "瓊富",
+	"estab_contestant": "黃鎮健",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "莫嘉嫻",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/rosandamok/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H21",
+	"name": "彩雲東",
+	"estab_contestant": "蔡子健",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "廖成利",
+	"democrat_organization": "民協",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/singleebruce.liu",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H22",
+	"name": "彩雲南",
+	"estab_contestant": "江景新",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "沈運華",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/shum27961091/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H23",
+	"name": "彩雲西",
+	"estab_contestant": "譚美普",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "陳利成",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/lschanfriends/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H24",
+	"name": "池彩",
+	"estab_contestant": "蘇嘉樂",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "胡志健",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/胡志健-1868437633418462/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "黃大仙區",
+	"code": "H25",
+	"name": "彩虹",
+	"estab_contestant": "莫健榮",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "莫灝哲",
+	"democrat_organization": "彩虹邨服務聯會",
+	"organization": [{
+		"name": "彩虹邨服務聯會",
+		"fbpage": "https://www.facebook.com/ChoiHungSSA/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
 	"district": "西貢區",
 	"code": "Q01",
 	"name": "西貢市中心",
