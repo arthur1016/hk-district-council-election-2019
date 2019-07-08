@@ -261,6 +261,242 @@
 		"telephone": ""
 	}]
 },{
+	"district": "灣仔區",
+    "code": "B01",
+    "name": "軒尼詩",
+	"estab_contestant": "白俊達/黃守東",
+	"estab_organization": "民主思路/獨立",
+	"democrat_contestant": "夏希諾",
+	"democrat_organization": "工黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/helix.ha.3",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "灣仔區",
+    "code": "B02",
+    "name": "愛群",
+	"estab_contestant": "穆家駿",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "灣仔區",
+    "code": "B03",
+    "name": "鵝頸",
+	"estab_contestant": "鍾嘉敏",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "灣仔區",
+    "code": "B04",
+    "name": "銅鑼灣",
+	"estab_contestant": "伍婉婷",
+	"estab_organization": "香港島各界聯合會",
+	"democrat_contestant": "陳建國",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "灣仔區",
+    "code": "B05",
+    "name": "維園",
+	"estab_contestant": "周潔冰",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "李永財",
+	"democrat_organization": "維多利亞社區協會",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/Garyli2019/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "維多利亞社區協會",
+		"fbpage": "https://www.facebook.com/HKVSA/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "灣仔區",
+    "code": "B06",
+    "name": "天后",
+	"estab_contestant": "李文龍",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "麥智軒",
+	"democrat_organization": "灣仔起步",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/bigmakcasey/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "灣仔起步",
+		"fbpage": "https://www.facebook.com/gooddaywanchai/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "灣仔區",
+    "code": "B07",
+    "name": "大坑",
+	"estab_contestant": "廖添誠",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "楊雪盈",
+	"democrat_organization": "灣仔起步",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/clarisseysy/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "灣仔起步",
+		"fbpage": "https://www.facebook.com/gooddaywanchai/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "灣仔區",
+    "code": "B08",
+    "name": "渣甸山",
+	"estab_contestant": "林偉文",
+	"estab_organization": "自由黨",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "灣仔區",
+    "code": "B09",
+    "name": "樂活",
+	"estab_contestant": "謝偉俊",
+	"estab_organization": "創建力量",
+	"democrat_contestant": "楊子雋",
+	"democrat_organization": "灣仔起步",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/ytcarthur/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "灣仔起步",
+		"fbpage": "https://www.facebook.com/gooddaywanchai/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "灣仔區",
+    "code": "B10",
+    "name": "跑馬地",
+	"estab_contestant": "吳澤森",
+	"estab_organization": "香港島各界聯合會",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "灣仔區",
+    "code": "B11",
+    "name": "司徒拔道",
+	"estab_contestant": "黃宏泰",
+	"estab_organization": "香港島各界聯合會",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "灣仔區",
+    "code": "B12",
+    "name": "修頓",
+	"estab_contestant": "李碧儀",
+	"estab_organization": "香港島各界聯合會",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "灣仔區",
+    "code": "B13",
+    "name": "大佛口",
+	"estab_contestant": "李均頤",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
 	"district": "油尖旺區",
 	"code": "E01",
 	"name": "尖沙咀西",
