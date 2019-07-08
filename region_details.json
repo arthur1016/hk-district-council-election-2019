@@ -3615,6 +3615,310 @@
 		"telephone": ""
 	}]
 },{
+	"district": "荃灣區",
+	"code": "K01",
+	"name": "德華",
+	"estab_contestant": "羅少傑",
+	"estab_organization": "社區18",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "荃灣區",
+	"code": "K02",
+	"name": "楊屋道",
+	"estab_contestant": "伍俊瑜",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "林錫添",
+	"democrat_organization": "荃灣社區網絡",
+	"organization": [{
+		"name": "荃灣社區網絡",
+		"fbpage": "https://www.facebook.com/tsuenwancommunitynetwork/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "荃灣區",
+	"code": "K03",
+	"name": "荃灣南",
+	"estab_contestant": "陳杰/馬庭熙",
+	"estab_organization": "民建聯/實政圓桌",
+	"democrat_contestant": "孔令暉",
+	"democrat_organization": "公民黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/simonhunglf/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "荃灣區",
+	"code": "K04",
+	"name": "海濱",
+	"estab_contestant": "莫遠君/鄒秉恬",
+	"estab_organization": "民建聯/城鄉居民共和協會",
+	"democrat_contestant": "岑敖暉",
+	"democrat_organization": "朱凱廸團隊",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/Lester.Shum611",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "荃灣區",
+	"code": "K05",
+	"name": "荃灣西",
+	"estab_contestant": "林琳",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "易承聰",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/易承聰-Angus-Yick-1853511854949720/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "荃灣區",
+	"code": "K06",
+	"name": "祈德尊",
+	"estab_contestant": "古揚邦",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "荃灣區",
+	"code": "K07",
+	"name": "荃灣中心",
+	"estab_contestant": "曾大",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "李洪波",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/lihungpor/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "荃灣區",
+	"code": "K08",
+	"name": "愉景",
+	"estab_contestant": "田北辰",
+	"estab_organization": "實政圓桌",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "荃灣區",
+	"code": "K09",
+	"name": "福來",
+	"estab_contestant": "葛兆源",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "黃湛聯",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/profile.php?id=565903515",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "荃灣區",
+	"code": "K10",
+	"name": "綠楊",
+	"estab_contestant": "林發耿",
+	"estab_organization": "新界社團聯會",
+	"democrat_contestant": "潘朗聰",
+	"democrat_organization": "新民主同盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/punlongchung.tw/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "荃灣區",
+	"code": "K11",
+	"name": "馬灣",
+	"estab_contestant": "(待定)",
+	"estab_organization": "(待定)",
+	"democrat_contestant": "譚凱邦",
+	"democrat_organization": "新民主同盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/Roy.Tam.Hoi.Pong/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "荃灣區",
+	"code": "K12",
+	"name": "荃灣郊區",
+	"estab_contestant": "伍顯龍/黃頌媖",
+	"estab_organization": "獨立/實政圓桌",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "荃灣區",
+	"code": "K13",
+	"name": "汀深",
+	"estab_contestant": "鄭捷彬",
+	"estab_organization": "實政圓桌",
+	"democrat_contestant": "劉志雄",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/martinlau2015/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "荃灣區",
+	"code": "K14",
+	"name": "麗濤",
+	"estab_contestant": "黃偉傑",
+	"estab_organization": "新界社團聯會",
+	"democrat_contestant": "楊俊賢",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "荃灣區",
+	"code": "K15",
+	"name": "荃威",
+	"estab_contestant": "林婉濱",
+	"estab_organization": "新界社團聯會",
+	"democrat_contestant": "趙恩來",
+	"democrat_organization": "工黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/chiuyanloy/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "荃灣區",
+	"code": "K16",
+	"name": "象石",
+	"estab_contestant": "陳振中",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "賴文輝",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/laimanfaiservice/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "荃灣區",
+	"code": "K17",
+	"name": "石圍角",
+	"estab_contestant": "文裕明",
+	"estab_organization": "新界社團聯會",
+	"democrat_contestant": "廖浩雲",
+	"democrat_organization": "公民黨",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "荃灣區",
+	"code": "K18",
+	"name": "梨木樹西",
+	"estab_contestant": "馮卓森",
+	"estab_organization": "港九新界公共屋邨居民商戶團體聯會",
+	"democrat_contestant": "黃家華",
+	"democrat_organization": "公民黨",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "荃灣區",
+	"code": "K19",
+	"name": "梨木樹東",
+	"estab_contestant": "林顯輝",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "陳琬琛",
+	"democrat_organization": "公民黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/sumlychanCP/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
 	"district": "西貢區",
 	"code": "Q01",
 	"name": "西貢市中心",
