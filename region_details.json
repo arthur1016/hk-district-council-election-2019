@@ -497,6 +497,594 @@
 		"telephone": ""
 	}]
 },{
+	"district": "東區",
+    "code": "C01",
+    "name": "太古城西",
+	"estab_contestant": "丁煌",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "趙家賢",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/andrew.kychiu",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C02",
+    "name": "太古城東",
+	"estab_contestant": "郭浩景",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "王振星",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/taikoostar/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C03",
+    "name": "鯉景灣",
+	"estab_contestant": "張文嵩",
+	"estab_organization": "獨立",
+	"democrat_contestant": "韋少力",
+	"democrat_organization": "鯉景。太安。西灣河",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/siulik.wei",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "鯉景。太安。西灣河",
+		"fbpage": "https://www.facebook.com/LeiKing.TaiOn.SaiWanHo/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C04",
+    "name": "西灣河",
+	"estab_contestant": "林梓鴻",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "麥德正",
+	"democrat_organization": "工黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/TakChingMak/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C05",
+    "name": "愛秩序灣",
+	"estab_contestant": "郭詠健",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "蘇逸恒",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/SOYATHANG/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C06",
+    "name": "筲箕灣",
+	"estab_contestant": "林心廉",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "梁詠詩",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/skwjenny/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C07",
+    "name": "阿公岩",
+	"estab_contestant": "林其東/陳溢謙",
+	"estab_organization": "香港島各界聯合會/筲箕灣社區辦事處",
+	"democrat_contestant": "郭志聰",
+	"democrat_organization": "灣東願景",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/micdailo",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "灣東願景",
+		"fbpage": "https://www.facebook.com/skweastfuture/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C08",
+    "name": "杏花邨",
+	"estab_contestant": "何毅淦",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "周詠儀",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://zh-hk.facebook.com/HFCJanis/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C09",
+    "name": "翠灣",
+	"estab_contestant": "劉淑燕",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "古桂耀",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/kuoffice/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C10",
+    "name": "欣藍",
+	"estab_contestant": "黃健興",
+	"estab_organization": "香港島各界聯合會",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C11",
+    "name": "欣藍",
+	"estab_contestant": "李樂昕/朱日安",
+	"estab_organization": "工聯會/柴灣區街坊福利會",
+	"democrat_contestant": "陳榮泰",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/lancelot.chan.376",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C12",
+    "name": "景怡",
+	"estab_contestant": "梁國鴻",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C13",
+    "name": "景怡",
+	"estab_contestant": "龔栢祥",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "許穎文",
+	"democrat_organization": "環翠堂",
+	"organization": [{
+		"name": "環翠堂",
+		"fbpage": "https://www.facebook.com/wantsuiclass/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C14",
+    "name": "翡翠",
+	"estab_contestant": "陳凱榮",
+	"estab_organization": "民建聯 工聯會",
+	"democrat_contestant": "黎志強",
+	"democrat_organization": "公民黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/laichikeong/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C15",
+    "name": "柏架山",
+	"estab_contestant": "李清霞",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C16",
+    "name": "寶馬山",
+	"estab_contestant": "阮建中",
+	"estab_organization": "自由黨",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C17",
+    "name": "炮台山",
+	"estab_contestant": "羅榮焜",
+	"estab_organization": "香港島各界聯合會",
+	"democrat_contestant": "陳嘉佑",
+	"democrat_organization": "炮台山活",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/jasonchankayau/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "炮台山活",
+		"fbpage": "https://www.facebook.com/lifeinfortresshill/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C18",
+    "name": "城市花園",
+	"estab_contestant": "許清安/樊熙泰",
+	"estab_organization": "香港島各界聯合會/香港環境保護協會",
+	"democrat_contestant": "仇栩欣",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C19",
+    "name": "和富",
+	"estab_contestant": "郭偉强",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C20",
+    "name": "堡壘",
+	"estab_contestant": "洪連杉",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C21",
+    "name": "錦屏",
+	"estab_contestant": "洪志傑",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "李予信",
+	"democrat_organization": "公民黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/cpyslee/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C22",
+    "name": "丹拿",
+	"estab_contestant": "曾卓兒",
+	"estab_organization": "自由黨",
+	"democrat_contestant": "鄭達鴻",
+	"democrat_organization": "公民黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/cpthcheng/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C23",
+    "name": "健康村",
+	"estab_contestant": "鄭志成",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C24",
+    "name": "健康村",
+	"estab_contestant": "丁江浩",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "陳寶琼",
+	"democrat_organization": "樂活鰂魚涌",
+	"organization": [{
+		"name": "樂活鰂魚涌",
+		"fbpage": "https://www.facebook.com/profile.php?id=266832133494362&ref=br_rs",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C25",
+    "name": "南豐",
+	"estab_contestant": "王詩展",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "張國昌",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/HowardCheungKwokCheong/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C26",
+    "name": "康怡",
+	"estab_contestant": "周卓然",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "魏志豪",
+	"democrat_organization": "公民黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/derekngai",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C27",
+    "name": "康山",
+	"estab_contestant": "劉聖雪",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "梁兆新",
+	"democrat_organization": "公民黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/kornhill.garden.patrick.leung/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C28",
+    "name": "興東",
+	"estab_contestant": "許林慶",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "張振傑",
+	"democrat_organization": "興東東熹環境關注組",
+	"organization": [{
+		"name": "興東東熹環境關注組",
+		"fbpage": "https://www.facebook.com/hth.env.group/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C29",
+    "name": "下耀東",
+	"estab_contestant": "王志鍾",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "何偉倫",
+	"democrat_organization": "工黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/AlanHoLP",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C30",
+    "name": "上耀東",
+	"estab_contestant": "吳清清",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "周卓奇",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C31",
+    "name": "興民",
+	"estab_contestant": "劉慶揚",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "謝妙儀",
+	"democrat_organization": "山民主義",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/Tsemiuyee",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "山民主義",
+		"fbpage": "https://www.facebook.com/sanmanism.cw/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C32",
+    "name": "樂康",
+	"estab_contestant": "李進秋",
+	"estab_organization": "香港島各界聯合會",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C33",
+    "name": "翠德",
+	"estab_contestant": "李鎮強",
+	"estab_organization": "自由黨",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C34",
+    "name": "漁灣",
+	"estab_contestant": "劉堅",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "徐子見",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/AndyChui2015/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "東區",
+    "code": "C35",
+    "name": "佳曉",
+	"estab_contestant": "植潔鈴/陳真真",
+	"estab_organization": "民建聯 工聯會/獨立",
+	"democrat_contestant": "李鳳琼",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/李鳳琼-Alice-353252968475350/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
 	"district": "油尖旺區",
 	"code": "E01",
 	"name": "尖沙咀西",
