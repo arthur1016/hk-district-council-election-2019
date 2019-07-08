@@ -4450,6 +4450,665 @@
 		"telephone": ""
 	}]
 },{
+	"district": "元朗區",
+	"code": "M01",
+	"name": "豐年",
+	"estab_contestant": "呂堅",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "陳敬倫",
+	"democrat_organization": "朱凱廸團隊",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M02",
+	"name": "元朗中心",
+	"estab_contestant": "蕭浪鳴",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "石景澄",
+	"democrat_organization": "民主陣線",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/石景澄-Shek-King-Ching-1710494892538004/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "民主陣線",
+		"fbpage": "https://www.facebook.com/民主-陣線-Democratic-Alliance-1643234779333236/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M03",
+	"name": "鳳翔",
+	"estab_contestant": "莊展銘",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "麥業成",
+	"democrat_organization": "民主陣線",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/makipsing",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "民主陣線",
+		"fbpage": "https://www.facebook.com/民主-陣線-Democratic-Alliance-1643234779333236/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M04",
+	"name": "元龍",
+	"estab_contestant": "王威信",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M05",
+	"name": "十八鄉中",
+	"estab_contestant": "梁明堅",
+	"estab_organization": "城鄉居民共和協會",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M06",
+	"name": "水邊",
+	"estab_contestant": "袁敏兒",
+	"estab_organization": "新界社團聯會",
+	"democrat_contestant": "黎國泳",
+	"democrat_organization": "朱凱廸團隊",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M07",
+	"name": "南屏",
+	"estab_contestant": "譚煒霖",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "黃偉賢",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/profile.php?id=100009583057174",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M08",
+	"name": "北朗",
+	"estab_contestant": "林偉明",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "鄺俊宇",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/鄺俊宇-Roy-Kwong-18809502474/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M09",
+	"name": "元朗東頭",
+	"estab_contestant": "李啟立",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "林廷衞",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/lamtingw/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M10",
+	"name": "十八鄉北",
+	"estab_contestant": "沈豪傑",
+	"estab_organization": "鄉事派",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M11",
+	"name": "十八鄉東",
+	"estab_contestant": "郭靜然",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M12",
+	"name": "十八鄉西",
+	"estab_contestant": "梁福元",
+	"estab_organization": "鄉事派",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M13",
+	"name": "屏山南",
+	"estab_contestant": "張偉琛",
+	"estab_organization": "新界社團聯會",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M14",
+	"name": "洪福",
+	"estab_contestant": "徐君紹",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "陳樹暉",
+	"democrat_organization": "朱凱廸團隊",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/chantreefai/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M15",
+	"name": "廈村",
+	"estab_contestant": "鄧家良",
+	"estab_organization": "城鄉居民共和協會",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M16",
+	"name": "屏山中",
+	"estab_contestant": "鄧慶業",
+	"estab_organization": "獨立",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M17",
+	"name": "盛欣",
+	"estab_contestant": "林慧明/莊豪鋒",
+	"estab_organization": "新界社團聯會/實政圓桌",
+	"democrat_contestant": "區國權",
+	"democrat_organization": "朱凱廸團隊",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M18",
+	"name": "天盛",
+	"estab_contestant": "陳思靜",
+	"estab_organization": "實政圓桌",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M19",
+	"name": "天耀",
+	"estab_contestant": "司徒駿軒",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "何惠彬",
+	"democrat_organization": "街工",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/BenHoWP/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M20",
+	"name": "耀祐",
+	"estab_contestant": "馬淑燕",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "伍軒宏",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/hysanhinwangng/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M21",
+	"name": "慈祐",
+	"estab_contestant": "蘇淵",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "陳美蓮",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/MayChanMeiLin/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M22",
+	"name": "嘉湖南",
+	"estab_contestant": "湛家雄",
+	"estab_organization": "社區18",
+	"democrat_contestant": "吳玉英",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/KATYNGYUKYING/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M23",
+	"name": "瑞愛",
+	"estab_contestant": "湯德駿",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "黎寳華",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/黎寳華程太Sandy-Lai-180278599361410/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M24",
+	"name": "瑞華",
+	"estab_contestant": "周永勤/黃子毅",
+	"estab_organization": "獨立/獨立",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M25",
+	"name": "頌華",
+	"estab_contestant": "黃煒鈴",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "陳詩雅",
+	"democrat_organization": "天水圍民生關注平台",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/HermineCSN/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "天水圍民生關注平台",
+		"fbpage": "https://www.facebook.com/TSWNewForce/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M26",
+	"name": "頌栢",
+	"estab_contestant": "黃卓健",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M27",
+	"name": "嘉湖北",
+	"estab_contestant": "李月民",
+	"estab_organization": "新界社團聯會",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M28",
+	"name": "悅恩",
+	"estab_contestant": "賴玥均",
+	"estab_organization": "新界社團聯會",
+	"democrat_contestant": "康展華/陸海天(?)",
+	"democrat_organization": "獨立/天水圍地區關注會",
+	"organization": [{
+		"name": "康展華個人Facebook Page",
+		"fbpage": "https://www.facebook.com/thomas.hong.129794",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "天水圍地區關注會",
+		"fbpage": "https://www.facebook.com/%E5%A4%A9%E6%B0%B4%E5%9C%8D%E5%9C%B0%E5%8D%80%E9%97%9C%E6%B3%A8%E6%9C%83-707043136310329/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M29",
+	"name": "晴景",
+	"estab_contestant": "鄧焯謙",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "郭文浩",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/yokwokmanho/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M30",
+	"name": "富恩",
+	"estab_contestant": "劉桂容",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M31",
+	"name": "逸澤",
+	"estab_contestant": "郭慶平",
+	"estab_organization": "獨立",
+	"democrat_contestant": "王頴思",
+	"democrat_organization": "熱血公民",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M32",
+	"name": "天恒",
+	"estab_contestant": "陸頌雄",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M33",
+	"name": "宏逸",
+	"estab_contestant": "姚國威",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "巫啟航",
+	"democrat_organization": "天水圍民生關注平台",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/FlecoMKH/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "天水圍民生關注平台",
+		"fbpage": "https://www.facebook.com/TSWNewForce/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M34",
+	"name": "屏山北",
+	"estab_contestant": "楊家安",
+	"estab_organization": "獨立",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M35",
+	"name": "錦綉花園",
+	"estab_contestant": "張弓發/黃頴灝",
+	"estab_organization": "經民聯/民主思路",
+	"democrat_contestant": "杜嘉倫",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/錦綉花園區議員-杜嘉倫-Ka-Lun-To-423717857836116/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M36",
+	"name": "新田",
+	"estab_contestant": "(待定)",
+	"estab_organization": "(待定)",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M37",
+	"name": "錦田",
+	"estab_contestant": "鄧卓然",
+	"estab_organization": "城鄉居民共和協會",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M38",
+	"name": "八鄉北",
+	"estab_contestant": "鄧鎔耀",
+	"estab_organization": "新界關注大聯盟",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M39",
+	"name": "八鄉南",
+	"estab_contestant": "黎偉雄",
+	"estab_organization": "新界社團聯會",
+	"democrat_contestant": "朱凱廸",
+	"democrat_organization": "朱凱廸團隊",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/chuhoidick/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
 	"district": "西貢區",
 	"code": "Q01",
 	"name": "西貢市中心",
