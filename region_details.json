@@ -5045,6 +5045,294 @@
 		"telephone": ""
 	}]
 },{
+	"district": "北區",
+	"code": "N01",
+	"name": "聯和墟",
+	"estab_contestant": "曾興隆",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "北區",
+	"code": "N02",
+	"name": "粉嶺市",
+	"estab_contestant": "彭振聲",
+	"estab_organization": "獨立",
+	"democrat_contestant": "黃凱盈",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/irene.wong.77582359",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "北區",
+	"code": "N03",
+	"name": "祥華",
+	"estab_contestant": "林智洋",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "陳旭明",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/陳旭明-Dino-祥華-名都-835885039858762/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "北區",
+	"code": "N04",
+	"name": "華都",
+	"estab_contestant": "姚銘",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "虞銘謙",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/LeoYuMH/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "北區",
+	"code": "N05",
+	"name": "華明",
+	"estab_contestant": "潘孝汶",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "陳惠達",
+	"democrat_organization": "新民主同盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/chanwt/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "北區",
+	"code": "N06",
+	"name": "欣盛",
+	"estab_contestant": "劉國勳",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "林淑菁",
+	"democrat_organization": "新民主同盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/profile.php?id=100015341835552",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "北區",
+	"code": "N07",
+	"name": "粉嶺南",
+	"estab_contestant": "何樹光",
+	"estab_organization": "獨立",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "北區",
+	"code": "N08",
+	"name": "盛福",
+	"estab_contestant": "溫和達",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "北區",
+	"code": "N09",
+	"name": "清河",
+	"estab_contestant": "藍偉良",
+	"estab_organization": "新界社團聯會",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "北區",
+	"code": "N10",
+	"name": "御太",
+	"estab_contestant": "曾勁聰",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "北區",
+	"code": "N11",
+	"name": "上水鄉郊",
+	"estab_contestant": "侯福達/侯漢碩",
+	"estab_organization": "獨立/民建聯",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "北區",
+	"code": "N12",
+	"name": "彩園",
+	"estab_contestant": "劉鎮海",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "林子琼",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/LAMTSZKINGOFFICIALPAGE/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "北區",
+	"code": "N13",
+	"name": "石湖墟",
+	"estab_contestant": "孔永業",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "林卓廷",
+	"democrat_organization": "民主黨",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/lam.c.ting.1",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "北區",
+	"code": "N14",
+	"name": "石湖墟",
+	"estab_contestant": "黃宏滔",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "郭㙟豐/張京樑",
+	"democrat_organization": "民主黨/獨立",
+	"organization": [{
+		"name": "郭㙟豐個人Facebook Page",
+		"fbpage": "https://www.facebook.com/kwoklongfungofficialpage/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "北區",
+	"code": "N15",
+	"name": "鳳翠",
+	"estab_contestant": "廖興洪",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "北區",
+	"code": "N16",
+	"name": "沙打",
+	"estab_contestant": "高維基",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "北區",
+	"code": "N17",
+	"name": "天平東",
+	"estab_contestant": "柯倩儀",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "劉其烽",
+	"democrat_organization": "新民主同盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/laukifung",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "北區",
+	"code": "N18",
+	"name": "皇后山",
+	"estab_contestant": "鄧根年",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
 	"district": "元朗區",
 	"code": "M36",
 	"name": "新田",
