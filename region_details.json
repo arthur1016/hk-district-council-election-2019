@@ -5045,6 +5045,70 @@
 		"telephone": ""
 	}]
 },{
+	"district": "元朗區",
+	"code": "M36",
+	"name": "新田",
+	"estab_contestant": "(待定)",
+	"estab_organization": "(待定)",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M37",
+	"name": "錦田",
+	"estab_contestant": "鄧卓然",
+	"estab_organization": "城鄉居民共和協會",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M38",
+	"name": "八鄉北",
+	"estab_contestant": "鄧鎔耀",
+	"estab_organization": "新界關注大聯盟",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "元朗區",
+	"code": "M39",
+	"name": "八鄉南",
+	"estab_contestant": "黎偉雄",
+	"estab_organization": "新界社團聯會",
+	"democrat_contestant": "朱凱廸",
+	"democrat_organization": "朱凱廸團隊",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/chuhoidick/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
 	"district": "北區",
 	"code": "N01",
 	"name": "聯和墟",
@@ -5333,11 +5397,309 @@
 		"telephone": ""
 	}]
 },{
-	"district": "元朗區",
-	"code": "M36",
-	"name": "新田",
-	"estab_contestant": "(待定)",
-	"estab_organization": "(待定)",
+	"district": "大埔區",
+	"code": "P01",
+	"name": "大埔墟",
+	"estab_contestant": "張國慧",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "林名溢",
+	"democrat_organization": "大埔社區網絡",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/lammingyat/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "大埔社區網絡",
+		"fbpage": "https://www.facebook.com/taipocommunitynetwork/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "大埔區",
+	"code": "P02",
+	"name": "頌汀",
+	"estab_contestant": "譚榮勳",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "文念志",
+	"democrat_organization": "區政聯盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/taipomannimchi",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "區政聯盟",
+		"fbpage": "https://www.facebook.com/區政聯盟-Community-Alliance-1333074916846609/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "大埔區",
+	"code": "P03",
+	"name": "大埔中",
+	"estab_contestant": "梅少峰",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "區鎮樺",
+	"democrat_organization": "區政聯盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/office.rayau/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "區政聯盟",
+		"fbpage": "https://www.facebook.com/區政聯盟-Community-Alliance-1333074916846609/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "大埔區",
+	"code": "P04",
+	"name": "大元",
+	"estab_contestant": "鄭俊平",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "區鎮濠",
+	"democrat_organization": "區政聯盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/rayau.tpteam/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "區政聯盟",
+		"fbpage": "https://www.facebook.com/區政聯盟-Community-Alliance-1333074916846609/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "大埔區",
+	"code": "P05",
+	"name": "富亨",
+	"estab_contestant": "胡綽謙",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "任萬全",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/mcyam318/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "大埔區",
+	"code": "P06",
+	"name": "怡富",
+	"estab_contestant": "羅志平",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "任啟邦",
+	"democrat_organization": "新民主同盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/任啟邦-209405209122068/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "大埔區",
+	"code": "P07",
+	"name": "富明新",
+	"estab_contestant": "楊釗鴻",
+	"estab_organization": "工聯會",
+	"democrat_contestant": "關永業",
+	"democrat_organization": "新民主同盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/kwan2016/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "大埔區",
+	"code": "P08",
+	"name": "廣福及寶湖",
+	"estab_contestant": "黃碧嬌",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "連桷璋",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "大埔區",
+	"code": "P09",
+	"name": "宏福",
+	"estab_contestant": "胡健民",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "姚鈞豪",
+	"democrat_organization": "區政聯盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/profile.php?id=100021649908190",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "大埔區",
+	"code": "P10",
+	"name": "大埔滘",
+	"estab_contestant": "陳笑權",
+	"estab_organization": "新界社團聯會",
+	"democrat_contestant": "毛家俊",
+	"democrat_organization": "獨立",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "大埔區",
+	"code": "P11",
+	"name": "運頭塘",
+	"estab_contestant": "余智榮",
+	"estab_organization": "新界社團聯會",
+	"democrat_contestant": "黃兆健",
+	"democrat_organization": "熱血公民",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "大埔區",
+	"code": "P12",
+	"name": "新富",
+	"estab_contestant": "羅曉楓",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "胡耀昌",
+	"democrat_organization": "新民主同盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/MaxWuND/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "大埔區",
+	"code": "P13",
+	"name": "林村谷",
+	"estab_contestant": "陳灶良",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "",
+	"democrat_organization": "",
+	"organization": [{
+		"name": "",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "大埔區",
+	"code": "P14",
+	"name": "寶雅",
+	"estab_contestant": "葉俊傑",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "周炫瑋",
+	"democrat_organization": "新民主同盟",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/chow.y.wai.9",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "大埔區",
+	"code": "P15",
+	"name": "太和",
+	"estab_contestant": "鄭俊和",
+	"estab_organization": "新界社團聯會",
+	"democrat_contestant": "陳蔚嘉",
+	"democrat_organization": "埔向晴天",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/chanwaikaolive/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "埔向晴天",
+		"fbpage": "https://www.facebook.com/TaiPosunwalker/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "大埔區",
+	"code": "P16",
+	"name": "舊墟及太湖",
+	"estab_contestant": "劉文杰",
+	"estab_organization": "新民黨",
+	"democrat_contestant": "劉勇威",
+	"democrat_organization": "埔向晴天",
+	"organization": [{
+		"name": "個人Facebook Page",
+		"fbpage": "https://www.facebook.com/LauYungWai/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "埔向晴天",
+		"fbpage": "https://www.facebook.com/TaiPosunwalker/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "大埔區",
+	"code": "P17",
+	"name": "康樂園",
+	"estab_contestant": "鄧銘泰",
+	"estab_organization": "獨立",
 	"democrat_contestant": "(待定)",
 	"democrat_organization": "(待定)",
 	"organization": [{
@@ -5349,48 +5711,32 @@
 		"telephone": ""
 	}]
 },{
-	"district": "元朗區",
-	"code": "M37",
-	"name": "錦田",
-	"estab_contestant": "鄧卓然",
-	"estab_organization": "城鄉居民共和協會",
-	"democrat_contestant": "",
-	"democrat_organization": "",
-	"organization": [{
-		"name": "",
-		"fbpage": "",
-		"telegram": "",
-		"email": "",
-		"whatsapp": "",
-		"telephone": ""
-	}]
-},{
-	"district": "元朗區",
-	"code": "M38",
-	"name": "八鄉北",
-	"estab_contestant": "鄧鎔耀",
-	"estab_organization": "新界關注大聯盟",
-	"democrat_contestant": "",
-	"democrat_organization": "",
-	"organization": [{
-		"name": "",
-		"fbpage": "",
-		"telegram": "",
-		"email": "",
-		"whatsapp": "",
-		"telephone": ""
-	}]
-},{
-	"district": "元朗區",
-	"code": "M39",
-	"name": "八鄉南",
-	"estab_contestant": "黎偉雄",
+	"district": "大埔區",
+	"code": "P18",
+	"name": "船灣",
+	"estab_contestant": "劉志成",
 	"estab_organization": "新界社團聯會",
-	"democrat_contestant": "朱凱廸",
-	"democrat_organization": "朱凱廸團隊",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
+	"organization": [{
+		"name": "(待定)",
+		"fbpage": "",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	}]
+},{
+	"district": "大埔區",
+	"code": "P19",
+	"name": "西貢北",
+	"estab_contestant": "李華光",
+	"estab_organization": "經民聯",
+	"democrat_contestant": "譚爾培",
+	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人Facebook Page",
-		"fbpage": "https://www.facebook.com/chuhoidick/",
+		"fbpage": "https://www.facebook.com/pui.ideal.hk/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
