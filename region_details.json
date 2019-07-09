@@ -5828,11 +5828,25 @@
 	"name": "彩健",
 	"estab_contestant": "何民傑",
 	"estab_organization": "獨立",
-	"democrat_contestant": "黃炳雄",
-	"democrat_organization": "將軍澳民生關注組",
+	"democrat_contestant": "黃炳雄/陳緯烈",
+	"democrat_organization": "將軍澳民生關注組/將軍澳青年力量",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "黃炳雄個人Facebook Page",
 		"fbpage": "https://www.facebook.com/tommy.li.50364",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "陳緯烈個人Facebook Page",
+		"fbpage": "https://www.facebook.com/wailit.chan.104",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "將軍澳青年力量",
+		"fbpage": "https://www.facebook.com/tkopioneers/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
@@ -5860,11 +5874,18 @@
 	"name": "都善",
 	"estab_contestant": "張展鵬",
 	"estab_organization": "專業動力",
-	"democrat_contestant": "李栢棠",
-	"democrat_organization": "將軍澳民生關注組",
+	"democrat_contestant": "李栢棠/莊榮輝",
+	"democrat_organization": "將軍澳民生關注組/民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "李栢棠個人Facebook Page",
 		"fbpage": "https://www.facebook.com/tommy.li.50364",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "莊榮輝個人Facebook Page",
+		"fbpage": "https://www.facebook.com/winfieldchongwingfai/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
@@ -5892,10 +5913,10 @@
 	"name": "海晉",
 	"estab_contestant": "林樂儀",
 	"estab_organization": "專業動力",
-	"democrat_contestant": "黎煒棠",
-	"democrat_organization": "新民主同盟",
+	"democrat_contestant": "黎煒棠/趙志民",
+	"democrat_organization": "新民主同盟/將軍澳民生關注組",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "黎煒棠個人Facebook Page",
 		"fbpage": "https://www.facebook.com/ivanlaitko/",
 		"telegram": "",
 		"email": "",
@@ -6643,13 +6664,20 @@
 	"district": "沙田區",
 	"code": "R28",
 	"name": "馬鞍山市中心",
-	"estab_contestant": "李子榮",
-	"estab_organization": "獨立",
-	"democrat_contestant": "鍾禮謙",
-	"democrat_organization": "獨立",
+	"estab_contestant": "李子榮/李啟雄",
+	"estab_organization": "獨立/民主思路",
+	"democrat_contestant": "鍾禮謙/吳惠靈",
+	"democrat_organization": "獨立/工黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "鍾禮謙個人Facebook Page",
 		"fbpage": "https://www.facebook.com/mosjohnnychung/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "吳惠靈個人Facebook Page",
+		"fbpage": "https://www.facebook.com/吳惠靈-893603224028233/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
@@ -6725,11 +6753,18 @@
 	"name": "耀安",
 	"estab_contestant": "李世榮",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "冼卓嵐",
-	"democrat_organization": "民主黨",
+	"democrat_contestant": "冼卓嵐/許立燊",
+	"democrat_organization": "民主黨/沙田區政",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "冼卓嵐個人Facebook Page",
 		"fbpage": "https://www.facebook.com/SINCheukNamDPHK/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "許立燊個人Facebook Page",
+		"fbpage": "https://www.facebook.com/profile.php?id=100011068922824",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
@@ -6805,11 +6840,18 @@
 	"name": "帝怡",
 	"estab_contestant": "林港坤",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "謝潔泳",
-	"democrat_organization": "沙田區政",
+	"democrat_contestant": "謝潔泳/劉青",
+	"democrat_organization": "沙田區政/民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "謝潔泳個人Facebook Page",
 		"fbpage": "https://www.facebook.com/hilarytsekitwing/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "劉青個人Facebook Page",
+		"fbpage": "https://www.facebook.com/liuqingdphk",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
@@ -7232,6 +7274,13 @@
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "青衣島民",
+		"fbpage": "https://www.facebook.com/profile.php?id=154084611756129&ref=br_rs",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
 	}]
 },{
 	"district": "葵青區",
@@ -7361,6 +7410,13 @@
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "葵青連結動力",
+		"fbpage": "https://www.facebook.com/kwaibond/",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
 	}]
 },{
 	"district": "離島區",
@@ -7421,6 +7477,13 @@
 	"organization": [{
 		"name": "個人Facebook Page",
 		"fbpage": "https://www.facebook.com/yeung.wong.50",
+		"telegram": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "東涌人",
+		"fbpage": "https://www.facebook.com/TungChungFuture/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
