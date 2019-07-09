@@ -1,49 +1,24 @@
 //Functions
-function contestedSeats(e) {
-  showUncontestedSeatsOnly = !showUncontestedSeatsOnly;
-  if (showUncontestedSeatsOnly) {
-      $("#showUncontestedOnly").addClass("btn-success").removeClass("btn-danger");
-      $("#showUncontestedOnly").html("顯示全部選區");
-  } else {
-      $("#showUncontestedOnly").addClass("btn-danger").removeClass("btn-success");
-      $("#showUncontestedOnly").html("只顯示自動當選選區");
-  }
-  map.eachLayer(function (layer) {
-      if (layer._url != "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png") {
-          layer.remove();
-      }
-  });
-  showRegions("./boundary.json", showUncontestedSeatsOnly);
-}
-
 function showRegions(path, showUncontestedSeatsOnly) {
   $.getJSON(path, function (data) {
-      var allRegions = 0;
+	  var delibratedRegions = 0;
       var uncontestedRegions = 0;
       $.each(data, function (index, value) {
-          /*if(!showUncontestedSeatsOnly){ //Show All Seats
-              L.polygon([value.points], {className: value.code}).addTo(map);
-          } else*/
-          allRegions = allRegions + 1;
-          if (value.isUncontested) { //Only Show Uncontested Seats
+          if (value.contestStatus == "UNCON") {
               L.polygon([value.points], { className: value.code, color: "#FF0000" }).addTo(map);
               uncontestedRegions = uncontestedRegions + 1;
-          } else {
-              L.polygon([value.points], { className: value.code }).addTo(map);
-              //The Contested Seats are not shown
+          } else if (value.contestStatus == "DELIB") {
+			  L.polygon([value.points], { className: value.code, color: "#FF9A26" }).addTo(map);
+              delibratedRegions = delibratedRegions + 1;
+		  } else { //value.contestStatus == "CON"
+              L.polygon([value.points], { className: value.code}).addTo(map);
           }
       });
       var d = new Date();
       var datetime = d.getFullYear() + "年" + (d.getMonth() + 1) + "月" + d.getDate() + "日" + d.getHours() + "時" + d.getMinutes() + "分";
-      $("#entry_status").html("截至" + datetime + ",已輸入" + allRegions.toString() + "/452個選區, 其中<span style='color: red;'>" + uncontestedRegions.toString() + "個選區</span>有機會由建制派自動當選。");
+      $("#entry_status").html("截至" + datetime + ",在全部452個選區中,已確認" + (452-uncontestedRegions-delibratedRegions).toString() + "個有競爭的選區；並有<span style='color: #FF9A26;'>" + delibratedRegions.toString() + "個選區</span>有人積極考慮參選。" + "<strong>有機會由建制派自動當選的選區<span style='color: red;'>尚餘" + uncontestedRegions.toString() + "個</span>。</strong>");
   });
 }
-
-
-
-
-//Ad-hoc parameters for data entry
-//var map = L.map('mapid').setView([22.320638, 114.194829], 14);
 
 //Center of HK for use
 var map = L.map('mapid').setView([22.354554, 114.161682], 11);
@@ -53,27 +28,12 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a target="_blank" href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
-//Base JSON
-//TODO 1: All Boundaries, Region Name, Contestants, Organization
-//TODO 2: Read from Separate JSON Source for easier Maintenance - DONE
-//TODO 3: Visualization depends on Use
-
+//Show All Regions
 var showUncontestedSeatsOnly = false;
 showRegions("./boundary.json", showUncontestedSeatsOnly);
 
-
-
-
-//TODO: Pop-up Functionality according to selected region, Use className for each SVG element
+//Pop-up Functionality according to selected region, Use className for each SVG element
 var popup = L.popup();
-
-//TODO: Take from JSON Source for Content
-function onMapClick(e) {
-    console.log(e);
-    popup.setLatLng(e.latlng).setContent("You clicked the map at " + e.latlng.toString()).openOn(map);
-}
-//map.on('click', onMapClick);
-
 map.on('click', onRegionClick);
 
 function onRegionClick(e) {
