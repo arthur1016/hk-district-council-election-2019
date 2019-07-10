@@ -1,7 +1,7 @@
 //Functions
 function showRegions(path, showUncontestedSeatsOnly) {
   $.getJSON(path, function (data) {
-	  var delibratedRegions = 0;
+	  var delibratingRegions = 0;
       var uncontestedRegions = 0;
       $.each(data, function (index, value) {
           if (value.contestStatus == "UNCON") {
@@ -9,14 +9,14 @@ function showRegions(path, showUncontestedSeatsOnly) {
               uncontestedRegions = uncontestedRegions + 1;
           } else if (value.contestStatus == "DELIB") {
 			  L.polygon([value.points], { className: value.code, color: "#FF9A26" }).addTo(map);
-              delibratedRegions = delibratedRegions + 1;
+              delibratingRegions = delibratingRegions + 1;
 		  } else { //value.contestStatus == "CON"
               L.polygon([value.points], { className: value.code}).addTo(map);
           }
       });
       var d = new Date();
       var datetime = d.getFullYear() + "年" + (d.getMonth() + 1) + "月" + d.getDate() + "日" + d.getHours() + "時" + d.getMinutes() + "分";
-      $("#entry_status").html("截至" + datetime + ",在全部452個選區中,已確認" + (452-uncontestedRegions-delibratedRegions).toString() + "個有競爭的選區；並有<span style='color: #FF9A26;'>" + delibratedRegions.toString() + "個選區</span>有人積極考慮參選。" + "<strong>有機會由建制派自動當選的選區<span style='color: red;'>尚餘" + uncontestedRegions.toString() + "個</span>。</strong>");
+      $("#entry_status").html("截至" + datetime + ",在全部452個選區中,已確認" + (452-uncontestedRegions-delibratingRegions).toString() + "個有極大機會出現競爭的選區；並有<span style='color: #FF9A26;'>" + delibratingRegions.toString() + "個選區</span>有人積極考慮參選。" + "<strong>有機會由建制派自動當選的選區<span style='color: red;'>尚餘" + uncontestedRegions.toString() + "個</span>。</strong>");
   });
 }
 
