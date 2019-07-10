@@ -1,3 +1,6 @@
+.col-display{
+  flex-direction: column;
+}
 body {
     width: 90%;
     display: block;
@@ -5,54 +8,84 @@ body {
     margin-right: auto;
 
 }
+header h1{
+  font-size: 2rem;
+}
+header{
+  margin: 15px;
+}
+header .reference_link_container > div > a{
+  flex: 1;
+  text-align: center;
+}
+header .reference_link_icon{
+  width: 30px;
+  height: auto;
+  vertical-align: top;
+  padding-top: 4px;
+}
+#district-menu{
+  /*max-height: 600px;
+  overflow: scroll;*/
+}
 #district-menu li.nav-item img{
-  max-width:100%;
-  width: 200px;
+  max-width: 60px;
+  width: 100%;
   height: auto;
 }
 #district-menu .navbar-nav{
-  flex-direction: row;
-  margin: 15px 0px;
+  flex-direction: column;
+  text-align: center;
 }
-#district-menu .hk_island>li:first-child{
+#district-menu .hk_island>li>a{
+  display:block;
   color:	#0071CE;
 }
-#district-menu .kowloon>li:first-child{
+#district-menu .kowloon>li>a{
+  display:block;
   color: #00AF41;
 }
-#district-menu .new_territories>li:first-child{
+#district-menu .new_territories>li>a{
+  display:block;
   color: #E2231A;
 }
-#district-menu .district-cat{
-  width: 70px;
-  padding: 15px 0px 0px 10px;
+#district-menu .hk_island>li>a:hover, #district-menu .kowloon>li>a, #district-menu .new_territories>li>a:hover{
+  cursor: pointer;
+  text-decoration: underline;
 }
 #mapid {
-  height: 450px;
+  height: 600px;
 }
 #infoBoard{
   flex-direction: column;
 }
 #infoBoard > div{
-  flex:1;
   max-width:100%;
 }
 #infoBoard, #infoBoard .row{
   height: 100%;
 }
-#detailInfo{
+#infoBoard{
   transition : border 500ms ease-out;
   padding: 15px;
+  /*max-height: 600px;
+  overflow: scroll;*/
 }
-#detailInfo.existing{
+#infoBoard.existing{
   border: 2px solid blue;
 }
-#detailInfo.notExisting{
+#infoBoard.notExisting{
   border: 2px solid red;
 }
-footer .footer_icon{
-  width: 30px;
-  height: auto;
-  vertical-align: top;
-  padding-top: 4px;
+#infoBoard #entry_status{
+  display:block;
+}
+#infoBoard.existing #entry_status, #infoBoard.notExisting #entry_status{
+  display:none;
+}
+#detailInfo {
+  display: none;
+}
+#infoBoard.existing #detailInfo, #infoBoard.notExisting #detailInfo{
+  display:block;
 }

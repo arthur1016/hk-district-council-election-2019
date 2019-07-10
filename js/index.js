@@ -49,22 +49,22 @@ function onRegionClick(e) {
                     "選區名稱：" + value.name + "<br/>" +
                     "建制派擬參選人：" + value.estab_contestant + " (" + value.estab_organization + ")<br/>";
                     if (!!value.democrat_contestant) {
-                        region_content = region_content + "非建制派擬參選人" + value.democrat_contestant + " (" + value.democrat_organization + ")<br/>";
+                        region_content = region_content + "非建制派擬參選人：" + value.democrat_contestant + " (" + value.democrat_organization + ")<br/>";
                         // style the detail Info contesetants
-                        if(document.getElementById("detailInfo").classList.contains("notExisting")) {
-                          document.getElementById("detailInfo").classList.remove("notExisting");
+                        if(document.getElementById("infoBoard").classList.contains("notExisting")) {
+                          document.getElementById("infoBoard").classList.remove("notExisting");
                         }
-                        if(!(document.getElementById("detailInfo").classList.contains("existing"))){
-                          document.getElementById("detailInfo").classList.add("existing");
+                        if(!(document.getElementById("infoBoard").classList.contains("existing"))){
+                          document.getElementById("infoBoard").classList.add("existing");
                         }
                     } else {
                         region_content = region_content + "<span style='color: red;'><strong>未有非建制派候選人！</strong></span><br/>"
                         // style the detail Info for no contestants
-                        if(document.getElementById("detailInfo").classList.contains("existing")) {
-                          document.getElementById("detailInfo").classList.remove("existing");
+                        if(document.getElementById("infoBoard").classList.contains("existing")) {
+                          document.getElementById("infoBoard").classList.remove("existing");
                         }
-                        if(!(document.getElementById("detailInfo").classList.contains("notExisting"))){
-                          document.getElementById("detailInfo").classList.add("notExisting");
+                        if(!(document.getElementById("infoBoard").classList.contains("notExisting"))){
+                          document.getElementById("infoBoard").classList.add("notExisting");
                         }
                     }
                     document.getElementById("region_content").innerHTML = region_content;
