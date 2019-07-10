@@ -43,18 +43,31 @@ function onRegionClick(e) {
         $.getJSON("./region_details.json", function (data) {
             $.each(data, function (index, value) {
                 if (value.code == region_code) {
-
                     region_content =
-                        "地區：" + value.district + "<br/>" +
-                        "選區編號：" + value.code + "<br/>" +
-                        "選區名稱：" + value.name + "<br/>" +
-                        "建制派擬參選人：" + value.estab_contestant + " (" + value.estab_organization + ")<br/>";
+                    "地區：" + value.district + "<br/>" +
+                    "選區編號：" + value.code + "<br/>" +
+                    "選區名稱：" + value.name + "<br/>" +
+                    "建制派擬參選人：" + value.estab_contestant + " (" + value.estab_organization + ")<br/>";
                     if (!!value.democrat_contestant) {
-                        region_content = region_content + "非建制派擬參選人：" + value.democrat_contestant + " (" + value.democrat_organization + ")<br/>";
+                        region_content = region_content + "非建制派擬參選人" + value.democrat_contestant + " (" + value.democrat_organization + ")<br/>";
+                        // style the detail Info contesetants
+                        if(document.getElementById("detailInfo").classList.contains("notExisting")) {
+                          document.getElementById("detailInfo").classList.remove("notExisting");
+                        }
+                        if(!(document.getElementById("detailInfo").classList.contains("existing"))){
+                          document.getElementById("detailInfo").classList.add("existing");
+                        }
                     } else {
                         region_content = region_content + "<span style='color: red;'><strong>未有非建制派候選人！</strong></span><br/>"
+                        // style the detail Info for no contestants
+                        if(document.getElementById("detailInfo").classList.contains("existing")) {
+                          document.getElementById("detailInfo").classList.remove("existing");
+                        }
+                        if(!(document.getElementById("detailInfo").classList.contains("notExisting"))){
+                          document.getElementById("detailInfo").classList.add("notExisting");
+                        }
                     }
-
+                    document.getElementById("region_content").innerHTML = region_content;
                     if (!!value.democrat_contestant) {
                         organzation_content = "<br/><strong>民間組織</strong><br/>";
                         $.each(value.organization, function(index, val) {
@@ -69,10 +82,10 @@ function onRegionClick(e) {
                     } else {
                       organzation_content = "<br/><strong>有意參選市民,請聯絡<a target='_blank' href='https://www.facebook.com/pg/反自動當選運動-2510455555631639'>反自動當選運動</a></strong><br/>";
                     }
-
+                    document.getElementById("organzation_content").innerHTML = organzation_content;
                     popup.setLatLng(e.latlng).setContent(region_content + organzation_content).openOn(map);
                 }
             });
         });
     }
-}    
+}
