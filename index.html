@@ -21,31 +21,44 @@
         integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
         crossorigin=""></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+    <script src="https://www.w3schools.com/lib/w3.js"></script>
     <!-- CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
         integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
         crossorigin="" />
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
-        integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <link href="css/index.css" rel="stylesheet" type="text/css">
 </head>
-<body>
-    <h1 class="text-center">2019年區議會一般選舉選區地圖 - BETA Version 0.1</h1>
-    <h2 class="text-center">
-        <a target="_blank"
-            href="https://www.facebook.com/%E5%8F%8D%E8%87%AA%E5%8B%95%E7%95%B6%E9%81%B8%E9%81%8B%E5%8B%95-2510455555631639/">反自動當選運動
-            Facebook Page</a>
-    </h2>
-    <h2 class="text-center mb-3">
-        <a target="_blank"
-            href="https://docs.google.com/spreadsheets/d/1ZYyCwTT7Yyx5wDpiB8eZVadha1e4f_Tsb_jddT42YPQ/edit#gid=1304213120">2019區議會積極考慮參選名單
-        </a>
-        <br />
-        （連登原帖傳送門：<a target="_blank"
-            href="https://lihkg.com/thread/1255227/page/1">https://lihkg.com/thread/1255227/page/1</a>）
-    </h2>
-    <h5 class="text-right mx" id='entry_status'></h5>
-    <div id="mapid"></div>
+<body class="container-fluid">
+  <header>
+    <div class="row justify-content-center">
+      <h1 class="col-8 text-center">2019年區議會一般選舉選區地圖 - BETA Version 0.1</h1>
+    </div>
+    <div w3-include-html="nav.html"></div>
+  </header>
+    <!--<button style="" type="button" class="btn btn-danger btn-lg btn-block" onclick="contestedSeats()" id="showUncontestedOnly">只顯示自動當選選區</button> -->
+    <div class="container-fluid">
+      <div class="row">
+        <p id='entry_status' class="col-12"></p>
+      </div>
+      <div class="row">
+        <div class="col-8">
+          <div id="mapid"></div>
+        </div>
+        <div class="col-4 pl-0">
+          <div id="infoBoard" class="row">
+              <div id="detailInfo">
+                <div id="region_content"></div>
+                <div id="organzation_content"></div>
+              </div>
+          </div>
+        </div>
+      </div>
+    </div>
     <div class="text-left">
         <p>
             <small>
@@ -64,6 +77,25 @@
             </small>
         </p>
     </div>
+    <footer>
+      <h2 class="text-center">
+          <a target="_blank"
+              href="https://www.facebook.com/%E5%8F%8D%E8%87%AA%E5%8B%95%E7%95%B6%E9%81%B8%E9%81%8B%E5%8B%95-2510455555631639/"><img class="footer_icon" src="./images/fb.svg" />反自動當選運動
+          </a>
+
+      </h2>
+      <h2 class="text-center mb-3">
+          <a target="_blank"
+              href="https://docs.google.com/spreadsheets/d/1ZYyCwTT7Yyx5wDpiB8eZVadha1e4f_Tsb_jddT42YPQ/edit#gid=1304213120">2019區議會積極考慮參選名單
+          </a>
+          <br />
+          （連登原帖傳送門：<a target="_blank"
+              href="https://lihkg.com/thread/1255227/page/1"><img class="footer_icon" src="./images/lihkg.svg" /></a>）
+      </h2>
+    </footer>
+    <script>
+        w3.includeHTML();
+    </script>
 </body>
 <script src="js/index.js"></script>
 </html>
