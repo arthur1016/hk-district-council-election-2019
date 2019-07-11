@@ -182,6 +182,7 @@ function onRegionClick(e) {
 		$("#infoBoard").css("border-color", "#FFFFFF");
 		$("#detailInfo").hide();
 		$("#entry_status").show();
+		map.setView([22.354554, 114.161682], 11);
 		showRegions("./boundary.json", false);
 	}
 }
