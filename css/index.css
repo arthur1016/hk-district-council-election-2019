@@ -37,17 +37,26 @@ header .reference_link_icon{
   flex-direction: column;
   text-align: center;
 }
+#district-menu .hk_island{
+  background-color: #baffff;
+}
 #district-menu .hk_island>li>a{
   display:block;
-  color:	#0071CE;
+  /*color: #0071CE;*/
+}
+#district-menu .kowloon{
+  background-color: #fffaba;
 }
 #district-menu .kowloon>li>a{
   display:block;
-  color: #00AF41;
+  /*color: #00AF41;*/
+}
+#district-menu .new_territories{
+  background-color: #ffe8fc;
 }
 #district-menu .new_territories>li>a{
   display:block;
-  color: #E2231A;
+  /*color: #E2231A;*/
 }
 #district-menu .hk_island>li>a:hover, #district-menu .kowloon>li>a, #district-menu .new_territories>li>a:hover{
   cursor: pointer;
@@ -72,10 +81,10 @@ header .reference_link_icon{
   overflow: scroll;*/
 }
 #infoBoard.existing{
-  border: 2px solid blue;
+  border: 3px solid blue;
 }
 #infoBoard.notExisting{
-  border: 2px solid red;
+  border: 3px solid red;
 }
 #infoBoard #entry_status{
   display:block;
@@ -88,4 +97,10 @@ header .reference_link_icon{
 }*/
 #infoBoard.existing #detailInfo, #infoBoard.notExisting #detailInfo{
   display:block;
+}
+
+.defaultText {
+	text-align: center;
+	font-weight: 700;
+	font-size: 20px;
 }

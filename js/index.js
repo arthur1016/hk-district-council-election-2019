@@ -14,9 +14,12 @@ function showRegions(path, toDraw) {
 			  if(toDraw){L.polygon([value.points], { className: value.code}).addTo(map);}
           }
       });
+	  
+	  var defaultText = "<p class='defaultText'><u>勿忘行動訴求</u><br/>完全撤回逃犯修例<br/>追究警方開槍責任<br/>不檢控及釋放所有示威者<br/>撤銷定性6月12日集會為暴動<br/>林鄭月娥問責下台 <br/>立即實行行政長官立法會雙普選</p>";
+	  
 	  var d = new Date();
       var datetime = d.getFullYear() + "年" + (d.getMonth() + 1) + "月" + d.getDate() + "日" + d.getHours() + "時" + d.getMinutes() + "分";
-      $("#entry_status").html("截至" + datetime + ",在全部452個選區中,已確認" + (452-uncontestedRegions-delibratingRegions).toString() + "個選區有極大機會出現競爭；並有<span style='color: #FF9A26;'>" + delibratingRegions.toString() + "個選區</span>有人積極考慮參選。" + "<strong>有機會由建制派自動當選的選區<span style='color: red;'>尚餘" + uncontestedRegions.toString() + "個</span>。</strong>");
+      $("#entry_status").html("截至" + datetime + ",在全部452個選區中,已確認" + (452-uncontestedRegions-delibratingRegions).toString() + "個選區有極大機會出現競爭；並有<span style='color: #FF9A26;'>" + delibratingRegions.toString() + "個選區</span>有人積極考慮參選。" + "<strong>有機會由建制派自動當選的選區<span style='color: red;'>尚餘" + uncontestedRegions.toString() + "個</span>。</strong>" + "<br/><br/>"+ defaultText);
   });
 }
 
@@ -122,6 +125,7 @@ map.on('click', onRegionClick);
 function onRegionClick(e) {
     //console.log(e.originalEvent);
     if (e.originalEvent.target.classList.length == 2) {
+		$("#infoBoard").css("border-color", "");
 		$("#detailInfo").show();
 		$("#entry_status").hide();
         var region_code = e.originalEvent.target.classList[0];
@@ -173,6 +177,7 @@ function onRegionClick(e) {
             });
         });
     } else {
+		$("#infoBoard").css("border-color", "#FFFFFF");
 		$("#detailInfo").hide();
 		$("#entry_status").show();
 		showRegions("./boundary.json", false);
