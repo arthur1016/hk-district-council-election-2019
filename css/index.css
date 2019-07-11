@@ -54,7 +54,7 @@ header .reference_link_icon{
   text-decoration: underline;
 }
 #mapid {
-  height: 600px;
+  height: 800px;
 }
 #infoBoard{
   flex-direction: column;
@@ -79,13 +79,13 @@ header .reference_link_icon{
 }
 #infoBoard #entry_status{
   display:block;
-}
+}/*
 #infoBoard.existing #entry_status, #infoBoard.notExisting #entry_status{
   display:none;
 }
 #detailInfo {
   display: none;
-}
+}*/
 #infoBoard.existing #detailInfo, #infoBoard.notExisting #detailInfo{
   display:block;
 }

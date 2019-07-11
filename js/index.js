@@ -1,20 +1,20 @@
 //Functions
-function showRegions(path, showUncontestedSeatsOnly) {
+function showRegions(path, toDraw) {
   $.getJSON(path, function (data) {
 	  var delibratingRegions = 0;
       var uncontestedRegions = 0;
       $.each(data, function (index, value) {
           if (value.contestStatus == "UNCON") {
-              L.polygon([value.points], { className: value.code, color: "#FF0000" }).addTo(map);
+              if(toDraw){L.polygon([value.points], { className: value.code, color: "#FF0000" }).addTo(map);}
               uncontestedRegions = uncontestedRegions + 1;
           } else if (value.contestStatus == "DELIB") {
-			  L.polygon([value.points], { className: value.code, color: "#FF9A26" }).addTo(map);
+			  if(toDraw){L.polygon([value.points], { className: value.code, color: "#FF9A26" }).addTo(map);}
               delibratingRegions = delibratingRegions + 1;
 		  } else { //value.contestStatus == "CON"
-              L.polygon([value.points], { className: value.code}).addTo(map);
+			  if(toDraw){L.polygon([value.points], { className: value.code}).addTo(map);}
           }
       });
-      var d = new Date();
+	  var d = new Date();
       var datetime = d.getFullYear() + "年" + (d.getMonth() + 1) + "月" + d.getDate() + "日" + d.getHours() + "時" + d.getMinutes() + "分";
       $("#entry_status").html("截至" + datetime + ",在全部452個選區中,已確認" + (452-uncontestedRegions-delibratingRegions).toString() + "個選區有極大機會出現競爭；並有<span style='color: #FF9A26;'>" + delibratingRegions.toString() + "個選區</span>有人積極考慮參選。" + "<strong>有機會由建制派自動當選的選區<span style='color: red;'>尚餘" + uncontestedRegions.toString() + "個</span>。</strong>");
   });
@@ -29,8 +29,7 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 }).addTo(map);
 
 //Show All Regions
-var showUncontestedSeatsOnly = false;
-showRegions("./boundary.json", showUncontestedSeatsOnly);
+showRegions("./boundary.json", true);
 
 //Click District Icon to focus map
 function focusDistrict(id){
@@ -123,6 +122,8 @@ map.on('click', onRegionClick);
 function onRegionClick(e) {
     //console.log(e.originalEvent);
     if (e.originalEvent.target.classList.length == 2) {
+		$("#detailInfo").show();
+		$("#entry_status").hide();
         var region_code = e.originalEvent.target.classList[0];
         $.getJSON("./region_details.json", function (data) {
             $.each(data, function (index, value) {
@@ -171,5 +172,9 @@ function onRegionClick(e) {
                 }
             });
         });
-    }
+    } else {
+		$("#detailInfo").hide();
+		$("#entry_status").show();
+		showRegions("./boundary.json", false);
+	}
 }
