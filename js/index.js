@@ -160,8 +160,10 @@ function onRegionClick(e) {
                     if (!!value.democrat_contestant) {
                         organzation_content = "<br/><strong>民間組織</strong><br/>";
                         $.each(value.organization, function(index, val) {
-                          if (!!val.name) {organzation_content = organzation_content + "名稱：" + val.name + "<br/>";}
-                          if (!!val.fbpage) {organzation_content = organzation_content + "Facebook Page：<a target='_blank' href='" + val.fbpage + "'>" + val.fbpage + "</a><br/>";}
+                          if (!!val.name) {organzation_content = organzation_content + "<u>" + val.name + "</u><br/>";}
+                          if (!!val.webpage) {organzation_content = organzation_content + "網頁：<a target='_blank' href='" + val.webpage + "'>" + val.webpage + "</a><br/>";}
+						  if (!!val.fbpage) {organzation_content = organzation_content + "Facebook：<a target='_blank' href='" + val.fbpage + "'>" + val.fbpage + "</a><br/>";}
+						  if (!!val.instagram) {organzation_content = organzation_content + "Instagram：<a target='_blank' href='" + val.instagram + "'>" + val.instagram + "</a><br/>";}
                           if (!!val.telegram) {organzation_content = organzation_content + "Telegram：" + val.telegram + "<br/>";}
                           if (!!val.email) {organzation_content = organzation_content + "電郵：<a href='mailto:" + val.email + "'>" + val.email + "</a><br/>";}
                           if (!!val.whatsapp) {organzation_content = organzation_content + "Whatsapp：" + val.whatsapp + "<br/>";}

@@ -8,12 +8,41 @@
 	"democrat_contestant": "許智峯",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/huichifung913/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"email": "huichifung@gmail.com",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3489 2064 / 9722 6032"
+	},{
+		"name": "立法會議員辦事處",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/huichifung913/",
+		"instagram": "",
+		"telegram": "",
+		"email": "huichifung@gmail.com",
+		"whatsapp": "",
+		"telephone": "2517 8168 / 2552 2443 / 2811 1111 / 2875 0363"
+	},{
+		"name": "民主黨香港島支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"email": "dphkhki@dphk.org",
+		"whatsapp": "",
+		"telephone": "9800 8237"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "中西區",
@@ -24,12 +53,30 @@
 	"democrat_contestant": "吳兆康",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/siuhongng/",
 		"telegram": "",
-		"email": "",
+		"email": "ngsiuhong@dphk.org",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "6377 0423 / 3105 0370"
+	},{
+		"name": "民主黨香港島支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"email": "dphkhki@dphk.org",
+		"whatsapp": "",
+		"telephone": "9800 8237"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "中西區",
@@ -40,12 +87,30 @@
 	"democrat_contestant": "鄭麗琼",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/King-%E9%84%AD%E9%BA%97%E7%90%BC-Cheng-Lai-King-2125828711010749/",
 		"telegram": "",
-		"email": "",
+		"email": "kinga03@yahoo.com.hk",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2117 4488 / 9363 6734"
+	},{
+		"name": "民主黨香港島支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"email": "dphkhki@dphk.org",
+		"whatsapp": "",
+		"telephone": "9800 8237"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "中西區",
@@ -57,7 +122,9 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
@@ -73,7 +140,9 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
@@ -89,7 +158,9 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
@@ -104,17 +175,21 @@
 	"democrat_contestant": "黃健菁",
 	"democrat_organization": "守護堅城",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/CherryWongKC/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"email": "cherrykcwong2016@gmail.com",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "6804 6332"
 	},{
 		"name": "守護堅城",
+		"webpage": "https://www.inmediahk.net/node/1054030",
 		"fbpage": "https://www.facebook.com/protectktngp/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"email": "protectcadoganpark@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -127,17 +202,21 @@
 	"democrat_contestant": "彭家浩",
 	"democrat_organization": "維多利亞社區協會",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/kahosaiwan/",
+		"instagram": "",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
 	},{
 		"name": "維多利亞社區協會",
+		"webpage": "https://zh.wikipedia.org/wiki/%E7%B6%AD%E5%A4%9A%E5%88%A9%E4%BA%9E%E7%A4%BE%E5%8D%80%E5%8D%94%E6%9C%83",
 		"fbpage": "https://www.facebook.com/HKVSA/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"email": "info.hkvsa@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -150,12 +229,30 @@
 	"democrat_contestant": "楊浩然",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/victor.yeung.180",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "8206 6677 / 2517 8168"
+	},{
+		"name": "民主黨香港島支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"email": "dphkhki@dphk.org",
+		"whatsapp": "",
+		"telephone": "9800 8237"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "中西區",
@@ -166,17 +263,30 @@
 	"democrat_contestant": "葉錦龍",
 	"democrat_organization": "西環飛躍動力",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/hk.samyip/",
+		"instagram": "",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
 	},{
 		"name": "西環飛躍動力",
+		"webpage": "",
 		"fbpage": "https://zh-hk.facebook.com/iwdmhk/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"email": "westernfc.hk@gmail.com",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "西柚辦公室",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/saiyauoffice/",
+		"instagram": "",
+		"telegram": "",
+		"email": "saiyauoffice@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -190,7 +300,9 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
@@ -205,12 +317,32 @@
 	"democrat_contestant": "甘乃威",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/profile.php?id=1946752185653273&ref=br_rs",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"email": "nwkam@dphk.org",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2541 1210"
+	},{
+		"name": "民主黨香港島支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"email": "dphkhki@dphk.org",
+		"whatsapp": "",
+		"telephone": "9800 8237"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "中西區",
@@ -221,12 +353,32 @@
 	"democrat_contestant": "伍凱欣",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/nghoiyan.official/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"email": "nghoiyanbonnie@gmail.com",
+		"whatsapp": "9475 3802",
+		"telephone": "2541 1210 / 9889 5221"
+	},{
+		"name": "民主黨香港島支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"email": "dphkhki@dphk.org",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "9800 8237"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "中西區",
@@ -237,23 +389,43 @@
 	"democrat_contestant": "張啟昕",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/kycheungdphk/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"email": "kycheungdphk@gmail.com",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "5444 7850"
+	},{
+		"name": "民主黨香港島支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"email": "dphkhki@dphk.org",
+		"whatsapp": "",
+		"telephone": "9800 8237"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "中西區",
     "code": "A15",
-    "name": "正街",
+    "name": "水街",
 	"estab_contestant": "楊學明",
 	"estab_organization": "民建聯",
 	"democrat_contestant": "何致宏",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://zh-hk.facebook.com/chiwangh",
 		"telegram": "",
 		"email": "",
@@ -269,7 +441,7 @@
 	"democrat_contestant": "夏希諾",
 	"democrat_organization": "工黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/helix.ha.3",
 		"telegram": "",
 		"email": "",
@@ -333,7 +505,7 @@
 	"democrat_contestant": "李永財",
 	"democrat_organization": "維多利亞社區協會",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/Garyli2019/",
 		"telegram": "",
 		"email": "",
@@ -356,7 +528,7 @@
 	"democrat_contestant": "麥智軒",
 	"democrat_organization": "灣仔起步",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/bigmakcasey/",
 		"telegram": "",
 		"email": "",
@@ -379,7 +551,7 @@
 	"democrat_contestant": "楊雪盈",
 	"democrat_organization": "灣仔起步",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/clarisseysy/",
 		"telegram": "",
 		"email": "",
@@ -418,7 +590,7 @@
 	"democrat_contestant": "楊子雋",
 	"democrat_organization": "灣仔起步",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/ytcarthur/",
 		"telegram": "",
 		"email": "",
@@ -505,7 +677,7 @@
 	"democrat_contestant": "趙家賢",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/andrew.kychiu",
 		"telegram": "",
 		"email": "",
@@ -521,7 +693,7 @@
 	"democrat_contestant": "王振星",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/taikoostar/",
 		"telegram": "",
 		"email": "",
@@ -537,7 +709,7 @@
 	"democrat_contestant": "韋少力",
 	"democrat_organization": "鯉景。太安。西灣河",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/siulik.wei",
 		"telegram": "",
 		"email": "",
@@ -560,7 +732,7 @@
 	"democrat_contestant": "麥德正",
 	"democrat_organization": "工黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/TakChingMak/",
 		"telegram": "",
 		"email": "",
@@ -576,7 +748,7 @@
 	"democrat_contestant": "蘇逸恒",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/SOYATHANG/",
 		"telegram": "",
 		"email": "",
@@ -592,7 +764,7 @@
 	"democrat_contestant": "梁詠詩",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/skwjenny/",
 		"telegram": "",
 		"email": "",
@@ -608,7 +780,7 @@
 	"democrat_contestant": "郭志聰",
 	"democrat_organization": "灣東願景",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/micdailo",
 		"telegram": "",
 		"email": "",
@@ -631,7 +803,7 @@
 	"democrat_contestant": "周詠儀",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://zh-hk.facebook.com/HFCJanis/",
 		"telegram": "",
 		"email": "",
@@ -647,7 +819,7 @@
 	"democrat_contestant": "古桂耀",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/kuoffice/",
 		"telegram": "",
 		"email": "",
@@ -679,7 +851,7 @@
 	"democrat_contestant": "陳榮泰",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/lancelot.chan.376",
 		"telegram": "",
 		"email": "",
@@ -727,7 +899,7 @@
 	"democrat_contestant": "黎志強",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/laichikeong/",
 		"telegram": "",
 		"email": "",
@@ -775,7 +947,7 @@
 	"democrat_contestant": "陳嘉佑",
 	"democrat_organization": "炮台山活",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/jasonchankayau/",
 		"telegram": "",
 		"email": "",
@@ -846,7 +1018,7 @@
 	"democrat_contestant": "李予信",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/cpyslee/",
 		"telegram": "",
 		"email": "",
@@ -862,7 +1034,7 @@
 	"democrat_contestant": "鄭達鴻",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/cpthcheng/",
 		"telegram": "",
 		"email": "",
@@ -910,7 +1082,7 @@
 	"democrat_contestant": "張國昌",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/HowardCheungKwokCheong/",
 		"telegram": "",
 		"email": "",
@@ -926,7 +1098,7 @@
 	"democrat_contestant": "魏志豪",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/derekngai",
 		"telegram": "",
 		"email": "",
@@ -942,7 +1114,7 @@
 	"democrat_contestant": "梁兆新",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/kornhill.garden.patrick.leung/",
 		"telegram": "",
 		"email": "",
@@ -974,7 +1146,7 @@
 	"democrat_contestant": "何偉倫",
 	"democrat_organization": "工黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/AlanHoLP",
 		"telegram": "",
 		"email": "",
@@ -1006,7 +1178,7 @@
 	"democrat_contestant": "謝妙儀",
 	"democrat_organization": "山民主義",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/Tsemiuyee",
 		"telegram": "",
 		"email": "",
@@ -1061,7 +1233,7 @@
 	"democrat_contestant": "徐子見",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/AndyChui2015/",
 		"telegram": "",
 		"email": "",
@@ -1077,7 +1249,7 @@
 	"democrat_contestant": "李鳳琼",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/李鳳琼-Alice-353252968475350/",
 		"telegram": "",
 		"email": "",
@@ -1093,7 +1265,7 @@
 	"democrat_contestant": "黃銳熺",
 	"democrat_organization": "區諾軒辦",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/abdanguswong/",
 		"telegram": "",
 		"email": "",
@@ -1109,7 +1281,7 @@
 	"democrat_contestant": "陳堡明",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/pomingchanALC/",
 		"telegram": "",
 		"email": "",
@@ -1125,7 +1297,7 @@
 	"democrat_contestant": "陳炳洋",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/chanpingyeung/",
 		"telegram": "",
 		"email": "",
@@ -1141,7 +1313,7 @@
 	"democrat_contestant": "陳欣兒",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/CJaniceYY/",
 		"telegram": "",
 		"email": "",
@@ -1157,7 +1329,7 @@
 	"democrat_contestant": "羅健熙",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/dphk.leitung/",
 		"telegram": "",
 		"email": "",
@@ -1173,7 +1345,7 @@
 	"democrat_contestant": "俞竣晞",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/JamesYuChunHei/",
 		"telegram": "",
 		"email": "",
@@ -1189,7 +1361,7 @@
 	"democrat_contestant": "林浩波",
 	"democrat_organization": "區諾軒辦",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/kelvinlamhp/",
 		"telegram": "",
 		"email": "",
@@ -1205,7 +1377,7 @@
 	"democrat_contestant": "潘秉康",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/Benpoonwk/",
 		"telegram": "",
 		"email": "",
@@ -1221,7 +1393,7 @@
 	"democrat_contestant": "黎熙琳",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/wahfuest",
 		"telegram": "",
 		"email": "",
@@ -1237,7 +1409,7 @@
 	"democrat_contestant": "嚴駿豪",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/YimC.Philip/",
 		"telegram": "",
 		"email": "",
@@ -1253,7 +1425,7 @@
 	"democrat_contestant": "司馬文",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/PZpage/",
 		"telegram": "",
 		"email": "",
@@ -1285,7 +1457,7 @@
 	"democrat_contestant": "袁嘉蔚",
 	"democrat_organization": "區諾軒辦",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/kawaitiffany/",
 		"telegram": "",
 		"email": "",
@@ -1317,7 +1489,7 @@
 	"democrat_contestant": "徐遠華",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/imagingWCH/",
 		"telegram": "",
 		"email": "",
@@ -1381,7 +1553,7 @@
 	"democrat_contestant": "李穎妍",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/cindyliwingyin/",
 		"telegram": "",
 		"email": "",
@@ -1413,7 +1585,7 @@
 	"democrat_contestant": "胡穗珊",
 	"democrat_organization": "社區前進",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/wusuishan/",
 		"telegram": "",
 		"email": "",
@@ -1436,7 +1608,7 @@
 	"democrat_contestant": "李偉峰",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/LeeWaiFung2011/",
 		"telegram": "",
 		"email": "",
@@ -1452,7 +1624,7 @@
 	"democrat_contestant": "陳源彬",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/yuenpan.chan.3",
 		"telegram": "",
 		"email": "",
@@ -1468,7 +1640,7 @@
 	"democrat_contestant": "余德寶",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/YuTakPoANDY/",
 		"telegram": "",
 		"email": "",
@@ -1484,7 +1656,7 @@
 	"democrat_contestant": "涂謹申",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/ToKunSun/",
 		"telegram": "",
 		"email": "",
@@ -1500,7 +1672,7 @@
 	"democrat_contestant": "伍僥敏",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/Gloria-Ng-伍僥敏-1499974336748633/",
 		"telegram": "",
 		"email": "",
@@ -1516,7 +1688,7 @@
 	"democrat_contestant": "曾自鳴",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/曾自鳴-Tsang-Tsz-Ming-Douglas-191339784825319/",
 		"telegram": "",
 		"email": "",
@@ -1532,7 +1704,7 @@
 	"democrat_contestant": "李傲然",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/owanliowanli/",
 		"telegram": "",
 		"email": "",
@@ -1548,7 +1720,7 @@
 	"democrat_contestant": "李國權",
 	"democrat_organization": "社區前進",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/LeeKwokKuen/",
 		"telegram": "",
 		"email": "",
@@ -1587,7 +1759,7 @@
 	"democrat_contestant": "林兆彬",
 	"democrat_organization": "社區前進",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/orochi.ben.lam",
 		"telegram": "",
 		"email": "",
@@ -1610,7 +1782,7 @@
 	"democrat_contestant": "朱江瑋",
 	"democrat_organization": "社區前進",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/旺角南朱江瑋-266002360722989/",
 		"telegram": "",
 		"email": "",
@@ -1633,7 +1805,7 @@
 	"democrat_contestant": "林健文",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=100000740815383",
 		"telegram": "",
 		"email": "",
@@ -1649,7 +1821,7 @@
 	"democrat_contestant": "朱子洛",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/leochupage/",
 		"telegram": "",
 		"email": "",
@@ -1697,7 +1869,7 @@
 	"democrat_contestant": "賀卓軒",
 	"democrat_organization": "社區前進",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/isaachooo/",
 		"telegram": "",
 		"email": "",
@@ -1752,7 +1924,7 @@
 	"democrat_contestant": "盧德昌",
 	"democrat_organization": "大專政改關注組",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/Colinlotakcheong/",
 		"telegram": "",
 		"email": "",
@@ -1768,7 +1940,7 @@
 	"democrat_contestant": "郭偉誠",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/kwokwaishing1221/",
 		"telegram": "",
 		"email": "",
@@ -1784,7 +1956,7 @@
 	"democrat_contestant": "何啟明",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/kalvinhokaiming/",
 		"telegram": "",
 		"email": "",
@@ -1800,7 +1972,7 @@
 	"democrat_contestant": "李庭豐",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/jaylitingfung/",
 		"telegram": "",
 		"email": "",
@@ -1832,7 +2004,7 @@
 	"democrat_contestant": "衞煥南",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/waiwoonnam/",
 		"telegram": "",
 		"email": "",
@@ -1864,7 +2036,7 @@
 	"democrat_contestant": "李炯",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/RichardLiKwing/",
 		"telegram": "",
 		"email": "",
@@ -1880,7 +2052,7 @@
 	"democrat_contestant": "徐溢軒",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/TsuiRonald/",
 		"telegram": "",
 		"email": "",
@@ -1896,7 +2068,7 @@
 	"democrat_contestant": "鄒穎恒",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/zoewinghengchow/",
 		"telegram": "",
 		"email": "",
@@ -1912,7 +2084,7 @@
 	"democrat_contestant": "袁海文",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/yuenhoiman/",
 		"telegram": "",
 		"email": "",
@@ -1928,7 +2100,7 @@
 	"democrat_contestant": "楊彧",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/hoilai.yuk/",
 		"telegram": "",
 		"email": "",
@@ -1944,7 +2116,7 @@
 	"democrat_contestant": "周琬雯",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/eunicechau.cp/",
 		"telegram": "",
 		"email": "",
@@ -1960,7 +2132,7 @@
 	"democrat_contestant": "伍月蘭",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/janet.ng.5074",
 		"telegram": "",
 		"email": "",
@@ -1976,7 +2148,7 @@
 	"democrat_contestant": "李俊晞",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/JoshuaChunHei/",
 		"telegram": "",
 		"email": "",
@@ -1992,7 +2164,7 @@
 	"democrat_contestant": "覃德誠",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/chumtakshing/",
 		"telegram": "",
 		"email": "",
@@ -2008,7 +2180,7 @@
 	"democrat_contestant": "利瀚庭",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/honting.lee",
 		"telegram": "",
 		"email": "",
@@ -2024,7 +2196,7 @@
 	"democrat_contestant": "陳銘基",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/souksogood/",
 		"telegram": "",
 		"email": "",
@@ -2040,7 +2212,7 @@
 	"democrat_contestant": "江貴生",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/lcukskong/",
 		"telegram": "",
 		"email": "",
@@ -2056,7 +2228,7 @@
 	"democrat_contestant": "吳美",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/adpl.coc",
 		"telegram": "",
 		"email": "",
@@ -2104,7 +2276,7 @@
 	"democrat_contestant": "譚國僑",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/tamkwokkiu2016/",
 		"telegram": "",
 		"email": "",
@@ -2120,7 +2292,7 @@
 	"democrat_contestant": "曾健超",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/KENTsangKinChiu/",
 		"telegram": "",
 		"email": "",
@@ -2136,7 +2308,7 @@
 	"democrat_contestant": "楊振宇",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/ronaldo.yeung.1",
 		"telegram": "",
 		"email": "",
@@ -2152,7 +2324,7 @@
 	"democrat_contestant": "黎廣偉",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/kennylaikw/",
 		"telegram": "",
 		"email": "",
@@ -2184,7 +2356,7 @@
 	"democrat_contestant": "林正軒",
 	"democrat_organization": "香港本土",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/klcityvincent/",
 		"telegram": "",
 		"email": "",
@@ -2200,7 +2372,7 @@
 	"democrat_contestant": "黃永傑",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/wongwingkit.hmt/",
 		"telegram": "",
 		"email": "",
@@ -2216,7 +2388,7 @@
 	"democrat_contestant": "馮文韜",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/joshuafungmantao/",
 		"telegram": "",
 		"email": "",
@@ -2232,7 +2404,7 @@
 	"democrat_contestant": "蕭亮聲",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/SiuLeongSingOfficial/",
 		"telegram": "",
 		"email": "",
@@ -2248,7 +2420,7 @@
 	"democrat_contestant": "黃國桐",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/wongkwoktung",
 		"telegram": "",
 		"email": "",
@@ -2264,7 +2436,7 @@
 	"democrat_contestant": "溫仲然",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/cywanmatthew/",
 		"telegram": "",
 		"email": "",
@@ -2280,14 +2452,14 @@
 	"democrat_contestant": "馮達浚",
 	"democrat_organization": "九龍城大小事",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/frankiefung.hk",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
 	},{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/klcmatters/",
 		"telegram": "",
 		"email": "",
@@ -2335,7 +2507,7 @@
 	"democrat_contestant": "梁咏欣",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/梁咏欣-Sandra-Leung-414955815900219/",
 		"telegram": "",
 		"email": "",
@@ -2351,7 +2523,7 @@
 	"democrat_contestant": "曾穎彤",
 	"democrat_organization": "九龍角落",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/nettetsangwt/",
 		"telegram": "",
 		"email": "",
@@ -2390,14 +2562,14 @@
 	"democrat_contestant": "李軒朗/黃綺婷",
 	"democrat_organization": "九龍角落/維修香港",
 	"organization": [{
-		"name": "李軒朗個人Facebook Page",
+		"name": "李軒朗個人聯絡資料",
 		"fbpage": "https://www.facebook.com/timothyleehinlong/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
 	},{
-		"name": "黃綺婷個人Facebook Page",
+		"name": "黃綺婷個人聯絡資料",
 		"fbpage": "https://www.facebook.com/ET.Wong2019/",
 		"telegram": "",
 		"email": "",
@@ -2427,7 +2599,7 @@
 	"democrat_contestant": "郭天立",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/RealTonyKwok/",
 		"telegram": "",
 		"email": "",
@@ -2443,7 +2615,7 @@
 	"democrat_contestant": "關家倫",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/Dr.Kwan/",
 		"telegram": "",
 		"email": "",
@@ -2459,7 +2631,7 @@
 	"democrat_contestant": "鄺葆賢",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/apokwong",
 		"telegram": "",
 		"email": "",
@@ -2507,7 +2679,7 @@
 	"democrat_contestant": "周熙雯",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/周熙雯-Emily-Chau-1998842407018361/",
 		"telegram": "",
 		"email": "",
@@ -2539,7 +2711,7 @@
 	"democrat_contestant": "麥瑞淇",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/麥瑞淇-Jakki-Mak-366556590466624/",
 		"telegram": "",
 		"email": "",
@@ -2603,7 +2775,7 @@
 	"democrat_contestant": "鄧惠強/鄭詩陶",
 	"democrat_organization": "民主黨/譚香文團隊",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/SzeToCHENG/",
 		"telegram": "",
 		"email": "",
@@ -2619,7 +2791,7 @@
 	"democrat_contestant": "張嘉宜",
 	"democrat_organization": "慈雲山建設力量",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=100024778537975",
 		"telegram": "",
 		"email": "",
@@ -2642,7 +2814,7 @@
 	"democrat_contestant": "譚香文",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/mandytamheungman/",
 		"telegram": "",
 		"email": "",
@@ -2674,7 +2846,7 @@
 	"democrat_contestant": "溫子眾",
 	"democrat_organization": "人民力量",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=566972435&ref=br_rs",
 		"telegram": "",
 		"email": "",
@@ -2690,7 +2862,7 @@
 	"democrat_contestant": "施德來",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/szetakloy",
 		"telegram": "",
 		"email": "",
@@ -2738,7 +2910,7 @@
 	"democrat_contestant": "鄭文杰",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/JayChengManKit/",
 		"telegram": "",
 		"email": "",
@@ -2770,7 +2942,7 @@
 	"democrat_contestant": "許錦成",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/huikamsshing",
 		"telegram": "",
 		"email": "",
@@ -2802,7 +2974,7 @@
 	"democrat_contestant": "張茂清",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/mau.ching.7",
 		"telegram": "",
 		"email": "",
@@ -2818,7 +2990,7 @@
 	"democrat_contestant": "岑宇軒",
 	"democrat_organization": "慈雲山建設力量",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=100020114764341",
 		"telegram": "",
 		"email": "",
@@ -2841,7 +3013,7 @@
 	"democrat_contestant": "黃逸旭",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/WongYatYukRoger/",
 		"telegram": "",
 		"email": "",
@@ -2857,7 +3029,7 @@
 	"democrat_contestant": "莫綺霞",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/msmok2019/",
 		"telegram": "",
 		"email": "",
@@ -2873,7 +3045,7 @@
 	"democrat_contestant": "莫嘉嫻",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/rosandamok/",
 		"telegram": "",
 		"email": "",
@@ -2889,7 +3061,7 @@
 	"democrat_contestant": "廖成利",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/singleebruce.liu",
 		"telegram": "",
 		"email": "",
@@ -2905,7 +3077,7 @@
 	"democrat_contestant": "沈運華",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/shum27961091/",
 		"telegram": "",
 		"email": "",
@@ -2921,7 +3093,7 @@
 	"democrat_contestant": "陳利成",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/lschanfriends/",
 		"telegram": "",
 		"email": "",
@@ -2937,7 +3109,7 @@
 	"democrat_contestant": "胡志健",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/胡志健-1868437633418462/",
 		"telegram": "",
 		"email": "",
@@ -2969,7 +3141,7 @@
 	"democrat_contestant": "梁翊婷",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/edithleungyt/",
 		"telegram": "",
 		"email": "",
@@ -3001,7 +3173,7 @@
 	"democrat_contestant": "尹家謙",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/尹家謙-Derek-Wan-483944088606314/",
 		"telegram": "",
 		"email": "",
@@ -3017,7 +3189,7 @@
 	"democrat_contestant": "畢東尼",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/buxoffice/",
 		"telegram": "",
 		"email": "",
@@ -3033,7 +3205,7 @@
 	"democrat_contestant": "黎寶桂",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/kiralaipokwai/",
 		"telegram": "",
 		"email": "",
@@ -3081,7 +3253,7 @@
 	"democrat_contestant": "莫建成",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/莫建成-893627454077897/",
 		"telegram": "",
 		"email": "",
@@ -3113,7 +3285,7 @@
 	"democrat_contestant": "蔡澤鴻",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/choychktdc/",
 		"telegram": "",
 		"email": "",
@@ -3129,7 +3301,7 @@
 	"democrat_contestant": "林冠存",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/LinKuanTsun/",
 		"telegram": "",
 		"email": "",
@@ -3161,7 +3333,7 @@
 	"democrat_contestant": "蘇偉洋",
 	"democrat_organization": "秀達服務團隊",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=100014133163952",
 		"telegram": "",
 		"email": "",
@@ -3184,7 +3356,7 @@
 	"democrat_contestant": "黎汶洛",
 	"democrat_organization": "秀達服務團隊",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/oscarlaimanlok/",
 		"telegram": "",
 		"email": "",
@@ -3239,7 +3411,7 @@
 	"democrat_contestant": "譚得志",
 	"democrat_organization": "人民力量",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/譚得志-Takchi-Tam快必-767067873371162/",
 		"telegram": "",
 		"email": "",
@@ -3255,7 +3427,7 @@
 	"democrat_contestant": "葉梓傑",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/葉梓傑-1126993467352031/",
 		"telegram": "",
 		"email": "",
@@ -3287,7 +3459,7 @@
 	"democrat_contestant": "陳易舜",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/pingtineasonchan/",
 		"telegram": "",
 		"email": "",
@@ -3367,7 +3539,7 @@
 	"democrat_contestant": "王偉麟",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/王偉麟-306016046704591/",
 		"telegram": "",
 		"email": "",
@@ -3399,7 +3571,7 @@
 	"democrat_contestant": "李煒林",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/WilliamLiWaiLam/",
 		"telegram": "",
 		"email": "",
@@ -3415,7 +3587,7 @@
 	"democrat_contestant": "王嘉盈",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/SarahWongkaying/",
 		"telegram": "",
 		"email": "",
@@ -3431,7 +3603,7 @@
 	"democrat_contestant": "李有為",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://facebook.com/botonLi",
 		"telegram": "",
 		"email": "",
@@ -3447,7 +3619,7 @@
 	"democrat_contestant": "張隆",
 	"democrat_organization": "譚香文團隊",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/張隆-872306073132084/",
 		"telegram": "",
 		"email": "",
@@ -3463,7 +3635,7 @@
 	"democrat_contestant": "鄭景陽",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=100005372733761&ref=br_rs",
 		"telegram": "",
 		"email": "",
@@ -3527,7 +3699,7 @@
 	"democrat_contestant": "黃子健",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/kenlokwah",
 		"telegram": "",
 		"email": "",
@@ -3543,7 +3715,7 @@
 	"democrat_contestant": "陳嘉言",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/chrischan9011/",
 		"telegram": "",
 		"email": "",
@@ -3559,7 +3731,7 @@
 	"democrat_contestant": "黃啟明",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=100010255068561",
 		"telegram": "",
 		"email": "",
@@ -3607,7 +3779,7 @@
 	"democrat_contestant": "李軍澤",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/Lee-Kwan-Chak-李軍澤-124549454826082/",
 		"telegram": "",
 		"email": "",
@@ -3655,7 +3827,7 @@
 	"democrat_contestant": "孔令暉",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/simonhunglf/",
 		"telegram": "",
 		"email": "",
@@ -3671,7 +3843,7 @@
 	"democrat_contestant": "岑敖暉",
 	"democrat_organization": "朱凱廸團隊",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/Lester.Shum611",
 		"telegram": "",
 		"email": "",
@@ -3687,7 +3859,7 @@
 	"democrat_contestant": "易承聰",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/易承聰-Angus-Yick-1853511854949720/",
 		"telegram": "",
 		"email": "",
@@ -3719,7 +3891,7 @@
 	"democrat_contestant": "李洪波",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/lihungpor/",
 		"telegram": "",
 		"email": "",
@@ -3751,7 +3923,7 @@
 	"democrat_contestant": "黃湛聯",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=565903515",
 		"telegram": "",
 		"email": "",
@@ -3767,7 +3939,7 @@
 	"democrat_contestant": "潘朗聰",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/punlongchung.tw/",
 		"telegram": "",
 		"email": "",
@@ -3783,7 +3955,7 @@
 	"democrat_contestant": "譚凱邦",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/Roy.Tam.Hoi.Pong/",
 		"telegram": "",
 		"email": "",
@@ -3815,7 +3987,7 @@
 	"democrat_contestant": "劉志雄",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/martinlau2015/",
 		"telegram": "",
 		"email": "",
@@ -3847,7 +4019,7 @@
 	"democrat_contestant": "趙恩來",
 	"democrat_organization": "工黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/chiuyanloy/",
 		"telegram": "",
 		"email": "",
@@ -3863,7 +4035,7 @@
 	"democrat_contestant": "賴文輝",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/laimanfaiservice/",
 		"telegram": "",
 		"email": "",
@@ -3911,7 +4083,7 @@
 	"democrat_contestant": "陳琬琛",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/sumlychanCP/",
 		"telegram": "",
 		"email": "",
@@ -3927,7 +4099,7 @@
 	"democrat_contestant": "黎駿穎",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/lai.alfredhk/",
 		"telegram": "",
 		"email": "",
@@ -3943,7 +4115,7 @@
 	"democrat_contestant": "林頌鎧",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=100017936798110",
 		"telegram": "",
 		"email": "",
@@ -3959,7 +4131,7 @@
 	"democrat_contestant": "黃泳希",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/黃泳希-David-Wong-374212189766702/",
 		"telegram": "",
 		"email": "",
@@ -3975,7 +4147,7 @@
 	"democrat_contestant": "甄霈霖",
 	"democrat_organization": "朱凱廸團隊",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=693724866&ref=br_rs",
 		"telegram": "",
 		"email": "",
@@ -3991,7 +4163,7 @@
 	"democrat_contestant": "林健翔",
 	"democrat_organization": "工黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/林明恩-林健翔-辦事處-1724888254422013/",
 		"telegram": "",
 		"email": "",
@@ -4007,7 +4179,7 @@
 	"democrat_contestant": "林明恩",
 	"democrat_organization": "工黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/林明恩-林健翔-辦事處-1724888254422013/",
 		"telegram": "",
 		"email": "",
@@ -4023,7 +4195,7 @@
 	"democrat_contestant": "潘智鍵",
 	"democrat_organization": "屯門社區網絡",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/garypck/",
 		"telegram": "",
 		"email": "",
@@ -4046,7 +4218,7 @@
 	"democrat_contestant": "黃丹晴",
 	"democrat_organization": "屯門社區網絡",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/LemonWongHK/",
 		"telegram": "",
 		"email": "",
@@ -4069,7 +4241,7 @@
 	"democrat_contestant": "羅焯勇",
 	"democrat_organization": "屯門社區網絡",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/羅焯勇-Cheukyunglaw-242757909656259/",
 		"telegram": "",
 		"email": "",
@@ -4092,7 +4264,7 @@
 	"democrat_contestant": "曾振興",
 	"democrat_organization": "屯門社區網絡",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/tmchristsang/",
 		"telegram": "",
 		"email": "",
@@ -4131,7 +4303,7 @@
 	"democrat_contestant": "馬旗",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/馬旗-Kee-MA-407162756704254/",
 		"telegram": "",
 		"email": "",
@@ -4147,7 +4319,7 @@
 	"democrat_contestant": "巫堃泰",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/MichaelKTMo/",
 		"telegram": "",
 		"email": "",
@@ -4163,7 +4335,7 @@
 	"democrat_contestant": "朱順雅",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=1424468444549917&ref=br_rs",
 		"telegram": "",
 		"email": "",
@@ -4179,7 +4351,7 @@
 	"democrat_contestant": "黃虹銘",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/ianwong.wisc",
 		"telegram": "",
 		"email": "",
@@ -4195,7 +4367,7 @@
 	"democrat_contestant": "甄紹南",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=100004772850064",
 		"telegram": "",
 		"email": "",
@@ -4211,7 +4383,7 @@
 	"democrat_contestant": "周啟廉",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/kailim.chow.92",
 		"telegram": "",
 		"email": "",
@@ -4259,7 +4431,7 @@
 	"democrat_contestant": "盧俊宇",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/cylo0421",
 		"telegram": "",
 		"email": "",
@@ -4275,7 +4447,7 @@
 	"democrat_contestant": "林偉基",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/lamwaikeidphk",
 		"telegram": "",
 		"email": "",
@@ -4307,7 +4479,7 @@
 	"democrat_contestant": "王德源/鄧文傑",
 	"democrat_organization": "屯門社區網絡/熱血公民",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/WONGTAKYUEN.OFFICIAL/",
 		"telegram": "",
 		"email": "",
@@ -4378,7 +4550,7 @@
 	"democrat_contestant": "陳樹英",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/ShuYingChan",
 		"telegram": "",
 		"email": "",
@@ -4394,7 +4566,7 @@
 	"democrat_contestant": "盧偉明",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/waiminglo",
 		"telegram": "",
 		"email": "",
@@ -4442,7 +4614,7 @@
 	"democrat_contestant": "何杏梅",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/hohangmui",
 		"telegram": "",
 		"email": "",
@@ -4474,7 +4646,7 @@
 	"democrat_contestant": "石景澄",
 	"democrat_organization": "民主陣線",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/石景澄-Shek-King-Ching-1710494892538004/",
 		"telegram": "",
 		"email": "",
@@ -4497,7 +4669,7 @@
 	"democrat_contestant": "麥業成",
 	"democrat_organization": "民主陣線",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/makipsing",
 		"telegram": "",
 		"email": "",
@@ -4568,7 +4740,7 @@
 	"democrat_contestant": "黃偉賢",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=100009583057174",
 		"telegram": "",
 		"email": "",
@@ -4584,7 +4756,7 @@
 	"democrat_contestant": "鄺俊宇",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/鄺俊宇-Roy-Kwong-18809502474/",
 		"telegram": "",
 		"email": "",
@@ -4600,7 +4772,7 @@
 	"democrat_contestant": "林廷衞",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/lamtingw/",
 		"telegram": "",
 		"email": "",
@@ -4680,7 +4852,7 @@
 	"democrat_contestant": "陳樹暉",
 	"democrat_organization": "朱凱廸團隊",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/chantreefai/",
 		"telegram": "",
 		"email": "",
@@ -4760,7 +4932,7 @@
 	"democrat_contestant": "何惠彬",
 	"democrat_organization": "街工",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/BenHoWP/",
 		"telegram": "",
 		"email": "",
@@ -4776,7 +4948,7 @@
 	"democrat_contestant": "伍軒宏",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/hysanhinwangng/",
 		"telegram": "",
 		"email": "",
@@ -4792,7 +4964,7 @@
 	"democrat_contestant": "陳美蓮",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/MayChanMeiLin/",
 		"telegram": "",
 		"email": "",
@@ -4808,7 +4980,7 @@
 	"democrat_contestant": "吳玉英",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/KATYNGYUKYING/",
 		"telegram": "",
 		"email": "",
@@ -4824,7 +4996,7 @@
 	"democrat_contestant": "黎寳華",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/黎寳華程太Sandy-Lai-180278599361410/",
 		"telegram": "",
 		"email": "",
@@ -4856,7 +5028,7 @@
 	"democrat_contestant": "陳詩雅",
 	"democrat_organization": "天水圍民生關注平台",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/HermineCSN/",
 		"telegram": "",
 		"email": "",
@@ -4911,7 +5083,7 @@
 	"democrat_contestant": "康展華/陸海天(?)",
 	"democrat_organization": "獨立/天水圍地區關注會",
 	"organization": [{
-		"name": "康展華個人Facebook Page",
+		"name": "康展華個人聯絡資料",
 		"fbpage": "https://www.facebook.com/thomas.hong.129794",
 		"telegram": "",
 		"email": "",
@@ -4934,7 +5106,7 @@
 	"democrat_contestant": "郭文浩",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/yokwokmanho/",
 		"telegram": "",
 		"email": "",
@@ -4998,7 +5170,7 @@
 	"democrat_contestant": "巫啟航",
 	"democrat_organization": "天水圍民生關注平台",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/FlecoMKH/",
 		"telegram": "",
 		"email": "",
@@ -5037,7 +5209,7 @@
 	"democrat_contestant": "杜嘉倫",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/錦綉花園區議員-杜嘉倫-Ka-Lun-To-423717857836116/",
 		"telegram": "",
 		"email": "",
@@ -5101,7 +5273,7 @@
 	"democrat_contestant": "朱凱廸",
 	"democrat_organization": "朱凱廸團隊",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/chuhoidick/",
 		"telegram": "",
 		"email": "",
@@ -5133,7 +5305,7 @@
 	"democrat_contestant": "黃凱盈",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/irene.wong.77582359",
 		"telegram": "",
 		"email": "",
@@ -5149,7 +5321,7 @@
 	"democrat_contestant": "陳旭明",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/陳旭明-Dino-祥華-名都-835885039858762/",
 		"telegram": "",
 		"email": "",
@@ -5165,7 +5337,7 @@
 	"democrat_contestant": "虞銘謙",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/LeoYuMH/",
 		"telegram": "",
 		"email": "",
@@ -5181,7 +5353,7 @@
 	"democrat_contestant": "陳惠達",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/chanwt/",
 		"telegram": "",
 		"email": "",
@@ -5197,7 +5369,7 @@
 	"democrat_contestant": "林淑菁",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=100015341835552",
 		"telegram": "",
 		"email": "",
@@ -5293,7 +5465,7 @@
 	"democrat_contestant": "林子琼",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/LAMTSZKINGOFFICIALPAGE/",
 		"telegram": "",
 		"email": "",
@@ -5309,7 +5481,7 @@
 	"democrat_contestant": "林卓廷",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/lam.c.ting.1",
 		"telegram": "",
 		"email": "",
@@ -5325,7 +5497,7 @@
 	"democrat_contestant": "郭㙟豐/張京樑",
 	"democrat_organization": "民主黨/獨立",
 	"organization": [{
-		"name": "郭㙟豐個人Facebook Page",
+		"name": "郭㙟豐個人聯絡資料",
 		"fbpage": "https://www.facebook.com/kwoklongfungofficialpage/",
 		"telegram": "",
 		"email": "",
@@ -5373,7 +5545,7 @@
 	"democrat_contestant": "劉其烽",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/laukifung",
 		"telegram": "",
 		"email": "",
@@ -5405,7 +5577,7 @@
 	"democrat_contestant": "林名溢",
 	"democrat_organization": "大埔社區網絡",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/lammingyat/",
 		"telegram": "",
 		"email": "",
@@ -5428,7 +5600,7 @@
 	"democrat_contestant": "文念志",
 	"democrat_organization": "區政聯盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/taipomannimchi",
 		"telegram": "",
 		"email": "",
@@ -5451,7 +5623,7 @@
 	"democrat_contestant": "區鎮樺",
 	"democrat_organization": "區政聯盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/office.rayau/",
 		"telegram": "",
 		"email": "",
@@ -5474,7 +5646,7 @@
 	"democrat_contestant": "區鎮濠",
 	"democrat_organization": "區政聯盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/rayau.tpteam/",
 		"telegram": "",
 		"email": "",
@@ -5497,7 +5669,7 @@
 	"democrat_contestant": "任萬全",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/mcyam318/",
 		"telegram": "",
 		"email": "",
@@ -5513,7 +5685,7 @@
 	"democrat_contestant": "任啟邦",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/任啟邦-209405209122068/",
 		"telegram": "",
 		"email": "",
@@ -5529,7 +5701,7 @@
 	"democrat_contestant": "關永業",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/kwan2016/",
 		"telegram": "",
 		"email": "",
@@ -5561,7 +5733,7 @@
 	"democrat_contestant": "姚鈞豪",
 	"democrat_organization": "區政聯盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=100021649908190",
 		"telegram": "",
 		"email": "",
@@ -5609,7 +5781,7 @@
 	"democrat_contestant": "胡耀昌",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/MaxWuND/",
 		"telegram": "",
 		"email": "",
@@ -5641,7 +5813,7 @@
 	"democrat_contestant": "周炫瑋",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/chow.y.wai.9",
 		"telegram": "",
 		"email": "",
@@ -5657,7 +5829,7 @@
 	"democrat_contestant": "陳蔚嘉",
 	"democrat_organization": "埔向晴天",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/chanwaikaolive/",
 		"telegram": "",
 		"email": "",
@@ -5680,7 +5852,7 @@
 	"democrat_contestant": "劉勇威",
 	"democrat_organization": "埔向晴天",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/LauYungWai/",
 		"telegram": "",
 		"email": "",
@@ -5735,7 +5907,7 @@
 	"democrat_contestant": "譚爾培",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/pui.ideal.hk/",
 		"telegram": "",
 		"email": "",
@@ -5831,14 +6003,14 @@
 	"democrat_contestant": "黃炳雄/陳緯烈",
 	"democrat_organization": "將軍澳民生關注組/將軍澳青年力量",
 	"organization": [{
-		"name": "黃炳雄個人Facebook Page",
+		"name": "黃炳雄個人聯絡資料",
 		"fbpage": "https://www.facebook.com/tommy.li.50364",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
 	},{
-		"name": "陳緯烈個人Facebook Page",
+		"name": "陳緯烈個人聯絡資料",
 		"fbpage": "https://www.facebook.com/wailit.chan.104",
 		"telegram": "",
 		"email": "",
@@ -5861,7 +6033,7 @@
 	"democrat_contestant": "梁里",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/%E6%A2%81%E9%87%8C-199422220126900/",
 		"telegram": "",
 		"email": "",
@@ -5877,14 +6049,14 @@
 	"democrat_contestant": "李栢棠/莊榮輝",
 	"democrat_organization": "將軍澳民生關注組/民主黨",
 	"organization": [{
-		"name": "李栢棠個人Facebook Page",
+		"name": "李栢棠個人聯絡資料",
 		"fbpage": "https://www.facebook.com/tommy.li.50364",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
 	},{
-		"name": "莊榮輝個人Facebook Page",
+		"name": "莊榮輝個人聯絡資料",
 		"fbpage": "https://www.facebook.com/winfieldchongwingfai/",
 		"telegram": "",
 		"email": "",
@@ -5916,7 +6088,7 @@
 	"democrat_contestant": "黎煒棠/趙志民",
 	"democrat_organization": "新民主同盟/將軍澳民生關注組",
 	"organization": [{
-		"name": "黎煒棠個人Facebook Page",
+		"name": "黎煒棠個人聯絡資料",
 		"fbpage": "https://www.facebook.com/ivanlaitko/",
 		"telegram": "",
 		"email": "",
@@ -5932,7 +6104,7 @@
 	"democrat_contestant": "謝正楓",
 	"democrat_organization": "將軍澳民生關注組",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/edmondtcf/",
 		"telegram": "",
 		"email": "",
@@ -5964,7 +6136,7 @@
 	"democrat_contestant": "呂文光",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/luimankwong",
 		"telegram": "",
 		"email": "",
@@ -5980,7 +6152,7 @@
 	"democrat_contestant": "葉嘉榮",
 	"democrat_organization": "將軍澳民生關注組",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/KelvinYipSocial/",
 		"telegram": "",
 		"email": "",
@@ -5996,7 +6168,7 @@
 	"democrat_contestant": "柯耀林",
 	"democrat_organization": "將軍澳民生關注組",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/rickyor.TKO/",
 		"telegram": "",
 		"email": "",
@@ -6012,7 +6184,7 @@
 	"democrat_contestant": "林少忠",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%9E%97%E5%B0%91%E5%BF%A0-347772265294658/",
 		"telegram": "",
 		"email": "",
@@ -6044,7 +6216,7 @@
 	"democrat_contestant": "馮君安",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/kwanonpolam/",
 		"telegram": "",
 		"email": "",
@@ -6060,7 +6232,7 @@
 	"democrat_contestant": "鍾錦麟",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/tkokamlun/",
 		"telegram": "",
 		"email": "",
@@ -6076,7 +6248,7 @@
 	"democrat_contestant": "秦海城",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/HenryChunND/",
 		"telegram": "",
 		"email": "",
@@ -6092,7 +6264,7 @@
 	"democrat_contestant": "范國威",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/%E8%8C%83%E5%9C%8B%E5%A8%81-Gary-Fan-124853124283126/",
 		"telegram": "",
 		"email": "",
@@ -6124,7 +6296,7 @@
 	"democrat_contestant": "王卓雅",
 	"democrat_organization": "將軍澳民生關注組",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/Valeriewongcn/",
 		"telegram": "",
 		"email": "",
@@ -6140,7 +6312,7 @@
 	"democrat_contestant": "陳耀初",
 	"democrat_organization": "將軍澳民生關注組",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/andrew.chan.tko/",
 		"telegram": "",
 		"email": "",
@@ -6156,7 +6328,7 @@
 	"democrat_contestant": "鄭仲文",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/%E9%84%AD%E4%BB%B2%E6%96%87-694207447623793/",
 		"telegram": "",
 		"email": "",
@@ -6172,7 +6344,7 @@
 	"democrat_contestant": "周賢明",
 	"democrat_organization": "將軍澳民生關注組",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/%E5%91%A8%E8%B3%A2%E6%98%8E%E8%AD%B0%E5%93%A1%E8%BE%A6%E4%BA%8B%E8%99%95-135005043328699/",
 		"telegram": "",
 		"email": "",
@@ -6188,7 +6360,7 @@
 	"democrat_contestant": "黎銘澤",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/jackylaimingchak/",
 		"telegram": "",
 		"email": "",
@@ -6204,7 +6376,7 @@
 	"democrat_contestant": "陳展浚",
 	"democrat_organization": "將軍澳民生關注組",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/%E9%99%B3%E5%B1%95%E6%B5%9A-%E5%A7%9C%E6%96%B0%E8%8F%AF-522831511411070/",
 		"telegram": "",
 		"email": "",
@@ -6220,7 +6392,7 @@
 	"democrat_contestant": "姜新華",
 	"democrat_organization": "將軍澳民生關注組",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/%E9%99%B3%E5%B1%95%E6%B5%9A-%E5%A7%9C%E6%96%B0%E8%8F%AF-522831511411070/",
 		"telegram": "",
 		"email": "",
@@ -6236,7 +6408,7 @@
 	"democrat_contestant": "衞慶祥",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=1542147355",
 		"telegram": "",
 		"email": "",
@@ -6252,7 +6424,7 @@
 	"democrat_contestant": "陳皓桓",
 	"democrat_organization": "社民連",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/figochanhw/",
 		"telegram": "",
 		"email": "",
@@ -6268,7 +6440,7 @@
 	"democrat_contestant": "李志宏",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/%E6%9D%8E%E5%BF%97%E5%AE%8F-%E7%9B%A1%E7%82%BA%E7%A6%BE%E8%BC%8B-1864462550275659/",
 		"telegram": "",
 		"email": "",
@@ -6284,7 +6456,7 @@
 	"democrat_contestant": "黃文萱",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/leticiawmh/",
 		"telegram": "",
 		"email": "",
@@ -6300,7 +6472,7 @@
 	"democrat_contestant": "石威廉",
 	"democrat_organization": "黎梓恩助理",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/shekwilliamofficial/",
 		"telegram": "",
 		"email": "",
@@ -6316,7 +6488,7 @@
 	"democrat_contestant": "黎梓恩",
 	"democrat_organization": "沙田區政",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/tszyanomg",
 		"telegram": "",
 		"email": "",
@@ -6332,7 +6504,7 @@
 	"democrat_contestant": "陳兆陽",
 	"democrat_organization": "沙田區政",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/billyshakok",
 		"telegram": "",
 		"email": "",
@@ -6348,7 +6520,7 @@
 	"democrat_contestant": "趙柱幫",
 	"democrat_organization": "沙田區政",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/pong9292",
 		"telegram": "",
 		"email": "",
@@ -6364,7 +6536,7 @@
 	"democrat_contestant": "盧德明",
 	"democrat_organization": "沙田區政",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=100011319554428",
 		"telegram": "",
 		"email": "",
@@ -6380,7 +6552,7 @@
 	"democrat_contestant": "丘文俊",
 	"democrat_organization": "沙田區政",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/yaudp",
 		"telegram": "",
 		"email": "",
@@ -6396,7 +6568,7 @@
 	"democrat_contestant": "陳諾恒",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/ccnhdcoffice",
 		"telegram": "",
 		"email": "",
@@ -6412,7 +6584,7 @@
 	"democrat_contestant": "程張迎",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/cy.ching.1656",
 		"telegram": "",
 		"email": "",
@@ -6428,7 +6600,7 @@
 	"democrat_contestant": "許銳宇",
 	"democrat_organization": "沙田區政",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/huiyyhk",
 		"telegram": "",
 		"email": "",
@@ -6445,7 +6617,7 @@
 	"democrat_contestant": "張宇添",
 	"democrat_organization": "沙田區政",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/ytcheungoffice/",
 		"telegram": "",
 		"email": "",
@@ -6461,7 +6633,7 @@
 	"democrat_contestant": "黃浩鋒",
 	"democrat_organization": "沙田區政",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/kenwonghofung",
 		"telegram": "",
 		"email": "",
@@ -6477,7 +6649,7 @@
 	"democrat_contestant": "張慶樺",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/thomashingwa/",
 		"telegram": "",
 		"email": "",
@@ -6493,7 +6665,7 @@
 	"democrat_contestant": "吳錦雄",
 	"democrat_organization": "沙田區政",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/dphk.danielng",
 		"telegram": "",
 		"email": "",
@@ -6525,7 +6697,7 @@
 	"democrat_contestant": "李世鴻",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/raymond.li.3705",
 		"telegram": "",
 		"email": "",
@@ -6557,7 +6729,7 @@
 	"democrat_contestant": "黃學禮",
 	"democrat_organization": "沙田區政",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=100010798068638",
 		"telegram": "",
 		"email": "",
@@ -6573,7 +6745,7 @@
 	"democrat_contestant": "麥梓健",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/kenmak.FT/",
 		"telegram": "",
 		"email": "",
@@ -6589,7 +6761,7 @@
 	"democrat_contestant": "雷啟榮",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/StanleyLuiCP/",
 		"telegram": "",
 		"email": "",
@@ -6605,7 +6777,7 @@
 	"democrat_contestant": "周曉嵐",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/Chow-Hiu-Laam-Felix-%E5%91%A8%E6%9B%89%E5%B5%90-443096539828193/",
 		"telegram": "",
 		"email": "",
@@ -6621,7 +6793,7 @@
 	"democrat_contestant": "陳珮明",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/%E9%99%B3%E7%8F%AE%E6%98%8E-Mike-Chan-202718713696908/",
 		"telegram": "",
 		"email": "",
@@ -6637,7 +6809,7 @@
 	"democrat_contestant": "葉榮",
 	"democrat_organization": "工黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/yip.wing86/",
 		"telegram": "",
 		"email": "",
@@ -6669,14 +6841,14 @@
 	"democrat_contestant": "鍾禮謙/吳惠靈",
 	"democrat_organization": "獨立/工黨",
 	"organization": [{
-		"name": "鍾禮謙個人Facebook Page",
+		"name": "鍾禮謙個人聯絡資料",
 		"fbpage": "https://www.facebook.com/mosjohnnychung/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
 	},{
-		"name": "吳惠靈個人Facebook Page",
+		"name": "吳惠靈個人聯絡資料",
 		"fbpage": "https://www.facebook.com/吳惠靈-893603224028233/",
 		"telegram": "",
 		"email": "",
@@ -6692,7 +6864,7 @@
 	"democrat_contestant": "李永成",
 	"democrat_organization": "沙田區政",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/%E6%9D%8E%E6%B0%B8%E6%88%90-Li-Wing-Shing-865549790210339/",
 		"telegram": "",
 		"email": "",
@@ -6708,7 +6880,7 @@
 	"democrat_contestant": "麥潤培",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/ypmakofficial/",
 		"telegram": "",
 		"email": "",
@@ -6724,7 +6896,7 @@
 	"democrat_contestant": "曾素麗",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/tsang.solai",
 		"telegram": "",
 		"email": "",
@@ -6740,7 +6912,7 @@
 	"democrat_contestant": "丁仕元",
 	"democrat_organization": "沙田區政",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/cst.andyting/",
 		"telegram": "",
 		"email": "",
@@ -6756,14 +6928,14 @@
 	"democrat_contestant": "冼卓嵐/許立燊",
 	"democrat_organization": "民主黨/沙田區政",
 	"organization": [{
-		"name": "冼卓嵐個人Facebook Page",
+		"name": "冼卓嵐個人聯絡資料",
 		"fbpage": "https://www.facebook.com/SINCheukNamDPHK/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
 	},{
-		"name": "許立燊個人Facebook Page",
+		"name": "許立燊個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=100011068922824",
 		"telegram": "",
 		"email": "",
@@ -6779,7 +6951,7 @@
 	"democrat_contestant": "鄭則文",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/tsukman.cheng",
 		"telegram": "",
 		"email": "",
@@ -6795,7 +6967,7 @@
 	"democrat_contestant": "容溟舟",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/yungmcmichael/",
 		"telegram": "",
 		"email": "",
@@ -6811,7 +6983,7 @@
 	"democrat_contestant": "湯子霈",
 	"democrat_organization": "沙田區政",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/leroy0704/",
 		"telegram": "",
 		"email": "",
@@ -6843,14 +7015,14 @@
 	"democrat_contestant": "謝潔泳/劉青",
 	"democrat_organization": "沙田區政/民主黨",
 	"organization": [{
-		"name": "謝潔泳個人Facebook Page",
+		"name": "謝潔泳個人聯絡資料",
 		"fbpage": "https://www.facebook.com/hilarytsekitwing/",
 		"telegram": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
 	},{
-		"name": "劉青個人Facebook Page",
+		"name": "劉青個人聯絡資料",
 		"fbpage": "https://www.facebook.com/liuqingdphk",
 		"telegram": "",
 		"email": "",
@@ -6866,7 +7038,7 @@
 	"democrat_contestant": "陸梓峂",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/tsztungoffice/",
 		"telegram": "",
 		"email": "",
@@ -6882,7 +7054,7 @@
 	"democrat_contestant": "麥烈誠",
 	"democrat_organization": "沙田區政",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/nioxnmak",
 		"telegram": "",
 		"email": "",
@@ -6930,7 +7102,7 @@
 	"democrat_contestant": "吳劍昇",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/ngkimsingoffice/",
 		"telegram": "",
 		"email": "",
@@ -6946,7 +7118,7 @@
 	"democrat_contestant": "周偉雄",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/KuiQingQuYiHui/",
 		"telegram": "",
 		"email": "",
@@ -6994,7 +7166,7 @@
 	"democrat_contestant": "黃潤達",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/ivanwongyuntat/",
 		"telegram": "",
 		"email": "",
@@ -7058,7 +7230,7 @@
 	"democrat_contestant": "劉貴梅",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/MuliLauKwaiMui/",
 		"telegram": "",
 		"email": "",
@@ -7074,7 +7246,7 @@
 	"democrat_contestant": "梁永權",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/profile.php?id=100005614694911",
 		"telegram": "",
 		"email": "",
@@ -7091,7 +7263,7 @@
 	"democrat_contestant": "林紹輝",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/lsf.fai",
 		"telegram": "",
 		"email": "",
@@ -7107,7 +7279,7 @@
 	"democrat_contestant": "梁國華",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/Leungkwokwah/",
 		"telegram": "",
 		"email": "",
@@ -7123,7 +7295,7 @@
 	"democrat_contestant": "梁耀忠",
 	"democrat_organization": "街工",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/nwscleungyiuchung/",
 		"telegram": "",
 		"email": "",
@@ -7171,7 +7343,7 @@
 	"democrat_contestant": "張鈞翹",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/ckksteve",
 		"telegram": "",
 		"email": "",
@@ -7219,7 +7391,7 @@
 	"democrat_contestant": "梁靜珊",
 	"democrat_organization": "街工",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/leungchingshan/",
 		"telegram": "",
 		"email": "",
@@ -7236,7 +7408,7 @@
 	"democrat_contestant": "譚家浚",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/WarrenTamKaChun/",
 		"telegram": "",
 		"email": "",
@@ -7252,7 +7424,7 @@
 	"democrat_contestant": "冼豪輝",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/sinhofaihenry/",
 		"telegram": "",
 		"email": "",
@@ -7268,7 +7440,7 @@
 	"democrat_contestant": "王必敏",
 	"democrat_organization": "青衣島民",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/wongpitmantsingyi/",
 		"telegram": "",
 		"email": "",
@@ -7308,7 +7480,7 @@
 	"democrat_contestant": "韓俊賢",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/nichonoffical/",
 		"telegram": "",
 		"email": "",
@@ -7340,7 +7512,7 @@
 	"democrat_contestant": "趙寶琴",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/%E8%B6%99%E5%AF%B6%E7%90%B4Lucia-625479274539379/",
 		"telegram": "",
 		"email": "",
@@ -7356,7 +7528,7 @@
 	"democrat_contestant": "郭子健",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/tydanieljai/",
 		"telegram": "",
 		"email": "",
@@ -7404,7 +7576,7 @@
 	"democrat_contestant": "張文龍",
 	"democrat_organization": "葵青連結動力",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/manlungor/",
 		"telegram": "",
 		"email": "",
@@ -7427,7 +7599,7 @@
 	"democrat_contestant": "馮小燕",
 	"democrat_organization": "朱凱廸團隊",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/LantauSiuYin/",
 		"telegram": "",
 		"email": "",
@@ -7443,7 +7615,7 @@
 	"democrat_contestant": "郭平",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/erickwokping/",
 		"telegram": "",
 		"email": "",
@@ -7459,7 +7631,7 @@
 	"democrat_contestant": "方龍飛",
 	"democrat_organization": "郭平助理",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/%E6%96%B9%E9%BE%8D%E9%A3%9B-318421599022887/",
 		"telegram": "",
 		"email": "",
@@ -7475,7 +7647,7 @@
 	"democrat_contestant": "王進洋",
 	"democrat_organization": "東涌人",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/yeung.wong.50",
 		"telegram": "",
 		"email": "",
@@ -7498,7 +7670,7 @@
 	"democrat_contestant": "李嘉豪",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/KaHoLee.CP/",
 		"telegram": "",
 		"email": "",
@@ -7514,7 +7686,7 @@
 	"democrat_contestant": "蔡耀昌",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/yctsoi",
 		"telegram": "",
 		"email": "",
@@ -7530,7 +7702,7 @@
 	"democrat_contestant": "容詠嫦",
 	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/db.amy.yung/",
 		"telegram": "",
 		"email": "",
@@ -7578,7 +7750,7 @@
 	"democrat_contestant": "梁國豪",
 	"democrat_organization": "朱凱廸團隊",
 	"organization": [{
-		"name": "個人Facebook Page",
+		"name": "個人聯絡資料",
 		"fbpage": "https://www.facebook.com/leungkwokho01/",
 		"telegram": "",
 		"email": "",
