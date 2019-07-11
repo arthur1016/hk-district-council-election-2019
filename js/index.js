@@ -32,6 +32,90 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 var showUncontestedSeatsOnly = false;
 showRegions("./boundary.json", showUncontestedSeatsOnly);
 
+//Click District Icon to focus map
+function focusDistrict(id){
+	var focusLatLng = [];
+	var zoomLevel = 0;
+	switch(id) {
+		case "18district_cw":
+			focusLatLng = [22.284192291588077, 114.14063542530998];
+			zoomLevel = 14;
+			break;
+		case "18district_e":
+			focusLatLng = [22.27476484719558, 114.22782419768704];
+			zoomLevel = 14;
+			break;
+		case "18district_s":
+			focusLatLng = [22.237402973671813, 114.19441582305673];
+			zoomLevel = 13;
+			break;
+		case "18district_wc":
+			focusLatLng = [22.27396704738363, 114.1777336281135];
+			zoomLevel = 14;
+			break;
+		case "18district_ytm":
+			focusLatLng = [22.309476317531836, 114.16522966757583];
+			zoomLevel = 14;
+			break;
+		case "18district_ssp":
+			focusLatLng = [22.329661849378425, 114.15909541686216];
+			zoomLevel = 14;
+			break;
+		case "18district_kc":
+			focusLatLng = [22.32470044368549, 114.18982280749695];
+			zoomLevel = 14;
+			break;
+		case "18district_wts":
+			focusLatLng = [22.34157668024854, 114.19845715612716];
+			zoomLevel = 14;
+			break;
+		case "18district_kt":
+			focusLatLng = [22.316655160036454, 114.22642177549423];
+			zoomLevel = 14;
+			break;
+		case "18district_i":
+			focusLatLng = [22.267966,113.996662];
+			zoomLevel = 12;
+			break;
+		case "18district_ktsing":
+			focusLatLng = [22.354990,114.116723];
+			zoomLevel = 14;
+			break;
+		case "18district_tw":
+			focusLatLng = [22.373823368598284, 114.11114606411499];
+			zoomLevel = 14;
+			break;
+		case "18district_tm":
+			focusLatLng = [22.39422282558875, 113.97274469310167];
+			zoomLevel = 13;
+			break;
+		case "18district_yl":
+			focusLatLng = [22.43867730239601, 114.02060721376868];
+			zoomLevel = 13;
+			break;
+		case "18district_n":
+			focusLatLng = [22.496288315295303, 114.14203667590677];
+			zoomLevel = 12;
+			break;
+		case "18district_tp":
+			focusLatLng = [22.4617515435459, 114.14828220283844];
+			zoomLevel = 13;
+			break;
+		case "18district_st":
+			focusLatLng = [22.397435664899156, 114.20856998607152];
+			zoomLevel = 13;
+			break;
+		case "18district_sk":
+			focusLatLng = [22.323439847587665, 114.26897071286538];
+			zoomLevel = 13;
+			break;
+		default:
+		//do nothing
+	}
+	
+	map.setView(focusLatLng, zoomLevel);
+}
+
 //Pop-up Functionality according to selected region, Use className for each SVG element
 var popup = L.popup();
 map.on('click', onRegionClick);
