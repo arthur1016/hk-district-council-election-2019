@@ -37,21 +37,21 @@ header .reference_link_icon{
   flex-direction: column;
   text-align: center;
 }
-#district-menu .hk_island{
+#district-menu .hk_island:hover{
   background-color: #baffff;
 }
 #district-menu .hk_island>li>a{
   display:block;
   /*color: #0071CE;*/
 }
-#district-menu .kowloon{
+#district-menu .kowloon:hover{
   background-color: #fffaba;
 }
 #district-menu .kowloon>li>a{
   display:block;
   /*color: #00AF41;*/
 }
-#district-menu .new_territories{
+#district-menu .new_territories:hover{
   background-color: #ffe8fc;
 }
 #district-menu .new_territories>li>a{
