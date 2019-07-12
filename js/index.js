@@ -183,6 +183,7 @@ function onRegionClick(e) {
 						  if (!!val.fbpage) {organzation_content = organzation_content + "Facebook：<a target='_blank' href='" + val.fbpage + "'>" + val.fbpage + "</a><br/>";}
 						  if (!!val.instagram) {organzation_content = organzation_content + "Instagram：<a target='_blank' href='" + val.instagram + "'>" + val.instagram + "</a><br/>";}
                           if (!!val.telegram) {organzation_content = organzation_content + "Telegram：" + val.telegram + "<br/>";}
+						  if (!!val.youtube) {organzation_content = organzation_content + "Youtube：<a target='_blank' href='" + val.youtube + "'>" + val.youtube + "</a><br/>";}
                           if (!!val.email) {organzation_content = organzation_content + "電郵：<a href='mailto:" + val.email + "'>" + val.email + "</a><br/>";}
                           if (!!val.whatsapp) {organzation_content = organzation_content + "Whatsapp：" + val.whatsapp + "<br/>";}
                           if (!!val.telephone) {organzation_content = organzation_content + "電話號碼：" + val.telephone + "<br/>";}
