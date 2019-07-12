@@ -320,7 +320,7 @@
 },{
 	"district": "中西區",
     "code": "A11",
-    "name": "石塘咀",
+    "name": "西營盤",
 	"estab_contestant": "劉天正",
 	"estab_organization": "民建聯",
 	"democrat_contestant": "",
@@ -1718,11 +1718,24 @@
 	"democrat_organization": "區諾軒辦",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/abdanguswong/",
+		"instagram": "https://www.instagram.com/anguswonghei/",
 		"telegram": "",
+		"youtube": "",
+		"email": "community@aunokhin.hk",
+		"whatsapp": "",
+		"telephone": "5500 6191"
+	},{
+		"name": "南區萬事屋",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/southernethouse/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3705 8643 / 5545 6550"
 	}]
 },{
 	"district": "南區",
@@ -1734,11 +1747,44 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/pomingchanALC/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨香港島支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkhki@dphk.org",
+		"whatsapp": "",
+		"telephone": "9800 8237"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
+	},{
+		"name": "南區萬事屋",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/southernethouse/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": "3705 8643 / 5545 6550"
 	}]
 },{
 	"district": "南區",
@@ -1750,11 +1796,44 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/chanpingyeung/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "chanpingyeung@dphk.org",
+		"whatsapp": "9457 1294",
+		"telephone": "2552 2443"
+	},{
+		"name": "民主黨香港島支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkhki@dphk.org",
+		"whatsapp": "",
+		"telephone": "9800 8237"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
+	},{
+		"name": "南區萬事屋",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/southernethouse/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3705 8643 / 5545 6550"
 	}]
 },{
 	"district": "南區",
@@ -1766,11 +1845,45 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "https://www.facebook.com/yanyi.chan.16100",
 		"fbpage": "https://www.facebook.com/CJaniceYY/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"telegram": "",
+		"email": "chanyanyi@dphk.org",
+		"whatsapp": "5300 3363",
+		"telephone": "2871 3900"
+	},{
+		"name": "民主黨香港島支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkhki@dphk.org",
+		"whatsapp": "",
+		"telephone": "9800 8237"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
+	},{
+		"name": "南區萬事屋",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/southernethouse/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3705 8643 / 5545 6550"
 	}]
 },{
 	"district": "南區",
@@ -1782,11 +1895,44 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "http://www.lokinhei.com",
 		"fbpage": "https://www.facebook.com/dphk.leitung/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "https://www.youtube.com/user/lokinhei/",
+		"email": "lokinhei@dphk.org",
+		"whatsapp": "",
+		"telephone": "2871 3900 / 2871 3010"
+	},{
+		"name": "民主黨香港島支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkhki@dphk.org",
+		"whatsapp": "",
+		"telephone": "9800 8237"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
+	},{
+		"name": "南區萬事屋",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/southernethouse/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3705 8643 / 5545 6550"
 	}]
 },{
 	"district": "南區",
@@ -1798,11 +1944,44 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/JamesYuChunHei/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "公民黨港島區支部",
+		"webpage": "https://www.civicparty.hk/?q=node/20",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": "2580 6990"
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
+	},{
+		"name": "南區萬事屋",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/southernethouse/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": "3705 8643 / 5545 6550"
 	}]
 },{
 	"district": "南區",
@@ -1814,11 +1993,24 @@
 	"democrat_organization": "區諾軒辦",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/kelvinlamhp/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "community@aunokhin.hk",
+		"telephone": "5545 8035"
+	},{
+		"name": "南區萬事屋",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/southernethouse/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3705 8643 / 5545 6550"
 	}]
 },{
 	"district": "南區",
@@ -1830,11 +2022,44 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/Benpoonwk/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "benpoonph@dphk.org",
+		"whatsapp": "9454 9313",
+		"telephone": "2875 7539"
+	},{
+		"name": "民主黨香港島支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkhki@dphk.org",
+		"whatsapp": "",
+		"telephone": "9800 8237"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
+	},{
+		"name": "南區萬事屋",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/southernethouse/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3705 8643 / 5545 6550"
 	}]
 },{
 	"district": "南區",
@@ -1846,11 +2071,44 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "https://www.facebook.com/lslbecky",
 		"fbpage": "https://www.facebook.com/wahfuest",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "LSLBecky@gmail.com",
+		"whatsapp": "",
+		"telephone": "2875 0363 / 2875 0362"
+	},{
+		"name": "民主黨香港島支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkhki@dphk.org",
+		"whatsapp": "",
+		"telephone": "9800 8237"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
+	},{
+		"name": "南區萬事屋",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/southernethouse/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3705 8643 / 5545 6550"
 	}]
 },{
 	"district": "南區",
@@ -1862,11 +2120,44 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/YimC.Philip/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "yimchunho@dphk.org",
+		"whatsapp": "",
+		"telephone": "2552 2443 / 2555 8555"
+	},{
+		"name": "民主黨香港島支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkhki@dphk.org",
+		"whatsapp": "",
+		"telephone": "9800 8237"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
+	},{
+		"name": "南區萬事屋",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/southernethouse/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3705 8643 / 5545 6550"
 	}]
 },{
 	"district": "南區",
@@ -1878,11 +2169,24 @@
 	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "http://www.paulzimmerman.hk",
 		"fbpage": "https://www.facebook.com/PZpage/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "info@paulzimmerman.hk",
+		"whatsapp": "",
+		"telephone": "9096 3070"
+	},{
+		"name": "南區萬事屋",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/southernethouse/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3705 8643 / 5545 6550"
 	}]
 },{
 	"district": "南區",
@@ -1894,8 +2198,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -1910,11 +2217,24 @@
 	"democrat_organization": "區諾軒辦",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/kawaitiffany/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "南區萬事屋",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/southernethouse/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": "3705 8643 / 5545 6550"
 	}]
 },{
 	"district": "南區",
@@ -1923,14 +2243,27 @@
 	"estab_contestant": "朱立威",
 	"estab_organization": "民建聯",
 	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_organization": "石排灣力量",
 	"organization": [{
-		"name": "(待定)",
-		"fbpage": "",
+		"name": "石排灣力量",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/shekpaiwanpower/",
+		"instagram": "https://www.instagram.com/shekpaiwanpower/",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "6974 9731"
+	},{
+		"name": "南區萬事屋",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/southernethouse/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": "3705 8643 / 5545 6550"
 	}]
 },{
 	"district": "南區",
@@ -1942,11 +2275,44 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/imagingWCH/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "wongchukhang@gmail.com",
+		"whatsapp": "",
+		"telephone": "2553 2115"
+	},{
+		"name": "民主黨香港島支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkhki@dphk.org",
+		"whatsapp": "",
+		"telephone": "9800 8237"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
+	},{
+		"name": "南區萬事屋",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/southernethouse/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3705 8643 / 5545 6550"
 	}]
 },{
 	"district": "南區",
@@ -1958,8 +2324,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -1974,10 +2343,13 @@
 	"democrat_organization": "南區民生關注組",
 	"organization": [{
 		"name": "南區民生關注組",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/%E5%8D%97%E5%8D%80%E6%B0%91%E7%94%9F%E9%97%9C%E6%B3%A8%E7%B5%84-589778554700940/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "stanleysheko@hotmail.com",
+		"whatsapp": "6233 1902",
 		"telephone": ""
 	}]
 },{
