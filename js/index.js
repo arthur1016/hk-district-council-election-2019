@@ -137,25 +137,43 @@ function onRegionClick(e) {
                     "選區編號：" + value.code + "<br/>" +
                     "選區名稱：" + value.name + "<br/>" +
                     "建制派擬參選人：" + value.estab_contestant + " (" + value.estab_organization + ")<br/>";
-                    if (!!value.democrat_contestant) {
-                        region_content = region_content + "非建制派擬參選人：" + value.democrat_contestant + " (" + value.democrat_organization + ")<br/>";
-                        // style the detail Info contesetants
-                        if(document.getElementById("infoBoard").classList.contains("notExisting")) {
-                          document.getElementById("infoBoard").classList.remove("notExisting");
-                        }
-                        if(!(document.getElementById("infoBoard").classList.contains("existing"))){
-                          document.getElementById("infoBoard").classList.add("existing");
-                        }
-                    } else {
+                    if (!value.democrat_contestant) {
                         region_content = region_content + "<span style='color: red;'><strong>未有非建制派候選人！</strong></span><br/>"
                         // style the detail Info for no contestants
                         if(document.getElementById("infoBoard").classList.contains("existing")) {
                           document.getElementById("infoBoard").classList.remove("existing");
                         }
+						if(document.getElementById("infoBoard").classList.contains("inDeliberation")) {
+                          document.getElementById("infoBoard").classList.remove("inDeliberation");
+                        }
                         if(!(document.getElementById("infoBoard").classList.contains("notExisting"))){
                           document.getElementById("infoBoard").classList.add("notExisting");
                         }
-                    }
+                    } else if (value.democrat_contestant == "(待定)"){ //value.contestStatus == "DELIB"
+                        region_content = region_content + "<span style='color: red;'><strong>已有人積極考慮參選！</strong></span><br/>"
+                        // style the detail Info for no contestants
+                        if(document.getElementById("infoBoard").classList.contains("existing")) {
+                          document.getElementById("infoBoard").classList.remove("existing");
+                        }
+						if(document.getElementById("infoBoard").classList.contains("notExisting")) {
+                          document.getElementById("infoBoard").classList.remove("notExisting");
+                        }
+                        if(!(document.getElementById("infoBoard").classList.contains("inDeliberation"))){
+                          document.getElementById("infoBoard").classList.add("inDeliberation");
+                        }
+                    } else {
+						region_content = region_content + "非建制派擬參選人：" + value.democrat_contestant + " (" + value.democrat_organization + ")<br/>";
+                        // style the detail Info contesetants
+                        if(document.getElementById("infoBoard").classList.contains("notExisting")) {
+                          document.getElementById("infoBoard").classList.remove("notExisting");
+                        }
+						if(document.getElementById("infoBoard").classList.contains("inDeliberation")) {
+                          document.getElementById("infoBoard").classList.remove("inDeliberation");
+                        }
+                        if(!(document.getElementById("infoBoard").classList.contains("existing"))){
+                          document.getElementById("infoBoard").classList.add("existing");
+                        }
+					}
                     document.getElementById("region_content").innerHTML = region_content;
                     if (!!value.democrat_contestant) {
                         organzation_content = "<br/><strong>民間組織</strong><br/>";
