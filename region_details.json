@@ -495,7 +495,7 @@
 		"webpage": "http://labour.org.hk/",
 		"fbpage": "https://www.facebook.com/labour.org.hk/",
 		"instagram": "https://www.instagram.com/labourparty_hk/",
-		"telegram": "",
+		"telegram": "https://t.me/LabourHK",
 		"youtube": "https://www.youtube.com/user/HKLabourParty",
 		"email": "info@labour.org.hk",
 		"whatsapp": "",
@@ -903,7 +903,7 @@
 		"webpage": "http://labour.org.hk/",
 		"fbpage": "https://www.facebook.com/labour.org.hk/",
 		"instagram": "https://www.instagram.com/labourparty_hk/",
-		"telegram": "",
+		"telegram": "https://t.me/LabourHK",
 		"youtube": "https://www.youtube.com/user/HKLabourParty",
 		"email": "info@labour.org.hk",
 		"whatsapp": "",
@@ -1078,10 +1078,10 @@
     "name": "景怡",
 	"estab_contestant": "梁國鴻",
 	"estab_organization": "工聯會",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "",
+	"democrat_organization": "",
 	"organization": [{
-		"name": "(待定)",
+		"name": "",
 		"webpage": "",
 		"fbpage": "",
 		"instagram": "",
@@ -1197,18 +1197,24 @@
 	"democrat_organization": "炮台山活",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/jasonchankayau/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
 	},{
 		"name": "炮台山活",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/lifeinfortresshill/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "lifeinfortresshill@gmail.com",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "9374 2279"
 	}]
 },{
 	"district": "東區",
@@ -1219,12 +1225,15 @@
 	"democrat_contestant": "仇栩欣",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "",
-		"fbpage": "",
+		"name": "個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/jocelynchauhy/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "jocelynchauhy@gmail.com",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "5432 4647"
 	}]
 },{
 	"district": "東區",
@@ -1236,8 +1245,11 @@
 	"democrat_organization": "(待定)",
 	"organization": [{
 		"name": "(待定)",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -1252,8 +1264,11 @@
 	"democrat_organization": "(待定)",
 	"organization": [{
 		"name": "(待定)",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -1268,11 +1283,34 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/cpyslee/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "shunleecp@gmail.com",
+		"whatsapp": "",
+		"telephone": "8481 0997"
+	},{
+		"name": "公民黨港島區支部",
+		"webpage": "https://www.civicparty.hk/?q=node/20",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2580 6990"
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "東區",
@@ -1284,11 +1322,34 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/cpthcheng/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "tatchengcllr@gmail.com",
+		"whatsapp": "",
+		"telephone": "5403 1082"
+	},{
+		"name": "公民黨港島區支部",
+		"webpage": "https://www.civicparty.hk/?q=node/20",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2580 6990"
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "東區",
@@ -1300,8 +1361,11 @@
 	"democrat_organization": "(待定)",
 	"organization": [{
 		"name": "(待定)",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -1309,17 +1373,20 @@
 },{
 	"district": "東區",
     "code": "C24",
-    "name": "健康村",
+    "name": "鰂魚涌",
 	"estab_contestant": "丁江浩",
 	"estab_organization": "民建聯",
 	"democrat_contestant": "陳寶琼",
 	"democrat_organization": "樂活鰂魚涌",
 	"organization": [{
 		"name": "樂活鰂魚涌",
-		"fbpage": "https://www.facebook.com/profile.php?id=266832133494362&ref=br_rs",
+		"webpage": "https://www.hk01.com/18%E5%8D%80%E6%96%B0%E8%81%9E/322931/%E6%A8%82%E6%B4%BB%E9%B0%82%E9%AD%9A%E6%B6%8C-%E6%8E%A8%E7%BF%BB%E4%B8%8D%E8%83%BD%E9%81%BF%E9%9B%A8%E4%BA%AD%E9%9F%BF%E6%9C%B5-%E5%A5%B3%E7%89%88%E4%B8%BB%E7%9B%A1%E8%A8%B4%E9%80%BE%E7%99%BE%E5%B9%B4%E5%B0%8F%E5%8D%80%E5%8F%A4%E6%80%AA%E4%BA%8B",
+		"fbpage": "https://www.facebook.com/quarrybayz/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "kellychan.qb@gmail.com",
+		"whatsapp": "5596 3184",
 		"telephone": ""
 	}]
 },{
@@ -1332,11 +1399,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/HowardCheungKwokCheong/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "kccheungoffice@gmail.com",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3188 3875 / 9376 9899"
+	},{
+		"name": "民主黨香港島支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkhki@dphk.org",
+		"whatsapp": "",
+		"telephone": "9800 8237"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "東區",
@@ -1348,11 +1438,34 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/derekngai",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "derekngai@me.com",
+		"whatsapp": "6988 9268",
+		"telephone": "2513 6211"
+	},{
+		"name": "公民黨港島區支部",
+		"webpage": "https://www.civicparty.hk/?q=node/20",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2580 6990"
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "東區",
@@ -1364,11 +1477,34 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "http://www.leungsiusun.com",
 		"fbpage": "https://www.facebook.com/kornhill.garden.patrick.leung/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "leungsiusun@gmail.com",
+		"whatsapp": "5336 5996",
+		"telephone": "2865 4380"
+	},{
+		"name": "公民黨港島區支部",
+		"webpage": "https://www.civicparty.hk/?q=node/20",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2580 6990"
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "東區",
@@ -1380,11 +1516,14 @@
 	"democrat_organization": "興東東熹環境關注組",
 	"organization": [{
 		"name": "興東東熹環境關注組",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/hth.env.group/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "hth.env.group@gmail.com",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "9605 8334"
 	}]
 },{
 	"district": "東區",
@@ -1396,11 +1535,34 @@
 	"democrat_organization": "工黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/AlanHoLP",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "6859 3485",
+		"telephone": "2116 9787"
+	},{
+		"name": "西灣河筲箕灣工作隊",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/pg/swhskwteam/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "工黨",
+		"webpage": "http://labour.org.hk/",
+		"fbpage": "https://www.facebook.com/labour.org.hk/",
+		"instagram": "https://www.instagram.com/labourparty_hk/",
+		"telegram": "https://t.me/LabourHK",
+		"youtube": "https://www.youtube.com/user/HKLabourParty",
+		"email": "info@labour.org.hk",
+		"whatsapp": "",
+		"telephone": "2770 8668"
 	}]
 },{
 	"district": "東區",
@@ -1412,11 +1574,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨香港島支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkhki@dphk.org",
+		"whatsapp": "",
+		"telephone": "9800 8237"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "東區",
@@ -1428,16 +1613,22 @@
 	"democrat_organization": "山民主義",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "https://www.inmediahk.net/node/1063612?fbclid=IwAR0ZXSf6JCljK74PmBwYneBCsNIHqjeSgQTsE7GIa37xGluFH8fBQ29oCOc",
 		"fbpage": "https://www.facebook.com/Tsemiuyee",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "annatse62382061@gmail.com",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "6238 2061"
 	},{
 		"name": "山民主義",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/sanmanism.cw/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "sanmanism.cw@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -1451,8 +1642,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -1467,8 +1661,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -1483,11 +1680,14 @@
 	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/AndyChui2015/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
-		"telephone": ""
+		"youtube": "",
+		"email": "andy65700421@gmail.com",
+		"whatsapp": "6570 0421",
+		"telephone": "2644 0833"
 	}]
 },{
 	"district": "東區",
@@ -1499,8 +1699,11 @@
 	"democrat_organization": "(待定)",
 	"organization": [{
 		"name": "(待定)",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
