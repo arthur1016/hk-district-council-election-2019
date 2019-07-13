@@ -20,11 +20,15 @@
     <div class="col-6">
       <h1 class="text-center">2019年區議會一般選舉選區地圖<small> - BETA Version 0.3</small></h1>
     </div>
-	<div class="col-1"></div>
-    <div class="col-2 search_button_container">
-      <a href="#" title="*地點搜尋功能尚待完成*">
-        <img id="search_button" class="reference_link_icon" src="./images/search.svg" />
-      </a>
+    <div class="col-3 search_button_container">
+      <div class="input-group md-form form-sm form-2 pl-0">
+        <input id="search_input" class="form-control my-0 py-1" type="text" placeholder="搜尋地點" aria-label="搜尋地點">
+        <div class="input-group-append">
+          <button id="search_button" class="input-group-text lighten-3" aria-hidden="true">
+            <image src="./images/octicons/search.svg" />
+          </button>
+        </div>
+      </div>
     </div>
   </div>
 </header>
