@@ -27,7 +27,7 @@ function showRegions(path, toDraw) {
 var map = L.map('mapid').setView([22.354554, 114.161682], 11);
 
 //Base Map from OpenStreetMap
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+L.tileLayer('https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png', {
     attribution: '&copy; <a target="_blank" href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 }).addTo(map);
 
