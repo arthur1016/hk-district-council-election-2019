@@ -7,6 +7,7 @@
     return [coord[1], coord[0]];
   }
 
+  var marker = null;
   function search() {
     var q = $("#search_input").val();
     if (q.length == 0) return;
@@ -15,10 +16,15 @@
     }).done(function(res) {
       if (res.length == 0) return;
       var coord = convertCoord(res[0].x, res[0].y);
-      L.marker(coord, {
+
+      if (marker != null) {
+        map.removeLayer(marker);
+      };
+      marker = L.marker(coord, {
         riseOnHover: true,
         bubblingMouseEvents: true,
-      }).addTo(map);
+      });
+      marker.addTo(map);
     	map.setView(coord, 18);
     })
   }
