@@ -2940,12 +2940,15 @@
 	"democrat_contestant": "麥偉明",
 	"democrat_organization": "民協",
 	"organization": [{
-		"name": "",
-		"fbpage": "",
+		"name": "民協",
+		"webpage": "http://www.adpl.org.hk/",
+		"fbpage": "https://www.facebook.com/hkadpl/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "info@adpl.org.hk",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2782 2699"
 	}]
 },{
 	"district": "深水埗區",
@@ -2957,11 +2960,14 @@
 	"democrat_organization": "長沙灣社區發展力量",
 	"organization": [{
 		"name": "長沙灣社區發展力量",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/cswpower",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "cheungshawan.power@gmail.com",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "9235 9465"
 	}]
 },{
 	"district": "深水埗區",
@@ -2973,9 +2979,22 @@
 	"democrat_organization": "大專政改關注組",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/Colinlotakcheong/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "colin0385@gmail.com",
+		"whatsapp": "5464 3238",
+		"telephone": ""
+	},{
+		"name": "大專政改關注組",
+		"webpage": "https://www.inmediahk.net/user/530451/post#",
+		"fbpage": "https://www.facebook.com/pg/studentfightfordemocracy/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "studentfightfordemocracy@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -2989,11 +3008,14 @@
 	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "https://www.inmediahk.net/node/1060845",
 		"fbpage": "https://www.facebook.com/kwokwaishing1221/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
-		"whatsapp": "",
-		"telephone": ""
+		"whatsapp": "9221 4120",
+		"telephone": "2778 1577"
 	}]
 },{
 	"district": "深水埗區",
@@ -3005,11 +3027,24 @@
 	"democrat_organization": "民協",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/kalvinhokaiming/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "skg@adpl.org.hk",
+		"whatsapp": "5334 5226",
 		"telephone": ""
+	},{
+		"name": "民協",
+		"webpage": "http://www.adpl.org.hk/",
+		"fbpage": "https://www.facebook.com/hkadpl/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "info@adpl.org.hk",
+		"whatsapp": "",
+		"telephone": "2782 2699"
 	}]
 },{
 	"district": "深水埗區",
@@ -3021,11 +3056,24 @@
 	"democrat_organization": "民協",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/jaylitingfung/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "campaign@adpl.org.hk",
+		"whatsapp": "9764 3189",
 		"telephone": ""
+	},{
+		"name": "民協",
+		"webpage": "http://www.adpl.org.hk/",
+		"fbpage": "https://www.facebook.com/hkadpl/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "info@adpl.org.hk",
+		"whatsapp": "",
+		"telephone": "2782 2699"
 	}]
 },{
 	"district": "深水埗區",
@@ -3037,8 +3085,11 @@
 	"democrat_organization": "(待定)",
 	"organization": [{
 		"name": "(待定)",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -3053,11 +3104,24 @@
 	"democrat_organization": "民協",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/waiwoonnam/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "ncc@adpl.org.hk",
+		"whatsapp": "6924 8699",
+		"telephone": "2386 8779"
+	},{
+		"name": "民協",
+		"webpage": "http://www.adpl.org.hk/",
+		"fbpage": "https://www.facebook.com/hkadpl/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "info@adpl.org.hk",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2782 2699"
 	}]
 },{
 	"district": "深水埗區",
@@ -3069,10 +3133,13 @@
 	"democrat_organization": "長沙灣西社區陣線",
 	"organization": [{
 		"name": "長沙灣西社區陣線",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/cswwfront/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "cswwfront@gmail.com",
+		"whatsapp": "6012 9454",
 		"telephone": ""
 	}]
 },{
@@ -3085,11 +3152,24 @@
 	"democrat_organization": "民協",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/RichardLiKwing/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "fcc@adpl.org.hk",
+		"whatsapp": "9766 3480",
 		"telephone": ""
+	},{
+		"name": "民協",
+		"webpage": "http://www.adpl.org.hk/",
+		"fbpage": "https://www.facebook.com/hkadpl/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "info@adpl.org.hk",
+		"whatsapp": "",
+		"telephone": "2782 2699"
 	}]
 },{
 	"district": "深水埗區",
@@ -3101,11 +3181,24 @@
 	"democrat_organization": "民協",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/TsuiRonald/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "ronaldtsui@adpl.org.hk",
+		"whatsapp": "9764 6498",
 		"telephone": ""
+	},{
+		"name": "民協",
+		"webpage": "http://www.adpl.org.hk/",
+		"fbpage": "https://www.facebook.com/hkadpl/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "info@adpl.org.hk",
+		"whatsapp": "",
+		"telephone": "2782 2699"
 	}]
 },{
 	"district": "深水埗區",
@@ -3117,11 +3210,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/zoewinghengchow/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "zoe.wh.chow@gmail.com",
+		"whatsapp": "5169 0602",
+		"telephone": "2728 0939"
+	},{
+		"name": "民主黨九龍西支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=7",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkklw@dphk.org",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2397 7033"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "深水埗區",
@@ -3133,11 +3249,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/yuenhoiman/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "ramonyuen@dphk.org",
+		"whatsapp": "6343 4691",
 		"telephone": ""
+	},{
+		"name": "民主黨九龍西支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=7",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkklw@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "深水埗區",
@@ -3149,11 +3288,24 @@
 	"democrat_organization": "民協",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/hoilai.yuk/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "hlc@adpl.org.hk",
+		"whatsapp": "6411 2327",
+		"telephone": "3514 6051"
+	},{
+		"name": "民協",
+		"webpage": "http://www.adpl.org.hk/",
+		"fbpage": "https://www.facebook.com/hkadpl/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "info@adpl.org.hk",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2782 2699"
 	}]
 },{
 	"district": "深水埗區",
@@ -3165,11 +3317,44 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/eunicechau.cp/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "eunice.chau@civicparty.hk",
+		"whatsapp": "9450 4211",
+		"telephone": ""
+	},{
+		"name": "公民黨美孚團隊",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/CPMeiFoo/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "9476 2365",
+		"telephone": "2370 1805"
+	},{
+		"name": "公民黨九龍西支部",
+		"webpage": "https://www.civicparty.hk/?q=node/22",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2710 7770 / 2370 1805"
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "深水埗區",
@@ -3181,11 +3366,44 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/janet.ng.5074",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "janetng@civicparty.hk",
+		"whatsapp": "9476 2365",
+		"telephone": "2370 1805"
+	},{
+		"name": "公民黨美孚團隊",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/CPMeiFoo/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "9476 2365",
+		"telephone": "2370 1805"
+	},{
+		"name": "公民黨九龍西支部",
+		"webpage": "https://www.civicparty.hk/?q=node/22",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2710 7770 / 2370 1805"
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "深水埗區",
@@ -3197,11 +3415,44 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/JoshuaChunHei/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "joshuali@civicparty.hk",
+		"whatsapp": "6449 4464",
+		"telephone": ""
+	},{
+		"name": "公民黨美孚團隊",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/CPMeiFoo/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "9476 2365",
+		"telephone": "2370 1805"
+	},{
+		"name": "公民黨九龍西支部",
+		"webpage": "https://www.civicparty.hk/?q=node/22",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2710 7770 / 2370 1805"
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "深水埗區",
@@ -3213,11 +3464,24 @@
 	"democrat_organization": "民協",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/chumtakshing/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "ucc@adpl.org.hk",
+		"whatsapp": "5225 1334",
+		"telephone": "2728 0934"
+	},{
+		"name": "民協",
+		"webpage": "http://www.adpl.org.hk/",
+		"fbpage": "https://www.facebook.com/hkadpl/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "info@adpl.org.hk",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2782 2699"
 	}]
 },{
 	"district": "深水埗區",
@@ -3229,11 +3493,24 @@
 	"democrat_organization": "民協",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/honting.lee",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
-		"whatsapp": "",
+		"whatsapp": "6711 3332",
 		"telephone": ""
+	},{
+		"name": "民協",
+		"webpage": "http://www.adpl.org.hk/",
+		"fbpage": "https://www.facebook.com/hkadpl/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "info@adpl.org.hk",
+		"whatsapp": "",
+		"telephone": "2782 2699"
 	}]
 },{
 	"district": "深水埗區",
@@ -3245,11 +3522,24 @@
 	"democrat_organization": "民協",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/souksogood/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "souksogood@gmail.com",
+		"whatsapp": "6492 2224",
+		"telephone": "2728 0934"
+	},{
+		"name": "民協",
+		"webpage": "http://www.adpl.org.hk/",
+		"fbpage": "https://www.facebook.com/hkadpl/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "info@adpl.org.hk",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2782 2699"
 	}]
 },{
 	"district": "深水埗區",
@@ -3261,11 +3551,24 @@
 	"democrat_organization": "民協",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "https://www.facebook.com/kskong",
 		"fbpage": "https://www.facebook.com/lcukskong/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "lcukskong@gmail.com",
+		"whatsapp": "9665 4343",
+		"telephone": "2623 6478"
+	},{
+		"name": "民協",
+		"webpage": "http://www.adpl.org.hk/",
+		"fbpage": "https://www.facebook.com/hkadpl/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "info@adpl.org.hk",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2782 2699"
 	}]
 },{
 	"district": "深水埗區",
@@ -3277,11 +3580,14 @@
 	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
-		"fbpage": "https://www.facebook.com/adpl.coc",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/meingcarman/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
-		"telephone": ""
+		"youtube": "",
+		"email": "carman.ngmei@gmail.com",
+		"whatsapp": "6011 1420 / 6021 5492",
+		"telephone": "2319 1654 / 2319 1655"
 	}]
 },{
 	"district": "深水埗區",
@@ -3293,8 +3599,11 @@
 	"democrat_organization": "(待定)",
 	"organization": [{
 		"name": "(待定)",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -3309,8 +3618,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -3325,11 +3637,24 @@
 	"democrat_organization": "民協",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/tamkwokkiu2016/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "tht@adpl.org.hk",
+		"whatsapp": "5577 5198",
+		"telephone": "2788 2717"
+	},{
+		"name": "民協",
+		"webpage": "http://www.adpl.org.hk/",
+		"fbpage": "https://www.facebook.com/hkadpl/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "info@adpl.org.hk",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2782 2699"
 	}]
 },{
 	"district": "九龍城區",
