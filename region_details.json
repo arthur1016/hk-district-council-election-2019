@@ -4480,10 +4480,10 @@
 	"name": "新蒲崗",
 	"estab_contestant": "雷啟蓮",
 	"estab_organization": "創建力量",
-	"democrat_contestant": "",
-	"democrat_organization": "",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
 	"organization": [{
-		"name": "",
+		"name": "(待定)",
 		"fbpage": "",
 		"telegram": "",
 		"email": "",
