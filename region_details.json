@@ -5039,11 +5039,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/lschanfriends/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "dicky_chan@hotmail.com",
+		"whatsapp": "5110 3435",
+		"telephone": "2325 0763"
+	},{
+		"name": "民主黨九龍東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=6",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkkle@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "黃大仙區",
@@ -5055,11 +5078,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/胡志健-1868437633418462/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "chichoioffice@gmail.com",
+		"whatsapp": "6737 1980",
+		"telephone": "2761 3207"
+	},{
+		"name": "民主黨九龍東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=6",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkkle@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "黃大仙區",
@@ -5071,11 +5117,14 @@
 	"democrat_organization": "彩虹邨服務聯會",
 	"organization": [{
 		"name": "彩虹邨服務聯會",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/ChoiHungSSA/",
+		"instagram": "https://www.instagram.com/seanmock_hc/",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
-		"telephone": ""
+		"youtube": "",
+		"email": "rainbowchinahk@gmail.com",
+		"whatsapp": "6114 6319",
+		"telephone": "2323 8942"
 	}]
 },{
 	"district": "觀塘區",
