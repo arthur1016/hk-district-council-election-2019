@@ -5136,11 +5136,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/edithleungyt/",
+		"instagram": "https://www.instagram.com/edithleungyikting",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "edithleung@dphk.org",
+		"whatsapp": "5543 5231",
+		"telephone": "3567 0304"
+	},{
+		"name": "民主黨九龍東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=6",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkkle@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "觀塘區",
@@ -5151,12 +5174,15 @@
 	"democrat_contestant": "潘任惠珍",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "",
+		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
-		"telephone": ""
+		"youtube": "",
+		"email": "wpoonyam@yahoo.com",
+		"whatsapp": "9360 6826",
+		"telephone": "2757 0328"
 	}]
 },{
 	"district": "觀塘區",
@@ -5168,11 +5194,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/尹家謙-Derek-Wan-483944088606314/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "derekwankahim@gmail.com",
+		"whatsapp": "9674 7131",
+		"telephone": ""
+	},{
+		"name": "民主黨九龍東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=6",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkkle@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "觀塘區",
@@ -5184,11 +5233,34 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/buxoffice/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "anthony@civicparty.hk",
+		"whatsapp": "9213 4434",
+		"telephone": "2612 4434"
+	},{
+		"name": "公民黨九龍東支部",
+		"webpage": "https://www.civicparty.hk/?q=node/21",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "觀塘區",
@@ -5200,11 +5272,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "https://docs.google.com/forms/d/e/1FAIpQLSdnDaL0AurozsOoh4ds0gcnoc-3xpAcVPaoa63U_fbZSUKHjA/viewform",
 		"fbpage": "https://www.facebook.com/kiralaipokwai/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "kira.chiwaioffice@gmail.com",
+		"whatsapp": "6188 0219",
+		"telephone": "2761 3106"
+	},{
+		"name": "民主黨九龍東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=6",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkkle@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "觀塘區",
@@ -5216,8 +5311,11 @@
 	"democrat_organization": "(待定)",
 	"organization": [{
 		"name": "(待定)",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -5232,8 +5330,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -5248,11 +5349,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/莫建成-893627454077897/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "mokkinshing@gmail.com",
+		"whatsapp": "5401 0657",
+		"telephone": "3702 0712"
+	},{
+		"name": "民主黨九龍東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=6",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkkle@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "觀塘區",
@@ -5264,8 +5388,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -5280,11 +5407,14 @@
 	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/choychktdc/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
-		"telephone": ""
+		"youtube": "",
+		"email": "choych.ktdc@gmail.com",
+		"whatsapp": "9848 8493",
+		"telephone": "2797 0555 / 9102 6987"
 	}]
 },{
 	"district": "觀塘區",
@@ -5296,11 +5426,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/LinKuanTsun/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "tommy.chiwaioffice@gmail.com",
+		"whatsapp": "6745 5775",
+		"telephone": "3567 0304"
+	},{
+		"name": "民主黨九龍東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=6",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkkle@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "觀塘區",
@@ -5312,8 +5465,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -5328,15 +5484,21 @@
 	"democrat_organization": "秀達服務團隊",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/profile.php?id=100014133163952",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
-		"whatsapp": "",
+		"whatsapp": "5523 9601",
 		"telephone": ""
 	},{
 		"name": "秀達服務團隊",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/秀達服務團隊-秀茂坪邨秀茂坪南邨寶達邨及安達邨-354813278633246/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -5351,15 +5513,21 @@
 	"democrat_organization": "秀達服務團隊",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/oscarlaimanlok/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "rsw24930@gmail.com",
+		"whatsapp": "5499 9628",
 		"telephone": ""
 	},{
 		"name": "秀達服務團隊",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/秀達服務團隊-秀茂坪邨秀茂坪南邨寶達邨及安達邨-354813278633246/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -5374,8 +5542,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -5389,9 +5560,22 @@
 	"democrat_contestant": "陳鑫",
 	"democrat_organization": "秀達服務團隊",
 	"organization": [{
-		"name": "秀達服務團隊",
-		"fbpage": "https://www.facebook.com/秀達服務團隊-秀茂坪邨秀茂坪南邨寶達邨及安達邨-354813278633246/",
+		"name": "個人聯絡資料",
+		"webpage": "",
+		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "9249 9704",
+		"telephone": ""
+	},{
+		"name": "秀達服務團隊",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/秀達服務團隊-秀茂坪邨秀茂坪南邨寶達邨及安達邨-354813278633246/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -5406,11 +5590,24 @@
 	"democrat_organization": "人民力量",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/譚得志-Takchi-Tam快必-767067873371162/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "人民力量",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/peoplespower/",
+		"instagram": "https://www.instagram.com/peoplepowerhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC5tqhizKIdEiv0Qw_AAah0Q",
+		"email": "admin@peoplepower.hk",
+		"whatsapp": "",
+		"telephone": "6396 4111"
 	}]
 },{
 	"district": "觀塘區",
@@ -5422,11 +5619,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/葉梓傑-1126993467352031/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "iptszkitnelson@gmail.com",
+		"whatsapp": "5115 6489",
+		"telephone": "2775 3178"
+	},{
+		"name": "民主黨九龍東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=6",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkkle@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "觀塘區",
@@ -5438,8 +5658,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -5454,10 +5677,13 @@
 	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/pingtineasonchan/",
+		"instagram": "https://www.instagram.com/easonchan.pingtin/",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "pingtineasonchan@gmail.com",
+		"whatsapp": "9503 3493",
 		"telephone": ""
 	}]
 },{
@@ -5470,8 +5696,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -5479,18 +5708,21 @@
 },{
 	"district": "觀塘區",
 	"code": "J22",
-	"name": "栢雅",
+	"name": "俊翔",
 	"estab_contestant": "黃啟燊",
 	"estab_organization": "工聯會",
 	"democrat_contestant": "謝淑珍",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "",
+		"name": "個人聯絡資料",
+		"webpage": "https://www.facebook.com/yvonne.tse.98/",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
-		"telephone": ""
+		"youtube": "",
+		"email": "tsesukchun@yahoo.com.hk",
+		"whatsapp": "9191 3761",
+		"telephone": "3996 7688"
 	}]
 },{
 	"district": "觀塘區",
@@ -5502,8 +5734,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -5517,12 +5752,15 @@
 	"democrat_contestant": "梁家聲",
 	"democrat_organization": "人民力量",
 	"organization": [{
-		"name": "",
-		"fbpage": "",
+		"name": "人民力量",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/peoplespower/",
+		"instagram": "https://www.instagram.com/peoplepowerhk/",
 		"telegram": "",
-		"email": "",
+		"youtube": "https://www.youtube.com/channel/UC5tqhizKIdEiv0Qw_AAah0Q",
+		"email": "admin@peoplepower.hk",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "6396 4111"
 	}]
 },{
 	"district": "觀塘區",
@@ -5534,10 +5772,13 @@
 	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/王偉麟-306016046704591/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "yaulaikay@gmail.com",
+		"whatsapp": "5939 3031",
 		"telephone": ""
 	}]
 },{
@@ -5550,8 +5791,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -5566,11 +5810,34 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/WilliamLiWaiLam/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "klewilliamli@gmail.com",
+		"whatsapp": "5544 1448",
+		"telephone": ""
+	},{
+		"name": "公民黨九龍東支部",
+		"webpage": "https://www.civicparty.hk/?q=node/21",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "觀塘區",
@@ -5582,11 +5849,34 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/SarahWongkaying/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "sarahwong@civicparty.hk",
+		"whatsapp": "5148 1131",
+		"telephone": ""
+	},{
+		"name": "公民黨九龍東支部",
+		"webpage": "https://www.civicparty.hk/?q=node/21",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "觀塘區",
@@ -5598,10 +5888,13 @@
 	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://facebook.com/botonLi",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
-		"whatsapp": "",
+		"whatsapp": "9870 3497",
 		"telephone": ""
 	}]
 },{
@@ -5614,10 +5907,13 @@
 	"democrat_organization": "譚香文團隊",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/張隆-872306073132084/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
-		"whatsapp": "",
+		"whatsapp": "9589 4391",
 		"telephone": ""
 	}]
 },{
@@ -5630,11 +5926,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/profile.php?id=100005372733761&ref=br_rs",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "kengieongcheng@gmail.com",
+		"whatsapp": "5540 4295",
+		"telephone": ""
+	},{
+		"name": "民主黨九龍東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=6",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkkle@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "觀塘區",
@@ -5645,11 +5964,24 @@
 	"democrat_contestant": "梁凱晴",
 	"democrat_organization": "觀塘願景",
 	"organization": [{
-		"name": "觀塘願景",
-		"fbpage": "https://www.facebook.com/kwuntongfuture/",
+		"name": "個人聯絡資料",
+		"webpage": "",
+		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "jrleung1124@gmail.com",
+		"whatsapp": "5720 0919",
+		"telephone": ""
+	},{
+		"name": "觀塘願景",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/kwuntongfuture/",
+		"instagram": "https://www.instagram.com/kwuntongfuture/",
+		"telegram": "",
+		"youtube": "",
+		"email": "kwuntongfuture@gmail.com",
+		"whatsapp": "9848 6284",
 		"telephone": ""
 	}]
 },{
@@ -5662,8 +5994,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -5678,11 +6013,14 @@
 	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "",
+		"webpage": "http://www.isletforum.com/forum.php?mod=viewthread&tid=22407",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
-		"telephone": ""
+		"youtube": "",
+		"email": "kevinskc@gmail.com",
+		"whatsapp": "6189 8268",
+		"telephone": "2750 8882"
 	}]
 },{
 	"district": "觀塘區",
@@ -5694,10 +6032,13 @@
 	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/kenlokwah",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "kenlokwah@gmail.com",
+		"whatsapp": "6371 6731",
 		"telephone": ""
 	}]
 },{
@@ -5710,10 +6051,13 @@
 	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/chrischan9011/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "chrischan9011@hotmail.com",
+		"whatsapp": "5624 3895",
 		"telephone": ""
 	}]
 },{
@@ -5726,11 +6070,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/profile.php?id=100010255068561",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨九龍東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=6",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkkle@dphk.org",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "觀塘區",
@@ -5742,8 +6109,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -5758,8 +6128,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -5774,11 +6147,34 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/Lee-Kwan-Chak-李軍澤-124549454826082/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "skylee@civicparty.hk",
+		"whatsapp": "9220 2541",
+		"telephone": ""
+	},{
+		"name": "公民黨九龍東支部",
+		"webpage": "https://www.civicparty.hk/?q=node/21",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "荃灣區",
