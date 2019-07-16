@@ -1,5 +1,4 @@
-[
-{
+[{
 	"district": "中西區",
     "code": "A01",
     "name": "中環",
@@ -10735,11 +10734,34 @@
 	"democrat_organization": "朱凱廸團隊",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/LantauSiuYin/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "lantau.siuyin@gmail.com",
+		"whatsapp": "6659 1552",
+		"telephone": ""
+	},{
+		"name": "朱凱廸大嶼山團隊",
+		"webpage": "https://www.facebook.com/eastspringonion/",
+		"fbpage": "https://www.facebook.com/pg/朱凱廸大嶼山團隊-2049187482020791",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "朱凱廸團隊",
+		"webpage": "http://chuhoidick.hk/",
+		"fbpage": "https://www.facebook.com/chuhoidick/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "info@chuhoidick.hk",
+		"whatsapp": "",
+		"telephone": "2809 2102"
 	}]
 },{
 	"district": "離島區",
@@ -10751,11 +10773,14 @@
 	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/erickwokping/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
-		"telephone": ""
+		"youtube": "",
+		"email": "erickwok920@yahoo.com.hk",
+		"whatsapp": "9836 7620",
+		"telephone": "2326 0618"
 	}]
 },{
 	"district": "離島區",
@@ -10767,11 +10792,24 @@
 	"democrat_organization": "郭平助理",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/%E6%96%B9%E9%BE%8D%E9%A3%9B-318421599022887/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
-		"whatsapp": "",
+		"whatsapp": "9401 3033",
 		"telephone": ""
+	},{
+		"name": "郭平議員聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/erickwokping/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "erickwok920@yahoo.com.hk",
+		"whatsapp": "9836 7620",
+		"telephone": "2326 0618"
 	}]
 },{
 	"district": "離島區",
@@ -10783,17 +10821,23 @@
 	"democrat_organization": "東涌人",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/yeung.wong.50",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
 	},{
 		"name": "東涌人",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/TungChungFuture/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "wcy.t05@gmail.com",
+		"whatsapp": "5540 5618",
 		"telephone": ""
 	}]
 },{
@@ -10806,11 +10850,34 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/KaHoLee.CP/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "kaho@civicparty.hk",
+		"whatsapp": "6477 7600",
+		"telephone": ""
+	},{
+		"name": "公民黨新界西支部",
+		"webpage": "https://www.civicparty.hk/?q=node/24",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2430 7999"
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "離島區",
@@ -10822,11 +10889,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/yctsoi",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨新界西支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=8",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkntw@dphk.org",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "離島區",
@@ -10838,11 +10928,34 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "http://www.amyung.org.hk",
 		"fbpage": "https://www.facebook.com/db.amy.yung/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "amy.yung.ay@gmail.com",
+		"whatsapp": "6987 7979",
+		"telephone": "2987 7979"
+	},{
+		"name": "公民黨新界西支部",
+		"webpage": "https://www.civicparty.hk/?q=node/24",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2430 7999"
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "離島區",
@@ -10854,8 +10967,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -10870,8 +10986,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -10886,11 +11005,33 @@
 	"democrat_organization": "朱凱廸團隊",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/leungkwokho01/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "朱凱廸大嶼山團隊",
+		"webpage": "https://www.facebook.com/eastspringonion/",
+		"fbpage": "https://www.facebook.com/pg/朱凱廸大嶼山團隊-2049187482020791",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "朱凱廸團隊",
+		"webpage": "http://chuhoidick.hk/",
+		"fbpage": "https://www.facebook.com/chuhoidick/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "info@chuhoidick.hk",
+		"whatsapp": "",
+		"telephone": "2809 2102"
 	}]
-}
-]
+}]
