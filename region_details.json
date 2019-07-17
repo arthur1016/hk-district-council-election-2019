@@ -6394,10 +6394,10 @@
 	"name": "愉景",
 	"estab_contestant": "田北辰",
 	"estab_organization": "實政圓桌",
-	"democrat_contestant": "",
-	"democrat_organization": "",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
 	"organization": [{
-		"name": "",
+		"name": "(待定)",
 		"webpage": "",
 		"fbpage": "",
 		"instagram": "",
@@ -9335,15 +9335,21 @@
 	"democrat_organization": "大埔社區網絡",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/lammingyat/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
 	},{
 		"name": "大埔社區網絡",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/taipocommunitynetwork/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
