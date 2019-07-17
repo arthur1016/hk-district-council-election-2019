@@ -98,6 +98,15 @@ header #mobile_menu{
 #mapid {
   height: 800px;
 }
+@media(max-width: 767px){
+  #mapid {
+    height: 400px;
+  }
+  .infoBoard-container{
+    height: 220px;
+    overflow-y: scroll;
+  }
+}
 #infoBoard{
   flex-direction: column;
 }
