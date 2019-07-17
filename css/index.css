@@ -8,55 +8,88 @@ body {
     margin-right: auto;
 
 }
+
 header h1{
   font-size: 2rem;
 }
 header{
   margin: 15px;
 }
-header .reference_link_container > div > a{
+header #mobile_menu{
+  font-size: 32px;
+}
+#nav_bar nav{
+  display: flex;
+  flex-direction: column;
+  padding: 20px 0px;
+}
+#reference_link_container > div > a{
   flex: 1;
   text-align: center;
 }
-header .reference_link_icon{
+.reference_link_icon{
   width: 30px;
   height: auto;
   vertical-align: top;
   padding-top: 4px;
 }
+@media(max-width: 767px){
+  header #search_button{
+    border-radius: 0px;
+    width: 60px;
+    height: 50px;
+    background: transparent;
+    border: 0px;
+  }
+  header #search_button img{
+    width: 100%;
+    height: auto;
+  }
+}
+#input_box_mobile{
+  margin-bottom:15px;
+}
 #district-menu{
   /*max-height: 600px;
   overflow: scroll;*/
+}
+#district-menu li.nav-item{
+  margin-bottom: 15px;
 }
 #district-menu li.nav-item img{
   max-width: 60px;
   width: 100%;
   height: auto;
+  padding-right:5px;
 }
 #district-menu .navbar-nav{
   flex-direction: column;
   text-align: center;
+  display: block;
+  column-count: 2;
 }
+#district-menu .navbar-nav a{
+  display:block;
+}
+@media(max-width: 767px) {
+  #district-menu .navbar-nav a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  #district-menu .navbar-nav a img{
+    width: 30px;
+  }
+}
+
 #district-menu .hk_island:hover{
   background-color: #baffff;
-}
-#district-menu .hk_island>li>a{
-  display:block;
-  /*color: #0071CE;*/
 }
 #district-menu .kowloon:hover{
   background-color: #fffaba;
 }
-#district-menu .kowloon>li>a{
-  display:block;
-  /*color: #00AF41;*/
-}
 #district-menu .new_territories:hover{
   background-color: #ffe8fc;
-}
-#district-menu .new_territories>li>a{
-  display:block;
-  /*color: #E2231A;*/
 }
 #district-menu .hk_island>li>a:hover, #district-menu .kowloon>li>a, #district-menu .new_territories>li>a:hover{
   cursor: pointer;
@@ -106,4 +139,22 @@ header .reference_link_icon{
 	text-align: center;
 	font-weight: 700;
 	font-size: 20px;
+}
+.drawer-nav{
+  z-index: 10000;
+}
+.drawer-hamburger{
+  z-index:10001;
+  background: white;
+}
+@media(min-width:768px){
+  .drawer-hamburger{
+    position: relative;
+  }
+}
+.drawer-hamburger:hover{
+  background: white;
+}
+.drawer-overlay{
+  z-index: 9999;
 }

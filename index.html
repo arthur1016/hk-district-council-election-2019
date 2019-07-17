@@ -3,6 +3,7 @@
 <head>
     <title>2019年區議會一般選舉 - 反自動當選運動</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- OpenGraph -->
     <meta property="og:title" content="2019年區議會一般選舉反自動當選運動">
     <meta property="og:description" content="2019年區議會一般選舉反自動當選運動">
@@ -21,32 +22,35 @@
         integrity="sha512-GffPMF3RvMeYyc1LWMHtK8EbPv0iNZ8/oTtHPx9/cc2ILxQ+u905qIwdpULaqDkyBKgOaB57QTMg7ztg8Jm2Og=="
         crossorigin=""></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
-        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
-        crossorigin="anonymous"></script>
+
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.js"></script>
     <script src="https://www.w3schools.com/lib/w3.js"></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.5.0/proj4-src.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.5.0/proj4-src.js"></script>
+    <!-- drawer -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/css/drawer.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.2.0/iscroll-infinite.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/js/drawer.js"></script>
     <!-- CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
         integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
         crossorigin="" />
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" />
 	<link rel="icon" href="images/movement_logo.png" type="image/png" sizes="16x16">
     <link href="css/index.css" rel="stylesheet" type="text/css">
 </head>
-<body class="container-fluid">
+<body class="container-fluid drawer drawer--left">
     <div w3-include-html="header.html"></div>
+    <div id="input_box_mobile" class="d-block d-md-none"></div>
     <!--<button style="" type="button" class="btn btn-danger btn-lg btn-block" onclick="contestedSeats()" id="showUncontestedOnly">只顯示自動當選選區</button> -->
     <div class="container-fluid">
-      <div class="row">
-        <div class="col-1 pr-0">
+      <div id="mainContent" class="row">
+        <div id="nav_bar" class="col-2 pl-0 pr-0">
           <div w3-include-html="nav.html"></div>
         </div>
-        <div class="col-9">
+        <div class="col-8">
           <div id="mapid"></div>
         </div>
-        <div class="col-2 pl-0">
+        <div class="col-4 col-md-2 pl-0">
           <div id="infoBoard" class="row">
               <div id='entry_status'></div>
               <div id="detailInfo">
@@ -67,10 +71,12 @@
         </p>
     </div>
     <footer></footer>
+    <div id="leftDrawer"></div>
     <script>
         w3.includeHTML();
     </script>
 </body>
 <script src="js/index.js"></script>
 <script src="js/search.js"></script>
+<script src="js/leftDrawer.js"></script>
 </html>

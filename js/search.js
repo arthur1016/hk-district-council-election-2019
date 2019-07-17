@@ -1,7 +1,7 @@
 (function() {
   proj4.defs("EPSG:2326", "+proj=tmerc +lat_0=22.31213333333334 +lon_0=114.1785555555556 +k=1 +x_0=836694.05 +y_0=819069.8 +ellps=intl +towgs84=-162.619,-276.959,-161.764,0.067753,-2.24365,-1.15883,-1.09425 +units=m +no_defs");
   proj4.defs("EPSG:4326", "+proj=longlat +datum=WGS84 +no_defs");
-  
+
   function convertCoord(x, y) {
     var coord = proj4('EPSG:2326', 'EPSG:4326', [x, y]);
     return [coord[1], coord[0]];
@@ -30,10 +30,19 @@
   }
 
   $(document).ready(function() {
-    $("search_button").on("click", search)
+    $("#search_button").on("click", search)
     $("#search_input").on("keydown", function(e) {
       if(e.keyCode == 13) { // Enter
         search();
+      }
+    });
+    //adjust search input position
+    $(window).on("load resize",function(){
+      var windowWidth = $(window).width();
+      if (windowWidth < 768){
+        $("#search_input").appendTo('#input_box_mobile');
+      }else{
+        $("#search_input").prependTo('#search_panel');
       }
     });
   });
