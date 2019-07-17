@@ -8969,7 +8969,7 @@
 	"democrat_organization": "新民主同盟",
 	"organization": [{
 		"name": "個人聯絡資料",
-		"webpage": "",
+		"webpage": "http://neodemocrats.org.hk/people/chan_wai_tat.html",
 		"fbpage": "https://www.facebook.com/chanwt/",
 		"instagram": "",
 		"telegram": "",
@@ -9340,8 +9340,8 @@
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "lammingyat1986@gmail.com",
+		"whatsapp": "5282 0625",
 		"telephone": ""
 	},{
 		"name": "大埔社區網絡",
@@ -9364,15 +9364,31 @@
 	"democrat_organization": "區政聯盟",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/taipomannimchi",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "mannimchi@gmail.com",
+		"whatsapp": "5117 6343",
 		"telephone": ""
 	},{
-		"name": "區政聯盟",
-		"fbpage": "https://www.facebook.com/區政聯盟-Community-Alliance-1333074916846609/",
+		"name": "區鎮樺議員辦事處大埔工作隊",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/rayau.tpteam/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "rayau.tpoffice@gmail.com",
+		"whatsapp": "",
+		"telephone": "2662 1151"
+	},{
+		"name": "區政聯盟",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/區政聯盟-Community-Alliance-1333074916846609/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -9387,15 +9403,31 @@
 	"democrat_organization": "區政聯盟",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/office.rayau/",
+		"instagram": "",
+		"telegram": "https://instagram.com/auchunwah_ray_joshua",
+		"youtube": "",
+		"email": "rayau.office@gmail.com",
+		"whatsapp": "6246 5356",
+		"telephone": "2662 1151"
+	},{
+		"name": "區鎮樺議員辦事處大埔工作隊",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/rayau.tpteam/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "rayau.tpoffice@gmail.com",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2662 1151"
 	},{
 		"name": "區政聯盟",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/區政聯盟-Community-Alliance-1333074916846609/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -9410,15 +9442,31 @@
 	"democrat_organization": "區政聯盟",
 	"organization": [{
 		"name": "個人聯絡資料",
-		"fbpage": "https://www.facebook.com/rayau.tpteam/",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/tpteam.auchunho/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2662 1151"
+	},{
+		"name": "區鎮樺議員辦事處大埔工作隊",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/rayau.tpteam/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "rayau.tpoffice@gmail.com",
+		"whatsapp": "",
+		"telephone": "2662 1151"
 	},{
 		"name": "區政聯盟",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/區政聯盟-Community-Alliance-1333074916846609/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -9433,11 +9481,14 @@
 	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/mcyam318/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "mcyamhk@gmail.com",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2677 4088"
 	}]
 },{
 	"district": "大埔區",
@@ -9449,9 +9500,22 @@
 	"democrat_organization": "新民主同盟",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "http://neodemocrats.org.hk/people/yam_kai_bong.html",
 		"fbpage": "https://www.facebook.com/任啟邦-209405209122068/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "yamkaibongoffice@yahoo.com.hk",
+		"whatsapp": "9215 4319 / 6607 3066",
+		"telephone": "2664 4644 / 2666 0944"
+	},{
+		"name": "新民主同盟",
+		"webpage": "http://neodemocrats.org.hk/",
+		"fbpage": "https://www.facebook.com/NeoDemocrats/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
+		"email": "neodemocrats@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -9465,9 +9529,22 @@
 	"democrat_organization": "新民主同盟",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "http://neodemocrats.org.hk/people/kwan_wing_yip.html",
 		"fbpage": "https://www.facebook.com/kwan2016/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "kwanwingyipoffice@yahoo.com.hk",
+		"whatsapp": "6695 8176 / 6338 6476 / 5542 5051",
+		"telephone": "2666 9944 / 2666 9456 "
+	},{
+		"name": "新民主同盟",
+		"webpage": "http://neodemocrats.org.hk/",
+		"fbpage": "https://www.facebook.com/NeoDemocrats/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
+		"email": "neodemocrats@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -9480,9 +9557,12 @@
 	"democrat_contestant": "連桷璋",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "",
-		"fbpage": "",
+		"name": "個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/linkokcheung/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -9497,8 +9577,31 @@
 	"democrat_organization": "區政聯盟",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/profile.php?id=100021649908190",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "hermanyiukwanho@gmail.com",
+		"whatsapp": "6464 0636",
+		"telephone": ""
+	},{
+		"name": "區鎮樺議員辦事處大埔工作隊",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/rayau.tpteam/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "rayau.tpoffice@gmail.com",
+		"whatsapp": "",
+		"telephone": "2662 1151"
+	},{
+		"name": "區政聯盟",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/區政聯盟-Community-Alliance-1333074916846609/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -9513,8 +9616,11 @@
 	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -9528,12 +9634,25 @@
 	"democrat_contestant": "黃兆健",
 	"democrat_organization": "熱血公民",
 	"organization": [{
-		"name": "",
-		"fbpage": "",
+		"name": "個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/wongsiukinwtt/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "skwong@civicpassion.hk",
+		"whatsapp": "5703 5742",
 		"telephone": ""
+	},{
+		"name": "熱血公民",
+		"webpage": "http://www.civicpassion.hk",
+		"fbpage": "https://www.facebook.com/civicpassionpage/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "enquiry@civicpassion.hk",
+		"whatsapp": "",
+		"telephone": "3705 1438 / 3705 1439"
 	}]
 },{
 	"district": "大埔區",
@@ -9545,9 +9664,22 @@
 	"democrat_organization": "新民主同盟",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "http://neodemocrats.org.hk/people/max_wu.html",
 		"fbpage": "https://www.facebook.com/MaxWuND/",
+		"instagram": "https://www.instagram.com/maxwuyc/",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "maxwuoffice@gmail.com",
+		"whatsapp": "",
+		"telephone": "6028 0137"
+	},{
+		"name": "新民主同盟",
+		"webpage": "http://neodemocrats.org.hk/",
+		"fbpage": "https://www.facebook.com/NeoDemocrats/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
+		"email": "neodemocrats@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -9561,8 +9693,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -9577,9 +9712,22 @@
 	"democrat_organization": "新民主同盟",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "http://neodemocrats.org.hk/people/paul_chow.html",
 		"fbpage": "https://www.facebook.com/chow.y.wai.9",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "paulchowoffice@gmail.com",
+		"whatsapp": "9585 5077",
+		"telephone": "3706 5497 / 3709 2442"
+	},{
+		"name": "新民主同盟",
+		"webpage": "http://neodemocrats.org.hk/",
+		"fbpage": "https://www.facebook.com/NeoDemocrats/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
+		"email": "neodemocrats@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -9593,15 +9741,21 @@
 	"democrat_organization": "埔向晴天",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/chanwaikaolive/",
+		"instagram": "https://www.instagram.com/chanwaikaolive/",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "chanwaikaolive@gmail.com",
+		"whatsapp": "9240 8122",
 		"telephone": ""
 	},{
 		"name": "埔向晴天",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/TaiPosunwalker/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC6NrvrRqPnoNAUpfQ2gO6Dg",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -9616,15 +9770,21 @@
 	"democrat_organization": "埔向晴天",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/LauYungWai/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
-		"whatsapp": "",
-		"telephone": ""
+		"whatsapp": "9380 9700",
+		"telephone": "2682 9820"
 	},{
 		"name": "埔向晴天",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/TaiPosunwalker/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC6NrvrRqPnoNAUpfQ2gO6Dg",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -9639,8 +9799,11 @@
 	"democrat_organization": "(待定)",
 	"organization": [{
 		"name": "(待定)",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -9655,8 +9818,11 @@
 	"democrat_organization": "(待定)",
 	"organization": [{
 		"name": "(待定)",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -9671,10 +9837,13 @@
 	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/pui.ideal.hk/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "ben.tam.love4world@gmail.com",
+		"whatsapp": "6741 4001",
 		"telephone": ""
 	}]
 },{
