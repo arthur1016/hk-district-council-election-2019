@@ -9855,27 +9855,53 @@
 	"democrat_contestant": "梁衍忻",
 	"democrat_organization": "西貢鄉民",
 	"organization": [{
-		"name": "西貢鄉民",
-		"fbpage": "https://www.facebook.com/SaiKungCommons/",
+		"name": "個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/hinyan.l/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "西貢鄉民",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/SaiKungCommons/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "saikung.commons@gmail.com",
+		"whatsapp": "5509 7701",
 		"telephone": ""
 	}]
 },{
 	"district": "西貢區",
 	"code": "Q02",
 	"name": "白沙灣",
-	"estab_contestant": "陳權軍",
-	"estab_organization": "民建聯",
+	"estab_contestant": "陳權軍/浦偉明",
+	"estab_organization": "民建聯/專業動力",
 	"democrat_contestant": "何偉航",
 	"democrat_organization": "西貢鄉民",
 	"organization": [{
-		"name": "西貢鄉民",
-		"fbpage": "https://www.facebook.com/SaiKungCommons/",
+		"name": "個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/Stanleyhowaihong/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "stanleyho2018@gmail.com",
 		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "西貢鄉民",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/SaiKungCommons/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "saikung.commons@gmail.com",
+		"whatsapp": "5509 7701",
 		"telephone": ""
 	}]
 },{
@@ -9887,11 +9913,24 @@
 	"democrat_contestant": "陳嘉琳",
 	"democrat_organization": "西貢鄉民",
 	"organization": [{
-		"name": "西貢鄉民",
-		"fbpage": "https://www.facebook.com/SaiKungCommons/",
+		"name": "個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/debbychankalam/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "西貢鄉民",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/SaiKungCommons/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "saikung.commons@gmail.com",
+		"whatsapp": "5509 7701",
 		"telephone": ""
 	}]
 },{
@@ -9903,12 +9942,25 @@
 	"democrat_contestant": "李賢浩",
 	"democrat_organization": "將軍澳民生關注組",
 	"organization": [{
-		"name": "",
+		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "將軍澳民生關注組",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/cgplTKO",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": "3905 1020"
 	}]
 },{
 	"district": "西貢區",
@@ -9920,8 +9972,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -9930,30 +9985,49 @@
 	"district": "西貢區",
 	"code": "Q06",
 	"name": "彩健",
-	"estab_contestant": "何民傑",
-	"estab_organization": "獨立",
+	"estab_contestant": "何民傑/黃恩琪",
+	"estab_organization": "獨立/專業動力",
 	"democrat_contestant": "黃炳雄/陳緯烈",
 	"democrat_organization": "將軍澳民生關注組/將軍澳青年力量",
 	"organization": [{
 		"name": "黃炳雄個人聯絡資料",
-		"fbpage": "https://www.facebook.com/tommy.li.50364",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/adamwongph",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
-		"whatsapp": "",
+		"whatsapp": "5322 7968",
 		"telephone": ""
 	},{
 		"name": "陳緯烈個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/wailit.chan.104",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "tkopioneers@gmail.com",
+		"whatsapp": "9216 4776",
 		"telephone": ""
 	},{
-		"name": "將軍澳青年力量",
-		"fbpage": "https://www.facebook.com/tkopioneers/",
+		"name": "將軍澳民生關注組",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/cgplTKO",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
+		"telephone": "3905 1020"
+	},{
+		"name": "將軍澳青年力量",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/tkopioneers/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "tkopioneers@gmail.com",
+		"whatsapp": "9216 4776",
 		"telephone": ""
 	}]
 },{
@@ -9966,9 +10040,22 @@
 	"democrat_organization": "新民主同盟",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "http://www.leungli.org/",
 		"fbpage": "https://www.facebook.com/%E6%A2%81%E9%87%8C-199422220126900/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "fredsleung@gmail.com",
+		"whatsapp": "6493 5922",
+		"telephone": "2623 6669"
+	},{
+		"name": "新民主同盟",
+		"webpage": "http://neodemocrats.org.hk/",
+		"fbpage": "https://www.facebook.com/NeoDemocrats/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
+		"email": "neodemocrats@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -9982,18 +10069,54 @@
 	"democrat_organization": "將軍澳民生關注組/民主黨",
 	"organization": [{
 		"name": "李栢棠個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/tommy.li.50364",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
+		"whatsapp": "6218 9549 / 5322 7968",
+		"telephone": ""
+	},{
+		"name": "將軍澳民生關注組",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/cgplTKO",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": "3905 1020"
+	},{
+		"name": "莊榮輝個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/winfieldchongwingfai/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "winfieldchongwf@gmail.com",
+		"whatsapp": "",
+		"telephone": "3565 4723"
+	},{
+		"name": "民主黨新界東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=9",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphknte@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
 	},{
-		"name": "莊榮輝個人聯絡資料",
-		"fbpage": "https://www.facebook.com/winfieldchongwingfai/",
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
 		"telegram": "",
-		"email": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "西貢區",
@@ -10005,8 +10128,11 @@
 	"democrat_organization": "(待定)",
 	"organization": [{
 		"name": "(待定)",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -10021,27 +10147,63 @@
 	"democrat_organization": "新民主同盟/將軍澳民生關注組",
 	"organization": [{
 		"name": "黎煒棠個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/ivanlaitko/",
+		"instagram": "https://www.instagram.com/ivanlai.tko/",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "ivanlaiwt@gmail.com",
+		"whatsapp": "5492 3674",
+		"telephone": ""
+	},{
+		"name": "新民主同盟",
+		"webpage": "http://neodemocrats.org.hk/",
+		"fbpage": "https://www.facebook.com/NeoDemocrats/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
+		"email": "neodemocrats@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "將軍澳民生關注組",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/cgplTKO",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": "3905 1020"
 	}]
 },{
 	"district": "西貢區",
 	"code": "Q11",
 	"name": "寶怡",
-	"estab_contestant": "朱琳",
-	"estab_organization": "工聯會",
+	"estab_contestant": "朱琳/黃向然",
+	"estab_organization": "工聯會/專業動力",
 	"democrat_contestant": "謝正楓",
 	"democrat_organization": "將軍澳民生關注組",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/edmondtcf/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "edmondtse4office@gmail.com",
+		"whatsapp": "6742 5944 / 6217 1692",
+		"telephone": "3905 1020 / 3905 1021"
+	},{
+		"name": "將軍澳民生關注組",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/cgplTKO",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3905 1020"
 	}]
 },{
 	"district": "西貢區",
@@ -10052,12 +10214,25 @@
 	"democrat_contestant": "陸平才",
 	"democrat_organization": "將軍澳民生關注組",
 	"organization": [{
-		"name": "",
+		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "lukpingchoioffice@gmail.com",
+		"whatsapp": "",
+		"telephone": "3403 4192"
+	},{
+		"name": "將軍澳民生關注組",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/cgplTKO",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3905 1020"
 	}]
 },{
 	"district": "西貢區",
@@ -10069,9 +10244,22 @@
 	"democrat_organization": "新民主同盟",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "http://neodemocrats.org.hk/people/lui_man_kwong.html",
 		"fbpage": "https://www.facebook.com/luimankwong",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "luimankwongtko@gmail.com",
+		"whatsapp": "9840 3048",
+		"telephone": "2177 3933"
+	},{
+		"name": "新民主同盟",
+		"webpage": "http://neodemocrats.org.hk/",
+		"fbpage": "https://www.facebook.com/NeoDemocrats/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
+		"email": "neodemocrats@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -10085,11 +10273,24 @@
 	"democrat_organization": "將軍澳民生關注組",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/KelvinYipSocial/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "6150 6333",
+		"telephone": ""
+	},{
+		"name": "將軍澳民生關注組",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/cgplTKO",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3905 1020"
 	}]
 },{
 	"district": "西貢區",
@@ -10101,11 +10302,24 @@
 	"democrat_organization": "將軍澳民生關注組",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/rickyor.TKO/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "rickyoroffice@gmail.com",
+		"whatsapp": "9644 7518",
+		"telephone": ""
+	},{
+		"name": "將軍澳民生關注組",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/cgplTKO",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3905 1020"
 	}]
 },{
 	"district": "西貢區",
@@ -10117,9 +10331,22 @@
 	"democrat_organization": "新民主同盟",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "http://neodemocrats.org.hk/people/frankie_lam.html",
 		"fbpage": "https://www.facebook.com/%E5%B0%87%E8%BB%8D%E6%BE%B3%E6%9E%97%E5%B0%91%E5%BF%A0-347772265294658/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "frankielam1220@gmail.com",
+		"whatsapp": "6621 9966",
+		"telephone": "2177 6881 / 2177 6883 / 2177 6884 / 2177 6880"
+	},{
+		"name": "新民主同盟",
+		"webpage": "http://neodemocrats.org.hk/",
+		"fbpage": "https://www.facebook.com/NeoDemocrats/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
+		"email": "neodemocrats@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -10132,11 +10359,14 @@
 	"democrat_contestant": "蔡明禧",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "",
-		"fbpage": "",
+		"name": "個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/蔡明禧-Daryl-Choi-474943459326866/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "minghchoi3@gmail.com",
+		"whatsapp": "6356 0746",
 		"telephone": ""
 	}]
 },{
@@ -10149,9 +10379,22 @@
 	"democrat_organization": "新民主同盟",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/kwanonpolam/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
+		"whatsapp": "6234 7235",
+		"telephone": ""
+	},{
+		"name": "新民主同盟",
+		"webpage": "http://neodemocrats.org.hk/",
+		"fbpage": "https://www.facebook.com/NeoDemocrats/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
+		"email": "neodemocrats@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -10165,9 +10408,22 @@
 	"democrat_organization": "新民主同盟",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "http://neodemocrats.org.hk/people/chung_kam_lun.html",
 		"fbpage": "https://www.facebook.com/tkokamlun/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "benklchung@gmail.com",
+		"whatsapp": "9306 3669",
+		"telephone": "2177 1898"
+	},{
+		"name": "新民主同盟",
+		"webpage": "http://neodemocrats.org.hk/",
+		"fbpage": "https://www.facebook.com/NeoDemocrats/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
+		"email": "neodemocrats@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -10175,15 +10431,28 @@
 	"district": "西貢區",
 	"code": "Q20",
 	"name": "慧茵",
-	"estab_contestant": "吳家竣",
-	"estab_organization": "獨立",
+	"estab_contestant": "吳家竣/陸秀貞",
+	"estab_organization": "獨立/專業動力",
 	"democrat_contestant": "秦海城",
 	"democrat_organization": "新民主同盟",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/HenryChunND/",
+		"instagram": "",
+		"telegram": "https://www.instagram.com/chunhoishing_nd/",
+		"youtube": "",
+		"email": "hoishingchun@gmail.com",
+		"whatsapp": "5282 4889",
+		"telephone": ""
+	},{
+		"name": "新民主同盟",
+		"webpage": "http://neodemocrats.org.hk/",
+		"fbpage": "https://www.facebook.com/NeoDemocrats/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
+		"email": "neodemocrats@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -10197,9 +10466,22 @@
 	"democrat_organization": "新民主同盟",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "https://garyfan.org.hk/",
 		"fbpage": "https://www.facebook.com/%E8%8C%83%E5%9C%8B%E5%A8%81-Gary-Fan-124853124283126/",
+		"instagram": "https://www.instagram.com/garyfankwokwai/",
 		"telegram": "",
-		"email": "",
+		"youtube": "https://www.youtube.com/user/92588971",
+		"email": "garyfantko@gmail.com",
+		"whatsapp": "",
+		"telephone": "2177 0003 / 2177 2177"
+	},{
+		"name": "新民主同盟",
+		"webpage": "http://neodemocrats.org.hk/",
+		"fbpage": "https://www.facebook.com/NeoDemocrats/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
+		"email": "neodemocrats@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -10212,10 +10494,13 @@
 	"democrat_contestant": "林咏然",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "",
+		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "wingyin2244@yahoo.com.hk",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -10229,11 +10514,24 @@
 	"democrat_organization": "將軍澳民生關注組",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/Valeriewongcn/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "5595 9195",
+		"telephone": ""
+	},{
+		"name": "將軍澳民生關注組",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/cgplTKO",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3905 1020"
 	}]
 },{
 	"district": "西貢區",
@@ -10245,11 +10543,24 @@
 	"democrat_organization": "將軍澳民生關注組",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/andrew.chan.tko/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "office@andrewchan.hk",
+		"whatsapp": "5169 8464",
+		"telephone": ""
+	},{
+		"name": "將軍澳民生關注組",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/cgplTKO",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3905 1020"
 	}]
 },{
 	"district": "西貢區",
@@ -10261,10 +10572,13 @@
 	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/%E9%84%AD%E4%BB%B2%E6%96%87-694207447623793/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
-		"whatsapp": "",
+		"whatsapp": "6894 4340",
 		"telephone": ""
 	}]
 },{
@@ -10277,11 +10591,24 @@
 	"democrat_organization": "將軍澳民生關注組",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "http://www.francischau.net",
 		"fbpage": "https://www.facebook.com/%E5%91%A8%E8%B3%A2%E6%98%8E%E8%AD%B0%E5%93%A1%E8%BE%A6%E4%BA%8B%E8%99%95-135005043328699/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "chau_office@yahoo.com.hk",
+		"whatsapp": "",
+		"telephone": "2623 7799"
+	},{
+		"name": "將軍澳民生關注組",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/cgplTKO",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3905 1020"
 	}]
 },{
 	"district": "西貢區",
@@ -10293,9 +10620,22 @@
 	"democrat_organization": "新民主同盟",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "http://neodemocrats.org.hk/people/jacky_lai.html",
 		"fbpage": "https://www.facebook.com/jackylaimingchak/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "jackylaioffice@gmail.com",
+		"whatsapp": "5118 7178",
+		"telephone": "2177 6908"
+	},{
+		"name": "新民主同盟",
+		"webpage": "http://neodemocrats.org.hk/",
+		"fbpage": "https://www.facebook.com/NeoDemocrats/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
+		"email": "neodemocrats@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -10309,11 +10649,24 @@
 	"democrat_organization": "將軍澳民生關注組",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/%E9%99%B3%E5%B1%95%E6%B5%9A-%E5%A7%9C%E6%96%B0%E8%8F%AF-522831511411070/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "9701 8163",
+		"telephone": "2712 9712"
+	},{
+		"name": "將軍澳民生關注組",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/cgplTKO",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3905 1020"
 	}]
 },{
 	"district": "西貢區",
@@ -10325,11 +10678,24 @@
 	"democrat_organization": "將軍澳民生關注組",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/%E9%99%B3%E5%B1%95%E6%B5%9A-%E5%A7%9C%E6%96%B0%E8%8F%AF-522831511411070/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "9701 8163",
+		"telephone": "2712 9712"
+	},{
+		"name": "將軍澳民生關注組",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/cgplTKO",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "3905 1020"
 	}]
 },{
 	"district": "沙田區",
