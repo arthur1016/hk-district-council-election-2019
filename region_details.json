@@ -8843,8 +8843,11 @@
 	"democrat_organization": "(待定)",
 	"organization": [{
 		"name": "(待定)",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -8859,11 +8862,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/irene.wong.77582359",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "irene.canusdream@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨新界東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=9",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphknte@dphk.org",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "北區",
@@ -8875,11 +8901,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/陳旭明-Dino-祥華-名都-835885039858762/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "cheungwahoffice@gmail.com",
+		"whatsapp": "",
+		"telephone": "26831721"
+	},{
+		"name": "民主黨新界東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=9",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphknte@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "北區",
@@ -8888,12 +8937,25 @@
 	"estab_contestant": "姚銘",
 	"estab_organization": "民建聯",
 	"democrat_contestant": "虞銘謙",
-	"democrat_organization": "獨立",
+	"democrat_organization": "新民主同盟",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/LeoYuMH/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
+		"whatsapp": "5744 5911",
+		"telephone": ""
+	},{
+		"name": "新民主同盟",
+		"webpage": "http://neodemocrats.org.hk/",
+		"fbpage": "https://www.facebook.com/NeoDemocrats/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
+		"email": "neodemocrats@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -8907,9 +8969,22 @@
 	"democrat_organization": "新民主同盟",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/chanwt/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "chanwaitatoffice@gmail.com",
+		"whatsapp": "9164 9704",
+		"telephone": "2670 3883 / 2237 1788"
+	},{
+		"name": "新民主同盟",
+		"webpage": "http://neodemocrats.org.hk/",
+		"fbpage": "https://www.facebook.com/NeoDemocrats/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
+		"email": "neodemocrats@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -8923,9 +8998,22 @@
 	"democrat_organization": "新民主同盟",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/profile.php?id=100015341835552",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "新民主同盟",
+		"webpage": "http://neodemocrats.org.hk/",
+		"fbpage": "https://www.facebook.com/NeoDemocrats/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
+		"email": "neodemocrats@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -8939,8 +9027,11 @@
 	"democrat_organization": "(待定)",
 	"organization": [{
 		"name": "(待定)",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -8955,8 +9046,11 @@
 	"democrat_organization": "(待定)",
 	"organization": [{
 		"name": "(待定)",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -8971,8 +9065,11 @@
 	"democrat_organization": "(待定)",
 	"organization": [{
 		"name": "(待定)",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -8987,8 +9084,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -9003,8 +9103,11 @@
 	"democrat_organization": "(待定)",
 	"organization": [{
 		"name": "(待定)",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -9019,11 +9122,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/LAMTSZKINGOFFICIALPAGE/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "choiyuenoffice@gmail.com",
+		"whatsapp": "5502 9955",
+		"telephone": "2650 0040"
+	},{
+		"name": "民主黨新界東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=9",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphknte@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "北區",
@@ -9035,40 +9161,99 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/lam.c.ting.1",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "ssoffice@dphk.org",
+		"whatsapp": "",
+		"telephone": "2650 0040 / 2650 0044"
+	},{
+		"name": "民主黨新界東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=9",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphknte@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "北區",
 	"code": "N14",
-	"name": "石湖墟",
+	"name": "天平西",
 	"estab_contestant": "黃宏滔",
 	"estab_organization": "工聯會",
 	"democrat_contestant": "郭㙟豐/張京樑",
 	"democrat_organization": "民主黨/獨立",
 	"organization": [{
 		"name": "郭㙟豐個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/kwoklongfungofficialpage/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "張京樑個人聯絡資料",
+		"webpage": "http://www.peacemindcoaching.com",
+		"fbpage": "https://www.facebook.com/changkingleung/",
+		"instagram": "https://www.instagram.com/changkingleung/",
+		"telegram": "",
+		"youtube": "",
+		"email": "ask@changkingleung.com",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "民主黨新界東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=9",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphknte@dphk.org",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "北區",
 	"code": "N15",
 	"name": "鳳翠",
-	"estab_contestant": "廖興洪",
-	"estab_organization": "民建聯",
+	"estab_contestant": "廖興洪/余萬光",
+	"estab_organization": "民建聯/獨立",
 	"democrat_contestant": "(待定)",
 	"democrat_organization": "(待定)",
 	"organization": [{
 		"name": "(待定)",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -9083,8 +9268,11 @@
 	"democrat_organization": "",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -9099,9 +9287,22 @@
 	"democrat_organization": "新民主同盟",
 	"organization": [{
 		"name": "個人聯絡資料",
-		"fbpage": "https://www.facebook.com/laukifung",
+		"webpage": "https://www.facebook.com/laukifung/",
+		"fbpage": "https://www.facebook.com/laukifungdavid",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "lkf.office@gmail.com",
+		"whatsapp": "5593 7200",
+		"telephone": "2777 2000"
+	},{
+		"name": "新民主同盟",
+		"webpage": "http://neodemocrats.org.hk/",
+		"fbpage": "https://www.facebook.com/NeoDemocrats/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
+		"email": "neodemocrats@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -9115,8 +9316,11 @@
 	"democrat_organization": "(待定)",
 	"organization": [{
 		"name": "(待定)",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
