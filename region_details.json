@@ -8743,10 +8743,10 @@
 	"name": "新田",
 	"estab_contestant": "文家駒",
 	"estab_organization": "鄉事派",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "",
+	"democrat_organization": "",
 	"organization": [{
-		"name": "(待定)",
+		"name": "",
 		"webpage": "",
 		"fbpage": "",
 		"instagram": "",
