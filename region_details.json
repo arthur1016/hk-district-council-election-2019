@@ -11230,11 +11230,14 @@
 	"democrat_organization": "新民主同盟",
 	"organization": [{
 		"name": "個人聯絡資料",
-		"fbpage": "https://www.facebook.com/raymond.li.3705",
+		"webpage": "http://neodemocrats.org.hk/people/li_sai_hung.html",
+		"fbpage": "https://www.facebook.com/lisaihung/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
-		"telephone": ""
+		"youtube": "",
+		"email": "lisaihungoffice@gmail.com",
+		"whatsapp": "9862 6066",
+		"telephone": "2613 8228 / 2613 8778 / 2613 8033"
 	},{
 		"name": "新民主同盟",
 		"webpage": "http://neodemocrats.org.hk/",
@@ -11255,12 +11258,35 @@
 	"democrat_contestant": "吳定霖",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "",
+		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "ngtinglam@gmail.com",
+		"whatsapp": "6028 9313",
+		"telephone": ""
+	},{
+		"name": "民主黨新界東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=9",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphknte@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "沙田區",
@@ -11272,11 +11298,24 @@
 	"democrat_organization": "沙田區政",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/profile.php?id=100010798068638",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "wonghoklaioffice@gmail.com",
 		"whatsapp": "6073 7417",
 		"telephone": "2278 4088"
+	},{
+		"name": "沙田區政",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E6%B2%99%E7%94%B0%E5%8D%80%E6%94%BFCommunity-Sha-Tin-134055657191138/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "communityshatin@gmail.com",
+		"whatsapp": "6127 6361",
+		"telephone": ""
 	}]
 },{
 	"district": "沙田區",
@@ -11288,11 +11327,34 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/kenmak.FT/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "5117 7972",
+		"telephone": ""
+	},{
+		"name": "公民黨新界東支部",
+		"webpage": "https://www.civicparty.hk/?q=node/23",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "沙田區",
@@ -11304,11 +11366,34 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
-		"fbpage": "https://www.facebook.com/StanleyLuiCP/",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/StanleyLuiCP/",		
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "stanleyluicp@gmail.com",
+		"whatsapp": "9389 0957",
+		"telephone": ""
+	},{
+		"name": "公民黨新界東支部",
+		"webpage": "https://www.civicparty.hk/?q=node/23",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "沙田區",
@@ -11320,11 +11405,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/Chow-Hiu-Laam-Felix-%E5%91%A8%E6%9B%89%E5%B5%90-443096539828193/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "felixchowhiulaam@dphk.org",
+		"whatsapp": "9330 9880 / 9139 9880",
+		"telephone": "3611 0266"
+	},{
+		"name": "民主黨新界東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=9",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphknte@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "沙田區",
@@ -11336,11 +11444,34 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/%E9%99%B3%E7%8F%AE%E6%98%8E-Mike-Chan-202718713696908/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "chanpuimingoffice@gmail.com",
+		"whatsapp": "5408 7678",
+		"telephone": ""
+	},{
+		"name": "公民黨新界東支部",
+		"webpage": "https://www.civicparty.hk/?q=node/23",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "沙田區",
@@ -11352,11 +11483,24 @@
 	"democrat_organization": "工黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/yip.wing86/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "info.yipwing@gmail.com",
+		"whatsapp": "9727 8853",
+		"telephone": "3702 1024"
+	},{
+		"name": "工黨",
+		"webpage": "http://labour.org.hk/",
+		"fbpage": "https://www.facebook.com/labour.org.hk/",
+		"instagram": "https://www.instagram.com/labourparty_hk/",
+		"telegram": "https://t.me/LabourHK",
+		"youtube": "https://www.youtube.com/user/HKLabourParty",
+		"email": "info@labour.org.hk",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2770 8668"
 	}]
 },{
 	"district": "沙田區",
@@ -11367,12 +11511,15 @@
 	"democrat_contestant": "陳國強",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "",
+		"name": "個人聯絡資料",
+		"webpage": "http://www.inmediahk.net/node/1039161",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "justicehk2016@gmail.com",
 		"whatsapp": "",
-		"telephone": ""
+		"telephone": "6770 7515 / 6087 3323/ 6644 2856"
 	}]
 },{
 	"district": "沙田區",
@@ -11380,22 +11527,48 @@
 	"name": "馬鞍山市中心",
 	"estab_contestant": "李子榮/李啟雄",
 	"estab_organization": "獨立/民主思路",
-	"democrat_contestant": "鍾禮謙/吳惠靈",
-	"democrat_organization": "獨立/工黨",
+	"democrat_contestant": "鍾禮謙/吳惠靈/邱文勁",
+	"democrat_organization": "獨立/工黨/獨立",
 	"organization": [{
 		"name": "鍾禮謙個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/mosjohnnychung/",
+		"instagram": "https://www.instagram.com/mosjohnnychung/",
 		"telegram": "",
+		"youtube": "",
+		"email": "mosjohnnychung@gmail.com",
+		"whatsapp": "6590 3468",
+		"telephone": ""
+	},{
+		"name": "吳惠靈個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/吳惠靈-893603224028233/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
 	},{
-		"name": "吳惠靈個人聯絡資料",
-		"fbpage": "https://www.facebook.com/吳惠靈-893603224028233/",
+		"name": "邱文勁個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/ymkdcoffice/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "https://www.youtube.com/channel/UCBjru-Pe9_EhfG2u0ZTy7jA",
+		"email": "ymkdcoffice@gmail.com",
+		"whatsapp": "6597 8213",
 		"telephone": ""
+	},{
+		"name": "工黨",
+		"webpage": "http://labour.org.hk/",
+		"fbpage": "https://www.facebook.com/labour.org.hk/",
+		"instagram": "https://www.instagram.com/labourparty_hk/",
+		"telegram": "https://t.me/LabourHK",
+		"youtube": "https://www.youtube.com/user/HKLabourParty",
+		"email": "info@labour.org.hk",
+		"whatsapp": "",
+		"telephone": "2770 8668"
 	}]
 },{
 	"district": "沙田區",
@@ -11407,10 +11580,23 @@
 	"democrat_organization": "沙田區政",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/%E6%9D%8E%E6%B0%B8%E6%88%90-Li-Wing-Shing-865549790210339/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "officeofliwingshing@gmail.com",
+		"whatsapp": "9232 7617",
+		"telephone": "2328 9872"
+	},{
+		"name": "沙田區政",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E6%B2%99%E7%94%B0%E5%8D%80%E6%94%BFCommunity-Sha-Tin-134055657191138/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "communityshatin@gmail.com",
+		"whatsapp": "6127 6361",
 		"telephone": ""
 	}]
 },{
@@ -11423,11 +11609,14 @@
 	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/ypmakofficial/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
-		"telephone": ""
+		"youtube": "",
+		"email": "ypmak1@gmail.com",
+		"whatsapp": "9809 9006",
+		"telephone": "2631 5855"
 	}]
 },{
 	"district": "沙田區",
@@ -11439,11 +11628,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/tsang.solai",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "tsangsolaioffice@gmail.com",
+		"whatsapp": "5543 6715",
+		"telephone": "3709 6292"
+	},{
+		"name": "民主黨新界東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=9",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphknte@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "沙田區",
@@ -11455,10 +11667,23 @@
 	"democrat_organization": "沙田區政",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/cst.andyting/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "stdc.ting@gmail.com",
+		"whatsapp": "6127 6361 / 9171 9721",
+		"telephone": ""
+	},{
+		"name": "沙田區政",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E6%B2%99%E7%94%B0%E5%8D%80%E6%94%BFCommunity-Sha-Tin-134055657191138/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "communityshatin@gmail.com",
+		"whatsapp": "6127 6361",
 		"telephone": ""
 	}]
 },{
@@ -11471,17 +11696,53 @@
 	"democrat_organization": "民主黨/沙田區政",
 	"organization": [{
 		"name": "冼卓嵐個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/SINCheukNamDPHK/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "info@sincheuknam.com",
+		"whatsapp": "6906 9008",
 		"telephone": ""
 	},{
 		"name": "許立燊個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/profile.php?id=100011068922824",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "komahui910@gmail.com",
+		"whatsapp": "9444 5500",
+		"telephone": "2631 5855"
+	},{
+		"name": "民主黨新界東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=9",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphknte@dphk.org",
 		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
+	},{
+		"name": "沙田區政",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E6%B2%99%E7%94%B0%E5%8D%80%E6%94%BFCommunity-Sha-Tin-134055657191138/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "communityshatin@gmail.com",
+		"whatsapp": "6127 6361",
 		"telephone": ""
 	}]
 },{
@@ -11494,11 +11755,34 @@
 	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/tsukman.cheng",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "ctmcheng@gmail.com",
+		"whatsapp": "7296 0108",
+		"telephone": "2644 0373 / 2644 0999"
+	},{
+		"name": "民主黨新界東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=9",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphknte@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "沙田區",
@@ -11510,11 +11794,34 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/yungmcmichael/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "michaelyungmc@gmail.com",
+		"whatsapp": "",
+		"telephone": "3527 0753 / 3527 0751"
+	},{
+		"name": "公民黨新界東支部",
+		"webpage": "https://www.civicparty.hk/?q=node/23",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "沙田區",
@@ -11526,10 +11833,23 @@
 	"democrat_organization": "沙田區政",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/leroy0704/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "tongchipui@gmail.com",
+		"whatsapp": "9433 4374",
+		"telephone": ""
+	},{
+		"name": "沙田區政",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E6%B2%99%E7%94%B0%E5%8D%80%E6%94%BFCommunity-Sha-Tin-134055657191138/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "communityshatin@gmail.com",
+		"whatsapp": "6127 6361",
 		"telephone": ""
 	}]
 },{
@@ -11542,10 +11862,13 @@
 	"democrat_organization": "沙田社區關注社",
 	"organization": [{
 		"name": "沙田社區關注社",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/shatincommunityvision/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "",
+		"email": "stcv2019@gmail.com",
+		"whatsapp": "6474 9707",
 		"telephone": ""
 	}]
 },{
@@ -11558,18 +11881,54 @@
 	"democrat_organization": "沙田區政/民主黨",
 	"organization": [{
 		"name": "謝潔泳個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/hilarytsekitwing/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "kitwingtse@gmail.com",
+		"whatsapp": "6976 7744",
+		"telephone": ""
+	},{
+		"name": "劉青個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/liuqingdphk",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
 	},{
-		"name": "劉青個人聯絡資料",
-		"fbpage": "https://www.facebook.com/liuqingdphk",
+		"name": "沙田區政",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E6%B2%99%E7%94%B0%E5%8D%80%E6%94%BFCommunity-Sha-Tin-134055657191138/",
+		"instagram": "",
 		"telegram": "",
-		"email": "",
+		"youtube": "",
+		"email": "communityshatin@gmail.com",
+		"whatsapp": "6127 6361",
+		"telephone": ""
+	},{
+		"name": "民主黨新界東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=9",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphknte@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "沙田區",
@@ -11581,11 +11940,34 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/tsztungoffice/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
+		"email": "tsztungoffice@gmail.com",
+		"whatsapp": "5285 1278",
+		"telephone": ""
+	},{
+		"name": "公民黨新界東支部",
+		"webpage": "https://www.civicparty.hk/?q=node/23",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "沙田區",
@@ -11597,10 +11979,23 @@
 	"democrat_organization": "沙田區政",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/nioxnmak",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "沙田區政",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E6%B2%99%E7%94%B0%E5%8D%80%E6%94%BFCommunity-Sha-Tin-134055657191138/",
+		"instagram": "https://www.instagram.com/nixonmak/",
+		"telegram": "",
+		"youtube": "",
+		"email": "communityshatin@gmail.com",
+		"whatsapp": "6127 6361",
 		"telephone": ""
 	}]
 },{
@@ -11612,12 +12007,25 @@
 	"democrat_contestant": "宋子明",
 	"democrat_organization": "工黨",
 	"organization": [{
-		"name": "",
-		"fbpage": "",
+		"name": "個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/SimpsonSTM/",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
-		"whatsapp": "",
+		"whatsapp": "5332 1468",
 		"telephone": ""
+	},{
+		"name": "工黨",
+		"webpage": "http://labour.org.hk/",
+		"fbpage": "https://www.facebook.com/labour.org.hk/",
+		"instagram": "https://www.instagram.com/labourparty_hk/",
+		"telegram": "https://t.me/LabourHK",
+		"youtube": "https://www.youtube.com/user/HKLabourParty",
+		"email": "info@labour.org.hk",
+		"whatsapp": "",
+		"telephone": "2770 8668"
 	}]
 },{
 	"district": "葵青區",
