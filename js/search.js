@@ -25,7 +25,8 @@
         bubblingMouseEvents: true,
       });
       marker.addTo(map);
-    	map.setView(coord, 18);
+      map.trigger("click", onRegionClick);
+	  map.setView(coord, 18);
     })
   }
 
