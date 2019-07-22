@@ -150,7 +150,7 @@ function onRegionClick(e) {
                           document.getElementById("infoBoard").classList.add("notExisting");
                         }
                     } else if (value.democrat_contestant == "(待定)"){ //value.contestStatus == "DELIB"
-                        region_content = region_content + "<span style='color: red;'><strong>已有人積極考慮參選！</strong></span><br/>"
+                        region_content = region_content + "<span style='color: red;'><strong>已有人積極考慮參選！</span><br/><br/>詳情請查詢<a target='_blank' href='https://www.facebook.com/PowerForDemocracy/'>民主動力</a>、<a target='_blank' href='https://www.facebook.com/反自動當選運動-2510455555631639'>反自動當選運動</a>或<a target='_blank' href='https://lihkg.com/thread/1322375/page/1'>連登相關組織</a>。</strong><br/>"
                         // style the detail Info for no contestants
                         if(document.getElementById("infoBoard").classList.contains("existing")) {
                           document.getElementById("infoBoard").classList.remove("existing");
@@ -190,7 +190,7 @@ function onRegionClick(e) {
                           organzation_content = organzation_content + "<br/>";
                         });
                     } else {
-                      organzation_content = "<br/><strong>有意參選市民,請聯絡<a target='_blank' href='https://www.facebook.com/pg/反自動當選運動-2510455555631639'>反自動當選運動</a></strong><br/>";
+                      organzation_content = "<br/><strong>有意參選市民,請按自己的心意聯絡<a target='_blank' href='https://www.facebook.com/PowerForDemocracy/'>民主動力</a>、<a target='_blank' href='https://www.facebook.com/反自動當選運動-2510455555631639'>反自動當選運動</a>或<a target='_blank' href='https://lihkg.com/thread/1322375/page/1'>連登相關組織</a>。</strong><br/>";
                     }
                     document.getElementById("organzation_content").innerHTML = organzation_content;
                     popup.setLatLng(e.latlng).setContent(region_content + organzation_content).openOn(map);
