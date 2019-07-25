@@ -5989,17 +5989,17 @@
 	"name": "協康",
 	"estab_contestant": "陳振彬",
 	"estab_organization": "創建力量",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "馬嘉駿/李嘉達",
+	"democrat_organization": "獨立/獨立",
 	"organization": [{
-		"name": "(待定)",
+		"name": "馬嘉駿個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/ClaytonMa.KwunTong",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "clayton.kwuntong@gmail.com",
+		"whatsapp": "6307 4623",
 		"telephone": ""
 	}]
 },{
@@ -6011,7 +6011,7 @@
 	"democrat_contestant": "蘇冠聰",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "",
+		"name": "個人聯絡資料",
 		"webpage": "http://www.isletforum.com/forum.php?mod=viewthread&tid=22407",
 		"fbpage": "",
 		"instagram": "",
