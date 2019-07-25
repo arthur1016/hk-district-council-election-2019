@@ -1240,17 +1240,17 @@
     "name": "和富",
 	"estab_contestant": "郭偉强",
 	"estab_organization": "工聯會",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "陳嘉陽",
+	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
-		"instagram": "",
+		"fbpage": "https://www.facebook.com/duncannofficial",
+		"instagram": "https://www.instagram.com/duncannofficial/",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "duncannofficial@gmail.com",
+		"whatsapp": "5944 0719",
 		"telephone": ""
 	}]
 },{
@@ -1572,9 +1572,9 @@
 	"democrat_contestant": "周卓奇",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/profile.php?id=100039392045221",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
