@@ -7,6 +7,10 @@
     return [coord[1], coord[0]];
   }
 
+  function showErrorAlert() {
+    alert('找不到地點'); return;
+  }
+
   var marker = null;
   function search() {
     var q = $("#search_input").val();
@@ -14,7 +18,7 @@
     $.ajax({
       url: "https://geodata.gov.hk/gs/api/v1.0.0/locationSearch?q=" + q,
     }).done(function(res) {
-      if (res.length == 0) return;
+      if (res.length == 0) showErrorAlert;
       var coord = convertCoord(res[0].x, res[0].y);
 
       if (marker != null) {
@@ -26,7 +30,7 @@
       });
       marker.addTo(map);
     	map.setView(coord, 18);
-    })
+    }).fail(showErrorAlert)
   }
 
   $(document).ready(function() {
