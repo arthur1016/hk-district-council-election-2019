@@ -27,15 +27,11 @@ header #mobile_menu{
   flex-direction: column;
   padding: 20px 0px;
 }
-#reference_link_container > div > a{
-  flex: 1;
-  text-align: center;
-}
 .reference_link_icon{
   width: 30px;
   height: auto;
   vertical-align: top;
-  padding-top: 4px;
+  margin: 2px;
 }
 @media(max-width: 767px){
   header .site-title{
