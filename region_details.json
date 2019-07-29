@@ -8351,16 +8351,6 @@
 	"democrat_contestant": "區國權",
 	"democrat_organization": "朱凱廸團隊",
 	"organization": [{
-		"name": "",
-		"webpage": "",
-		"fbpage": "",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "",
-		"whatsapp": "",
-		"telephone": ""
-	},{
 		"name": "朱凱廸元朗團隊",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/%E6%9C%B1%E5%87%B1%E5%BB%B8%E5%85%83%E6%9C%97%E5%9C%98%E9%9A%8A-1968242460129896/",
@@ -9187,17 +9177,17 @@
 	"name": "清河",
 	"estab_contestant": "藍偉良",
 	"estab_organization": "新界社團聯會",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "袁浩倫",
+	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/seayuen.holun/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
 		"email": "",
-		"whatsapp": "",
+		"whatsapp": "5649 2297",
 		"telephone": ""
 	}]
 },{
@@ -9322,8 +9312,8 @@
 	"name": "天平西",
 	"estab_contestant": "黃宏滔",
 	"estab_organization": "工聯會",
-	"democrat_contestant": "郭㙟豐/張京樑",
-	"democrat_organization": "民主黨/獨立",
+	"democrat_contestant": "郭㙟豐",
+	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "郭㙟豐個人聯絡資料",
 		"webpage": "",
@@ -9332,16 +9322,6 @@
 		"telegram": "",
 		"youtube": "",
 		"email": "",
-		"whatsapp": "",
-		"telephone": ""
-	},{
-		"name": "張京樑個人聯絡資料",
-		"webpage": "http://www.peacemindcoaching.com",
-		"fbpage": "https://www.facebook.com/changkingleung/",
-		"instagram": "https://www.instagram.com/changkingleung/",
-		"telegram": "",
-		"youtube": "",
-		"email": "ask@changkingleung.com",
 		"whatsapp": "",
 		"telephone": ""
 	},{
