@@ -5804,9 +5804,19 @@
 	"name": "油翠",
 	"estab_contestant": "龐智笙",
 	"estab_organization": "創建力量",
-	"democrat_contestant": "梁家聲",
-	"democrat_organization": "人民力量",
+	"democrat_contestant": "梁家聲/鍾淬坤",
+	"democrat_organization": "人民力量/獨立",
 	"organization": [{
+		"name": "鍾淬坤個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/yauchuiaaron/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "yauchuiaaron@gmail.com",
+		"whatsapp": "6098 6968",
+		"telephone": ""
+	},{
 		"name": "人民力量",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/peoplespower/",
