@@ -5170,6 +5170,16 @@
 		"whatsapp": "5543 5231",
 		"telephone": "3567 0304"
 	},{
+		"name": "觀塘中心",
+		"webpage": "https://www.kwuntongcentral.com",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "edithleung@dphk.org",
+		"whatsapp": "",
+		"telephone": "3567 0304"
+	},{
 		"name": "民主黨九龍東支部",
 		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=6",
 		"fbpage": "",
@@ -5486,12 +5496,22 @@
 	"name": "秀茂坪北",
 	"estab_contestant": "黃春平",
 	"estab_organization": "創建力量",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "鄧威文",
+	"democrat_organization": "秀達服務團隊",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/RaymondTWM/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "6126 9781",
+		"telephone": ""
+	},{
+		"name": "秀達服務團隊",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/秀達服務團隊-秀茂坪邨秀茂坪南邨寶達邨及安達邨-354813278633246/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
@@ -5563,12 +5583,22 @@
 	"name": "秀茂坪南",
 	"estab_contestant": "陳耀雄",
 	"estab_organization": "創建力量",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "馮家龍",
+	"democrat_organization": "秀達服務團隊",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/%E9%A6%AE%E5%AE%B6%E9%BE%8D%E7%A7%80%E9%81%94%E6%9C%8D%E5%8B%99%E5%9C%98%E9%9A%8A-340226716905022/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "fklstserviceteam@gmail.com",
+		"whatsapp": "6258 3844",
+		"telephone": ""
+	},{
+		"name": "秀達服務團隊",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/秀達服務團隊-秀茂坪邨秀茂坪南邨寶達邨及安達邨-354813278633246/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
@@ -5679,10 +5709,10 @@
 	"name": "藍田",
 	"estab_contestant": "簡銘東",
 	"estab_organization": "工聯會",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "余忠豪",
+	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
 		"fbpage": "",
 		"instagram": "",
@@ -5909,18 +5939,48 @@
 	"name": "翠屏",
 	"estab_contestant": "鄭強峰",
 	"estab_organization": "港九新界公共屋邨居民商戶團體聯會",
-	"democrat_contestant": "李有為",
-	"democrat_organization": "獨立",
+	"democrat_contestant": "洪駿軒",
+	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "https://facebook.com/botonLi",
+		"fbpage": "https://www.facebook.com/%E6%B4%AA%E9%A7%BF%E8%BB%92-Hinson-Hung-512111339533979/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "9870 3497",
+		"email": "hinsonhungdp@gmail.com",
+		"whatsapp": "5402 7401",
+		"telephone": "3567 0304 / 3709 8864"
+	},{
+		"name": "觀塘中心",
+		"webpage": "https://www.kwuntongcentral.com",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "edithleung@dphk.org",
+		"whatsapp": "",
+		"telephone": "3567 0304"
+	},{
+		"name": "民主黨九龍東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=6",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkkle@dphk.org",
+		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "觀塘區",
@@ -5928,16 +5988,26 @@
 	"name": "曉麗",
 	"estab_contestant": "蘇麗珍",
 	"estab_organization": "創建力量",
-	"democrat_contestant": "張隆",
-	"democrat_organization": "譚香文團隊",
+	"democrat_contestant": "張敏峯/張隆",
+	"democrat_organization": "曉麗新動力/譚香文團隊",
 	"organization": [{
-		"name": "個人聯絡資料",
+		"name": "張敏峯個人聯絡資料",
 		"webpage": "",
+		"fbpage": "https://www.facebook.com/HiuLaiConcern/",
+		"instagram": "https://www.instagram.com/hiulaiconcern/",
+		"telegram": "",
+		"youtube": "",
+		"email": "hiulaiconcern@gmail.com",
+		"whatsapp": "9496 3671",
+		"telephone": ""
+	},{
+		"name": "張隆個人聯絡資料",
+		"webpage": "https://www.mandytam.com",
 		"fbpage": "https://www.facebook.com/張隆-872306073132084/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
+		"email": "factorlung@gmail.com",
 		"whatsapp": "9589 4391",
 		"telephone": ""
 	}]
@@ -5959,6 +6029,16 @@
 		"email": "kengieongcheng@gmail.com",
 		"whatsapp": "5540 4295",
 		"telephone": ""
+	},{
+		"name": "觀塘中心",
+		"webpage": "https://www.kwuntongcentral.com",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "edithleung@dphk.org",
+		"whatsapp": "",
+		"telephone": "3567 0304"
 	},{
 		"name": "民主黨九龍東支部",
 		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=6",
@@ -6103,6 +6183,16 @@
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "觀塘中心",
+		"webpage": "https://www.kwuntongcentral.com",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "edithleung@dphk.org",
+		"whatsapp": "",
+		"telephone": "3567 0304"
 	},{
 		"name": "民主黨九龍東支部",
 		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=6",
