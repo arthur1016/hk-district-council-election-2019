@@ -4316,17 +4316,27 @@
 	"name": "紅磡",
 	"estab_contestant": "林德成",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "關兆倫",
+	"democrat_organization": "紅土家",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/bighead.kwan/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
 		"email": "",
 		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "紅土家",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/HungToAlliance/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "hungtoalliance@gmail.com",
+		"whatsapp": "5636 7705",
 		"telephone": ""
 	}]
 },{
