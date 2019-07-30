@@ -3019,18 +3019,28 @@
 	"name": "石硤尾",
 	"estab_contestant": "陳國偉",
 	"estab_organization": "經民聯",
-	"democrat_contestant": "郭偉誠",
-	"democrat_organization": "獨立",
+	"democrat_contestant": "冼錦豪",
+	"democrat_organization": "深水埗社區關注組",
 	"organization": [{
 		"name": "個人聯絡資料",
-		"webpage": "https://www.inmediahk.net/node/1060845",
-		"fbpage": "https://www.facebook.com/kwokwaishing1221/",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/jeffreysin716/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "9221 4120",
-		"telephone": "2778 1577"
+		"email": "sspdcg@gmail.com",
+		"whatsapp": "9462 9099",
+		"telephone": ""
+	},{
+		"name": "深水埗社區關注組",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/SSPDCG/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "sspdcg@gmail.com",
+		"whatsapp": "9462 9099",
+		"telephone": ""
 	}]
 },{
 	"district": "深水埗區",
@@ -3096,17 +3106,27 @@
 	"name": "南昌中",
 	"estab_contestant": "劉佩玉",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "林倩同",
+	"democrat_organization": "深水埗社區關注組",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/sspJessica/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "sspdcg@gmail.com",
+		"whatsapp": "6111 9794",
+		"telephone": ""
+	},{
+		"name": "深水埗社區關注組",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/SSPDCG/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "sspdcg@gmail.com",
+		"whatsapp": "9462 9099",
 		"telephone": ""
 	}]
 },{
