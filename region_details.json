@@ -4143,27 +4143,17 @@
 	"name": "海心",
 	"estab_contestant": "潘國華",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "曾穎彤",
-	"democrat_organization": "九龍角落",
+	"democrat_contestant": "童繼民",
+	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
-		"webpage": "https://www.facebook.com/nettetsang1106",
-		"fbpage": "https://www.facebook.com/nettetsangwt/",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/jacktungkaiman/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
 		"email": "",
-		"whatsapp": "5743 2882",
-		"telephone": ""
-	},{
-		"name": "九龍角落",
-		"webpage": "",
-		"fbpage": "https://www.facebook.com/synergykln.org/",
-		"instagram": "",
-		"telegram": "http://www.instagram.com/synergykowloon",
-		"youtube": "",
-		"email": "info@synergykln.org",
-		"whatsapp": "9654 8124",
+		"whatsapp": "",
 		"telephone": ""
 	}]
 },{
@@ -4249,9 +4239,29 @@
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "kwoktinlap@dphk.org",
+		"whatsapp": "6145 4992",
 		"telephone": ""
+	},{
+		"name": "民主黨九龍西支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=7",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkklw@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "九龍城區",
