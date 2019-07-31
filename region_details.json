@@ -4800,11 +4800,21 @@
 	"name": "翠竹與鵬程",
 	"estab_contestant": "陳英",
 	"estab_organization": "獨立",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "劉珈汶",
+	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
+		"fbpage": "https://www.facebook.com/CarmenLauKaMan.2019/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "teamcarmen.2019@gmail.com",
+		"whatsapp": "6323 4638",
+		"telephone": ""
+	},{
+		"name": "公民黨九龍東支部",
+		"webpage": "https://www.civicparty.hk/?q=node/21",
 		"fbpage": "",
 		"instagram": "",
 		"telegram": "",
@@ -4812,6 +4822,16 @@
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "黃大仙區",
