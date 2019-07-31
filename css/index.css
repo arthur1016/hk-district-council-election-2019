@@ -9,7 +9,7 @@ body {
 
 }
 @media(max-width: 767px){
-  .container-fluid{
+  .container-fluid.drawer{
     padding:0px;
   }
 }
@@ -112,6 +112,7 @@ header #mobile_menu{
 }
 #infoBoard{
   flex-direction: column;
+  word-break: break-word;
 }
 #infoBoard > div{
   max-width:100%;
@@ -170,4 +171,8 @@ header #mobile_menu{
 }
 .drawer-overlay{
   z-index: 9999;
+}
+/*leftlet css*/
+.leaflet-popup-content{
+  word-break: break-word;
 }
