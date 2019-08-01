@@ -9770,12 +9770,22 @@
 	"name": "廣福及寶湖",
 	"estab_contestant": "黃碧嬌",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "連桷璋",
-	"democrat_organization": "獨立",
+	"democrat_contestant": "連桷璋/郭樹仁",
+	"democrat_organization": "獨立/獨立",
 	"organization": [{
-		"name": "個人聯絡資料",
+		"name": "連桷璋個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/linkokcheung/",
+		"instagram": "https://www.instagram.com/linkokcheung/",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "郭樹仁個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E9%83%AD%E6%A8%B9%E4%BB%81-Andrew-Kwok-SY-504846459671899",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
@@ -9831,14 +9841,14 @@
 	"democrat_contestant": "毛家俊",
 	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/patrickkcmo",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
 		"email": "",
-		"whatsapp": "",
+		"whatsapp": "9844 2869",
 		"telephone": ""
 	}]
 },{
@@ -12852,17 +12862,17 @@
 	"name": "荔景",
 	"estab_contestant": "周奕希",
 	"estab_organization": "新界社團聯會",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "王天仁",
+	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/WTinYan/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "wtinyan28@gmail.com",
+		"whatsapp": "9854 3357",
 		"telephone": ""
 	}]
 },{
