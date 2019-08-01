@@ -10204,16 +10204,26 @@
 	"name": "坑口西",
 	"estab_contestant": "邱浩麟",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "余浚寧",
+	"democrat_organization": "將向天晴",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/TsunningY/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
+		"email": "tsunningyu@tkoshining.com",
+		"whatsapp": "5160 7637",
+		"telephone": ""
+	},{
+		"name": "將向天晴",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E5%B0%87%E5%90%91%E5%A4%A9%E6%99%B4-TKO-Shining-102197364456992",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "info@tkoshining.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
