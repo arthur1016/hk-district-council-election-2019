@@ -6765,7 +6765,7 @@
 	"estab_contestant": "黃偉傑",
 	"estab_organization": "新界社團聯會",
 	"democrat_contestant": "謝旻澤",
-	"democrat_organization": "獨立",
+	"democrat_organization": "荃民互動",
 	"organization": [{
 		"name": "個人聯絡資料",
 		"webpage": "",
@@ -6775,6 +6775,16 @@
 		"youtube": "",
 		"email": "ronald.tmchak@gmail.com",
 		"whatsapp": "9247 7753",
+		"telephone": ""
+	}，{
+		"name": "荃民互動",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/welinktw/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "welinktw@gmail.com",
+		"whatsapp": "",
 		"telephone": ""
 	}]
 },{
