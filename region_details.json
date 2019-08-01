@@ -631,7 +631,7 @@
     "code": "B06",
     "name": "天后",
 	"estab_contestant": "李文龍",
-	"estab_organization": "新民黨",
+	"estab_organization": "獨立",
 	"democrat_contestant": "陳鈺琳",
 	"democrat_organization": "灣仔起步",
 	"organization": [{
@@ -5817,18 +5817,38 @@
 	"name": "栢雅",
 	"estab_contestant": "何啟明",
 	"estab_organization": "工聯會",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "陳汶堅",
+	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
+		"fbpage": "https://www.facebook.com/chanmankinoffice/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "chanmankinoffice@yahoo.com.hk",
+		"whatsapp": "",
+		"telephone": "2775 3178 / 5115 6489"
+	},{
+		"name": "民主黨九龍東支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=6",
 		"fbpage": "",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
+		"email": "dphkkle@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "觀塘區",
