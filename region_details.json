@@ -506,13 +506,23 @@
     "name": "愛群",
 	"estab_contestant": "穆家駿",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "羅偉珊",
+	"democrat_organization": "灣仔起步",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
-		"instagram": "",
+		"fbpage": "https://www.facebook.com/susi.wanchai/",
+		"instagram": "https://www.instagram.com/Susi.Wanchai/",
+		"telegram": "",
+		"youtube": "",
+		"email": "susi.oikwan@gmail.com",
+		"whatsapp": "9720 2845",
+		"telephone": ""
+	},{
+		"name": "灣仔起步",
+		"webpage": "https://www.facebook.com/groups/162705447682375/",
+		"fbpage": "https://www.facebook.com/gooddaywanchai/",
+		"instagram": "https://www.instagram.com/wanchai_ms/",
 		"telegram": "",
 		"youtube": "",
 		"email": "",
@@ -539,7 +549,7 @@
 		"telephone": ""
 	},{
 		"name": "灣仔起步",
-		"webpage": "https://www.facebook.com/groups/162705447682375/?ref=pages_groups_card&source_id=919956061358405",
+		"webpage": "https://www.facebook.com/groups/162705447682375/",
 		"fbpage": "https://www.facebook.com/gooddaywanchai/",
 		"instagram": "",
 		"telegram": "https://www.instagram.com/wanchai_ms/",
@@ -636,7 +646,7 @@
 		"telephone": ""
 	},{
 		"name": "灣仔起步",
-		"webpage": "https://www.facebook.com/groups/162705447682375/?ref=pages_groups_card&source_id=919956061358405",
+		"webpage": "https://www.facebook.com/groups/162705447682375/",
 		"fbpage": "https://www.facebook.com/gooddaywanchai/",
 		"instagram": "https://www.instagram.com/wanchai_ms/",
 		"telegram": "",
@@ -665,7 +675,7 @@
 		"telephone": "5210 9120"
 	},{
 		"name": "灣仔起步",
-		"webpage": "https://www.facebook.com/groups/162705447682375/?ref=pages_groups_card&source_id=919956061358405",
+		"webpage": "https://www.facebook.com/groups/162705447682375/",
 		"fbpage": "https://www.facebook.com/gooddaywanchai/",
 		"instagram": "https://www.instagram.com/wanchai_ms/",
 		"telegram": "",
@@ -708,12 +718,12 @@
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "art.ytcc@gmail.com",
+		"whatsapp": "6108 6506",
 		"telephone": ""
 	},{
 		"name": "灣仔起步",
-		"webpage": "https://www.facebook.com/groups/162705447682375/?ref=pages_groups_card&source_id=919956061358405",
+		"webpage": "https://www.facebook.com/groups/162705447682375/",
 		"fbpage": "https://www.facebook.com/gooddaywanchai/",
 		"instagram": "https://www.instagram.com/wanchai_ms/",
 		"telegram": "",
@@ -728,13 +738,23 @@
     "name": "跑馬地",
 	"estab_contestant": "吳澤森",
 	"estab_organization": "香港島各界聯合會",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "張嘉莉",
+	"democrat_organization": "灣仔起步",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/mobilecommunitymuseum/",
 		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "clarawanchai@gmail.com",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "灣仔起步",
+		"webpage": "https://www.facebook.com/groups/162705447682375/",
+		"fbpage": "https://www.facebook.com/gooddaywanchai/",
+		"instagram": "https://www.instagram.com/wanchai_ms/",
 		"telegram": "",
 		"youtube": "",
 		"email": "",
