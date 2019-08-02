@@ -10380,16 +10380,26 @@
 	"name": "維景",
 	"estab_contestant": "陳繼偉",
 	"estab_organization": "專業動力",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "葉子祈",
+	"democrat_organization": "將向天晴",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/Brandon.K.Yip/",
+		"instagram": "",
+		"telegram": "https://www.instagram.com/os_brandon/",
+		"youtube": "",
+		"email": "brandonyip@tkoshining.com",
+		"whatsapp": "6486 3996",
+		"telephone": ""
+	},{
+		"name": "將向天晴",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E5%B0%87%E5%90%91%E5%A4%A9%E6%99%B4-TKO-Shining-102197364456992",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
+		"email": "info@tkoshining.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
