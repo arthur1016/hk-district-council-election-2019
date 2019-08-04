@@ -322,18 +322,38 @@
     "name": "西營盤",
 	"estab_contestant": "劉天正",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "劉家衡",
+	"democrat_organization": "公民黨",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/%E8%A5%BF%E7%87%9F%E7%9B%A4-%E5%8A%89%E5%AE%B6%E8%A1%A1-375789236409722/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "公民黨港島區支部",
+		"webpage": "https://www.civicparty.hk/?q=node/20",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": "2580 6990"
+	},{
+		"name": "公民黨",
+		"webpage": "http://www.civicparty.hk/",
+		"fbpage": "https://www.facebook.com/civicpartyhk/",
+		"instagram": "https://www.instagram.com/civicpartyhk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/hkcivicparty",
+		"email": "contact@civicparty.hk",
+		"whatsapp": "",
+		"telephone": "2865 7111"
 	}]
 },{
 	"district": "中西區",
