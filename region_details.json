@@ -4743,16 +4743,16 @@
 	"name": "樂富",
 	"estab_contestant": "陳偉坤",
 	"estab_organization": "創建力量",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "梁銘康",
+	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
-		"instagram": "",
+		"fbpage": "https://www.facebook.com/steveleunglokfu/",
+		"instagram": "https://www.instagram.com/lokfusteve/",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
+		"email": "leungminghonglokfu@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
