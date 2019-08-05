@@ -22,6 +22,10 @@ header{
 header #mobile_menu{
   font-size: 32px;
 }
+#nav_bar {
+  width: 120px;
+  float: left;
+}
 #nav_bar nav{
   display: flex;
   flex-direction: column;

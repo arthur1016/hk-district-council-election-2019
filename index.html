@@ -23,19 +23,18 @@
         crossorigin=""></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/js/bootstrap.js"></script>
     <script src="https://www.w3schools.com/lib/w3.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/proj4js/2.5.0/proj4-src.js"></script>
-    <!-- drawer -->
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/css/drawer.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/iScroll/5.2.0/iscroll-infinite.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/js/drawer.js"></script>
     <!-- CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css"
         integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
         crossorigin="" />
-        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" />
-	<link rel="icon" href="images/black_icon.png" type="image/png" sizes="16x16">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.3.1/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/drawer/3.2.2/css/drawer.min.css">
+    <link rel="icon" href="images/black_icon.png" type="image/png" sizes="16x16">
     <link href="css/index.css" rel="stylesheet" type="text/css">
 </head>
 <body class="container-fluid drawer drawer--left">
@@ -43,20 +42,22 @@
     <div id="input_box_mobile" class="d-block d-md-none"></div>
     <!--<button style="" type="button" class="btn btn-danger btn-lg btn-block" onclick="contestedSeats()" id="showUncontestedOnly">只顯示自動當選選區</button> -->
     <div class="container-fluid">
-      <div id="mainContent" class="row">
-        <div id="nav_bar" class="col-2 pl-0 pr-0">
+      <div id="mainContent">
+        <div id="nav_bar">
           <div w3-include-html="nav.html"></div>
         </div>
-        <div class="col-md-8 col-12">
-          <div id="mapid"></div>
-        </div>
-        <div class="col-12 col-md-2 pl-0 infoBoard-container">
-          <div id="infoBoard" class="row">
-              <div id='entry_status'></div>
-              <div id="detailInfo">
-                <div id="region_content"></div>
-                <div id="organzation_content"></div>
-              </div>
+        <div class="row">
+          <div class="col-md-8 col-12">
+            <div id="mapid"></div>
+          </div>
+          <div class="col-12 col-md-4 pl-0 infoBoard-container">
+            <div id="infoBoard" class="row">
+                <div id='entry_status'></div>
+                <div id="detailInfo">
+                  <div id="region_content"></div>
+                  <div id="organzation_content"></div>
+                </div>
+            </div>
           </div>
         </div>
       </div>
