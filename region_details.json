@@ -2394,9 +2394,19 @@
     "name": "赤柱及石澳",
 	"estab_contestant": "陳李佩英",
 	"estab_organization": "香港島各界聯合會",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "彭卓棋",
+	"democrat_organization": "南區民生關注組",
 	"organization": [{
+		"name": "個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E5%BD%AD%E5%8D%93%E6%A3%8B-Michael-Pang-107016567299612/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "cheukkeipang.ss@gmail.com",
+		"whatsapp": "9028 3248",
+		"telephone": ""
+	},{
 		"name": "南區民生關注組",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/%E5%8D%97%E5%8D%80%E6%B0%91%E7%94%9F%E9%97%9C%E6%B3%A8%E7%B5%84-589778554700940/",
