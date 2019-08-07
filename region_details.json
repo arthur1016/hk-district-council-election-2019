@@ -4696,9 +4696,19 @@
 	"name": "新蒲崗",
 	"estab_contestant": "雷啟蓮",
 	"estab_organization": "創建力量",
-	"democrat_contestant": "(待定)",
+	"democrat_contestant": "陳啟淳",
 	"democrat_organization": "新蒲崗互助網絡",
 	"organization": [{
+		"name": "個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/profile.php?id=100039784730101",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "spkgarychan@gmail.com",
+		"whatsapp": "",
+		"telephone": ""
+	},{
 		"name": "新蒲崗互助網絡",
 		"webpage": "",
 		"fbpage": "",
