@@ -9318,16 +9318,16 @@
 	"name": "盛福",
 	"estab_contestant": "溫和達",
 	"estab_organization": "工聯會",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "黃良喜",
+	"democrat_organization": "新民主同盟",
 	"organization": [{
-		"name": "(待定)",
-		"webpage": "",
-		"fbpage": "",
+		"name": "新民主同盟",
+		"webpage": "http://neodemocrats.org.hk/",
+		"fbpage": "https://www.facebook.com/NeoDemocrats/",
 		"instagram": "",
 		"telegram": "",
-		"youtube": "",
-		"email": "",
+		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
+		"email": "neodemocrats@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
