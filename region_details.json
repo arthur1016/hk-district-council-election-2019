@@ -787,17 +787,27 @@
     "name": "司徒拔道",
 	"estab_contestant": "黃宏泰",
 	"estab_organization": "香港島各界聯合會",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "周錦基",
+	"democrat_organization": "灣仔起步",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/frankiewanchai/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
 		"email": "",
 		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "灣仔起步",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E7%81%A3%E4%BB%94%E8%B5%B7%E6%AD%A5-Kickstart-Wan-Chai-104681280886410",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "kickstartwanchai@gmail.com",
+		"whatsapp": "9490 6631",
 		"telephone": ""
 	}]
 },{
