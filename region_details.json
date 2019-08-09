@@ -497,10 +497,10 @@
     "name": "軒尼詩",
 	"estab_contestant": "白俊達/黃守東",
 	"estab_organization": "民主思路/獨立",
-	"democrat_contestant": "夏希諾",
-	"democrat_organization": "工黨",
+	"democrat_contestant": "夏希諾/顧國慧",
+	"democrat_organization": "工黨/灣仔起步",
 	"organization": [{
-		"name": "個人聯絡資料",
+		"name": "夏希諾個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/helix.ha.3",
 		"instagram": "",
@@ -519,6 +519,16 @@
 		"email": "info@labour.org.hk",
 		"whatsapp": "",
 		"telephone": "2770 8668"
+	},{
+		"name": "灣仔起步",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E7%81%A3%E4%BB%94%E8%B5%B7%E6%AD%A5-Kickstart-Wan-Chai-104681280886410",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "kickstartwanchai@gmail.com",
+		"whatsapp": "9490 6631",
+		"telephone": ""
 	}]
 },{
 	"district": "灣仔區",
@@ -710,17 +720,17 @@
     "name": "渣甸山",
 	"estab_contestant": "林偉文",
 	"estab_organization": "自由黨",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "張朝敦",
+	"democrat_organization": "灣仔起步",
 	"organization": [{
-		"name": "(待定)",
+		"name": "灣仔起步",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/%E7%81%A3%E4%BB%94%E8%B5%B7%E6%AD%A5-Kickstart-Wan-Chai-104681280886410",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "kickstartwanchai@gmail.com",
+		"whatsapp": "9490 6631",
 		"telephone": ""
 	}]
 },{
@@ -816,17 +826,17 @@
     "name": "修頓",
 	"estab_contestant": "李碧儀",
 	"estab_organization": "香港島各界聯合會",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "陳錦成",
+	"democrat_organization": "灣仔起步",
 	"organization": [{
-		"name": "(待定)",
+		"name": "灣仔起步",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/%E7%81%A3%E4%BB%94%E8%B5%B7%E6%AD%A5-Kickstart-Wan-Chai-104681280886410",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "kickstartwanchai@gmail.com",
+		"whatsapp": "9490 6631",
 		"telephone": ""
 	}]
 },{
@@ -835,16 +845,26 @@
     "name": "大佛口",
 	"estab_contestant": "李均頤",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "梁柏堅",
+	"democrat_organization": "灣仔廣義",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/Pakkin.Cousin/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
+		"email": "pakkin@wanchaicommons.com",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "灣仔廣義",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/WanchaiCommons/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "info@wanchaicommons.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
