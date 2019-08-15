@@ -9179,9 +9179,19 @@
 	"name": "聯和墟",
 	"estab_contestant": "曾興隆",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "(待定)",
+	"democrat_contestant": "周錦豪",
 	"democrat_organization": "聯和匯聚",
 	"organization": [{
+		"name": "個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/chowkamho/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "chowkamho2019@gmail.com",
+		"whatsapp": "9316 5657",
+		"telephone": ""
+	},{
 		"name": "聯和匯聚",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/Luenwounited/",
@@ -9392,9 +9402,19 @@
 	"name": "盛福",
 	"estab_contestant": "溫和達",
 	"estab_organization": "工聯會",
-	"democrat_contestant": "黃良喜",
-	"democrat_organization": "新民主同盟",
+	"democrat_contestant": "黃良喜/徐逸昇",
+	"democrat_organization": "新民主同盟/獨立",
 	"organization": [{
+		"name": "個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E9%BB%83%E8%89%AF%E5%96%9C%E7%9B%9B%E7%A6%8F-105834474104170/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "9303 8464",
+		"telephone": ""
+	},{
 		"name": "新民主同盟",
 		"webpage": "http://neodemocrats.org.hk/",
 		"fbpage": "https://www.facebook.com/NeoDemocrats/",
@@ -9430,8 +9450,8 @@
 	"name": "御太",
 	"estab_contestant": "曾勁聰",
 	"estab_organization": "工聯會",
-	"democrat_contestant": "陳梓峯",
-	"democrat_organization": "山下御太",
+	"democrat_contestant": "陳梓峯/蔣旻正",
+	"democrat_organization": "山下御太/獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
 		"webpage": "",
