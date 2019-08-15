@@ -8195,17 +8195,17 @@
 	"name": "元龍",
 	"estab_contestant": "王威信",
 	"estab_organization": "經民聯",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "張秀賢",
+	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
-		"instagram": "",
+		"fbpage": "https://www.facebook.com/TommyCheung0416/",
+		"instagram": "https://instagram.com/tommy_cheungsy",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "act@tommycheung.hk",
+		"whatsapp": "5900 7100",
 		"telephone": ""
 	}]
 },{
@@ -8214,12 +8214,15 @@
 	"name": "十八鄉中",
 	"estab_contestant": "梁明堅",
 	"estab_organization": "城鄉居民共和協會",
-	"democrat_contestant": "",
-	"democrat_organization": "",
+	"democrat_contestant": "方浩軒",
+	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "",
+		"webpage": "",
 		"fbpage": "",
+		"instagram": "",
 		"telegram": "",
+		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
@@ -8568,17 +8571,17 @@
 	"name": "天盛",
 	"estab_contestant": "陳思靜",
 	"estab_organization": "實政圓桌",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "候文健",
+	"democrat_organization": "天水連線",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/%E4%BE%AF%E6%96%87%E5%81%A5-Frasier-Hau-105255130825409",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "haumankin@gmail.com",
+		"whatsapp": "6760 1781",
 		"telephone": ""
 	}]
 },{
@@ -8587,10 +8590,10 @@
 	"name": "天耀",
 	"estab_contestant": "司徒駿軒",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "何惠彬",
-	"democrat_organization": "街坊工友服務處",
+	"democrat_contestant": "何惠彬/梁榮生",
+	"democrat_organization": "街坊工友服務處/天水連線",
 	"organization": [{
-		"name": "個人聯絡資料",
+		"name": "何惠彬個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/BenHoWP/",
 		"instagram": "",
@@ -8753,7 +8756,7 @@
 	"estab_contestant": "周永勤/黃子毅",
 	"estab_organization": "獨立/獨立",
 	"democrat_contestant": "林進",
-	"democrat_organization": "獨立",
+	"democrat_organization": "天水連線",
 	"organization": [{
 		"name": "個人聯絡資料",
 		"webpage": "",
@@ -8800,17 +8803,27 @@
 	"name": "頌栢",
 	"estab_contestant": "黃卓健",
 	"estab_organization": "新民黨",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "李煒鋒",
+	"democrat_organization": "天水圍地區民生促進會",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/%E6%9D%8E%E7%85%92%E9%8B%92-Deco-Lee-733506620156163/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "tswdeco@gmail.com",
+		"whatsapp": "5118 0685",
+		"telephone": ""
+	},{
+		"name": "天水圍地區民生促進會",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/TSWFreedom/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "tswdeco@gmail.com",
+		"whatsapp": "5118 0685",
 		"telephone": ""
 	}]
 },{
@@ -8819,12 +8832,12 @@
 	"name": "嘉湖北",
 	"estab_contestant": "李月民",
 	"estab_organization": "新界社團聯會",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "伍健偉",
+	"democrat_organization": "天水連線",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/NgkinwaiK/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
@@ -8906,10 +8919,10 @@
 	"name": "富恩",
 	"estab_contestant": "劉桂容",
 	"estab_organization": "工聯會",
-	"democrat_contestant": "黃俊森",
-	"democrat_organization": "獨立",
+	"democrat_contestant": "黃俊森/關俊笙",
+	"democrat_organization": "天水圍地區民生促進會/富恩起動",
 	"organization": [{
-		"name": "個人聯絡資料",
+		"name": "黃俊森個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/%E9%BB%83%E4%BF%8A%E6%A3%AE-Wong-Chun-Sum-109038983769829/",
 		"instagram": "",
@@ -8917,6 +8930,26 @@
 		"youtube": "",
 		"email": "julywong2013@gmail.com",
 		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "關俊笙個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/leonkwantsw/",
+		"instagram": "https://www.instagram.com/leonkwan_tsw/",
+		"telegram": "",
+		"youtube": "",
+		"email": "leonkwan.hk@gmail.com",
+		"whatsapp": "5714 8371",
+		"telephone": ""
+	},{
+		"name": "天水圍地區民生促進會",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/TSWFreedom/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "tswdeco@gmail.com",
+		"whatsapp": "5118 0685",
 		"telephone": ""
 	}]
 },{
