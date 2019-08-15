@@ -498,7 +498,7 @@
 	"estab_contestant": "白俊達/黃守東",
 	"estab_organization": "民主思路/獨立",
 	"democrat_contestant": "夏希諾/顧國慧",
-	"democrat_organization": "工黨/灣仔起步",
+	"democrat_organization": "獨立/灣仔起步",
 	"organization": [{
 		"name": "夏希諾個人聯絡資料",
 		"webpage": "",
@@ -510,15 +510,15 @@
 		"whatsapp": "",
 		"telephone": ""
 	},{
-		"name": "工黨",
-		"webpage": "http://labour.org.hk/",
-		"fbpage": "https://www.facebook.com/labour.org.hk/",
-		"instagram": "https://www.instagram.com/labourparty_hk/",
-		"telegram": "https://t.me/LabourHK",
-		"youtube": "https://www.youtube.com/user/HKLabourParty",
-		"email": "info@labour.org.hk",
+		"name": "顧國慧個人聯絡資料",
+		"webpage": "https://www.facebook.com/blueblue.koo",
+		"fbpage": "https://www.facebook.com/sabinawanchai/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
 		"whatsapp": "",
-		"telephone": "2770 8668"
+		"telephone": ""
 	},{
 		"name": "灣仔起步",
 		"webpage": "",
@@ -594,38 +594,28 @@
     "name": "銅鑼灣",
 	"estab_contestant": "伍婉婷",
 	"estab_organization": "香港島各界聯合會",
-	"democrat_contestant": "陳建國",
-	"democrat_organization": "民主黨",
+	"democrat_contestant": "邱汶珊",
+	"democrat_organization": "灣仔起步",
 	"organization": [{
 		"name": "個人聯絡資料",
+		"webpage": "https://www.inmediahk.net/node/1066500",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "灣仔起步",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/%E7%81%A3%E4%BB%94%E8%B5%B7%E6%AD%A5-Kickstart-Wan-Chai-104681280886410",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "kinkwok8888@dphk.org",
-		"whatsapp": "",
-		"telephone": "2811 1111 / 9181 7161"
-	},{
-		"name": "民主黨香港島支部",
-		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
-		"fbpage": "",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "dphkhki@dphk.org",
-		"whatsapp": "",
-		"telephone": "9800 8237"
-	},{
-		"name": "民主黨",
-		"webpage": "http://www.dphk.org",
-		"fbpage": "https://www.facebook.com/thedphk",
-		"instagram": "https://www.instagram.com/democratic_party_hk/",
-		"telegram": "",
-		"youtube": "https://www.youtube.com/user/dphkdphk/",
-		"email": "dphk@dphk.org",
-		"whatsapp": "",
-		"telephone": "2397 7033"
+		"email": "kickstartwanchai@gmail.com",
+		"whatsapp": "9490 6631",
+		"telephone": ""
 	}]
 },{
 	"district": "灣仔區",
@@ -806,7 +796,7 @@
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
+		"email": "frankiewanchai@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	},{
