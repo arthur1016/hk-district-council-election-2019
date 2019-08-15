@@ -3720,16 +3720,16 @@
 	"name": "又一村",
 	"estab_contestant": "李梓敬",
 	"estab_organization": "自由黨",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "劉偉聰",
+	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/lawrencewclau/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
+		"email": "wclawrencelau@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
