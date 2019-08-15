@@ -5473,7 +5473,7 @@
 	"name": "彩德",
 	"estab_contestant": "譚肇卓",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "(待定)",
+	"democrat_contestant": "林子權",
 	"democrat_organization": "彩德之友",
 	"organization": [{
 		"name": "彩德之友",
@@ -5492,17 +5492,17 @@
 	"name": "佐敦谷",
 	"estab_contestant": "顏汶羽",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "黃家樂",
+	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/kalokyellow/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "kalokw89@gmail.com",
+		"whatsapp": "9134 4095",
 		"telephone": ""
 	}]
 },{
@@ -5550,10 +5550,10 @@
 	"name": "雙順",
 	"estab_contestant": "符碧珍",
 	"estab_organization": "創建力量",
-	"democrat_contestant": "",
-	"democrat_organization": "",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
 	"organization": [{
-		"name": "",
+		"name": "(待定)",
 		"webpage": "",
 		"fbpage": "",
 		"instagram": "",
@@ -5845,12 +5845,12 @@
 	"organization": [{
 		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/yuchungho.lamtin/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "yuchungho.lamtin@gmail.com",
+		"whatsapp": "9143 7632",
 		"telephone": ""
 	}]
 },{
