@@ -6674,6 +6674,16 @@
 	"democrat_contestant": "劉卓裕",
 	"democrat_organization": "荃民議政",
 	"organization": [{
+		"name": "個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/adrianlau4hk/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
 		"name": "荃民議政",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/DeliberationTW/",
@@ -7004,7 +7014,7 @@
 	"democrat_organization": "公民黨",
 	"organization": [{
 		"name": "個人聯絡資料",
-		"webpage": "個人聯絡資料",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/sumlychanCP/",
 		"instagram": "",
 		"telegram": "",
