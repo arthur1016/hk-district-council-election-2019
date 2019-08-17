@@ -1432,17 +1432,17 @@
     "name": "健康村",
 	"estab_contestant": "鄭志成",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "裴自立",
+	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/james.clpui/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "james.clpui@gmail.com",
+		"whatsapp": "9042 8450",
 		"telephone": ""
 	}]
 },{
@@ -1732,17 +1732,17 @@
     "name": "翠德",
 	"estab_contestant": "李鎮強",
 	"estab_organization": "自由黨",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "蔡志強",
+	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "(待定)",
-		"webpage": "",
-		"fbpage": "",
+		"name": "個人聯絡資料",
+		"webpage": "https://www.facebook.com/ChoiChiKeungPeter",
+		"fbpage": "https://www.facebook.com/peterchoi2019",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
 		"email": "",
-		"whatsapp": "",
+		"whatsapp": "9288 6956",
 		"telephone": ""
 	}]
 },{
