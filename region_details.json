@@ -13416,7 +13416,7 @@
 	"estab_contestant": "余漢坤",
 	"estab_organization": "獨立",
 	"democrat_contestant": "馮小燕",
-	"democrat_organization": "朱凱廸團隊",
+	"democrat_organization": "離島連線",
 	"organization": [{
 		"name": "個人聯絡資料",
 		"webpage": "",
@@ -13428,25 +13428,15 @@
 		"whatsapp": "6659 1552",
 		"telephone": ""
 	},{
-		"name": "朱凱廸大嶼山團隊",
-		"webpage": "https://www.facebook.com/eastspringonion/",
-		"fbpage": "https://www.facebook.com/pg/朱凱廸大嶼山團隊-2049187482020791",
+		"name": "離島連線",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E9%9B%A2%E5%B3%B6%E9%80%A3%E7%B7%9A-Islands-Connection-104805494213125/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	},{
-		"name": "朱凱廸團隊",
-		"webpage": "http://chuhoidick.hk/",
-		"fbpage": "https://www.facebook.com/chuhoidick/",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "info@chuhoidick.hk",
-		"whatsapp": "",
-		"telephone": "2809 2102"
 	}]
 },{
 	"district": "離島區",
@@ -13649,7 +13639,7 @@
 	"estab_contestant": "曾秀好",
 	"estab_organization": "獨立",
 	"democrat_contestant": "徐逸朗",
-	"democrat_organization": "坪洲島聚",
+	"democrat_organization": "離島連線",
 	"organization": [{
 		"name": "個人聯絡資料",
 		"webpage": "",
@@ -13661,14 +13651,14 @@
 		"whatsapp": "6976 3034",
 		"telephone": ""
 	},{
-		"name": "坪洲島聚",
+		"name": "離島連線",
 		"webpage": "",
-		"fbpage": "https://www.facebook.com/%E5%9D%AA%E6%B4%B2%E5%B3%B6%E8%81%9A-Living-in-Peng-Chau-102952721045875/",
+		"fbpage": "https://www.facebook.com/%E9%9B%A2%E5%B3%B6%E9%80%A3%E7%B7%9A-Islands-Connection-104805494213125/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "pengchau123@gmail.com",
-		"whatsapp": "6976 3034",
+		"email": "",
+		"whatsapp": "",
 		"telephone": ""
 	}]
 },{
@@ -13678,11 +13668,21 @@
 	"estab_contestant": "余麗芬",
 	"estab_organization": "民建聯",
 	"democrat_contestant": "崔靖青",
-	"democrat_organization": "南丫居民關注組",
+	"democrat_organization": "離島連線",
 	"organization": [{
 		"name": "個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/caanchui",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "離島連線",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E9%9B%A2%E5%B3%B6%E9%80%A3%E7%B7%9A-Islands-Connection-104805494213125/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
@@ -13697,7 +13697,7 @@
 	"estab_contestant": "郭慧文/鄺官穩",
 	"estab_organization": "民建聯/獨立(前經民聯)",
 	"democrat_contestant": "梁國豪",
-	"democrat_organization": "朱凱廸團隊",
+	"democrat_organization": "離島連線",
 	"organization": [{
 		"name": "個人聯絡資料",
 		"webpage": "",
@@ -13709,24 +13709,14 @@
 		"whatsapp": "6223 0641",
 		"telephone": ""
 	},{
-		"name": "朱凱廸大嶼山團隊",
-		"webpage": "https://www.facebook.com/eastspringonion/",
-		"fbpage": "https://www.facebook.com/pg/朱凱廸大嶼山團隊-2049187482020791",
+		"name": "離島連線",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E9%9B%A2%E5%B3%B6%E9%80%A3%E7%B7%9A-Islands-Connection-104805494213125/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
-	},{
-		"name": "朱凱廸團隊",
-		"webpage": "http://chuhoidick.hk/",
-		"fbpage": "https://www.facebook.com/chuhoidick/",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "info@chuhoidick.hk",
-		"whatsapp": "",
-		"telephone": "2809 2102"
 	}]
 }]
