@@ -129,17 +129,17 @@
     "name": "山頂",
 	"estab_contestant": "楊哲安",
 	"estab_organization": "自由黨",
-	"democrat_contestant": "丁偉良",
-	"democrat_organization": "反自動當選運動",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
 	"organization": [{
-		"name": "個人聯絡資料",
+		"name": "(待定)",
 		"webpage": "",
-		"fbpage": "https://www.facebook.com/profile.php?id=100040339264279",
+		"fbpage": "",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "dingding890604@yahoo.com.hk",
-		"whatsapp": "5919 8396",
+		"email": "",
+		"whatsapp": "",
 		"telephone": ""
 	}]
 },{
@@ -2395,17 +2395,17 @@
     "name": "海灣",
 	"estab_contestant": "梁俊",
 	"estab_organization": "自由黨",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "丁偉良",
+	"democrat_organization": "反自動當選運動",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/profile.php?id=100040339264279",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "dingding890604@yahoo.com.hk",
+		"whatsapp": "5919 8396",
 		"telephone": ""
 	}]
 },{
