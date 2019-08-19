@@ -8523,17 +8523,27 @@
 	"name": "屏山中",
 	"estab_contestant": "鄧慶業",
 	"estab_organization": "獨立",
-	"democrat_contestant": "",
-	"democrat_organization": "",
+	"democrat_contestant": "黃俊森",
+	"democrat_organization": "天水圍地區民生促進會",
 	"organization": [{
-		"name": "",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/%E9%BB%83%E4%BF%8A%E6%A3%AE-Wong-Chun-Sum-109038983769829/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
+		"email": "julywong2013@gmail.com",
 		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "天水圍地區民生促進會",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/TSWFreedom/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "tswdeco@gmail.com",
+		"whatsapp": "5118 0685",
 		"telephone": ""
 	}]
 },{
@@ -8929,20 +8939,10 @@
 	"name": "富恩",
 	"estab_contestant": "劉桂容",
 	"estab_organization": "工聯會",
-	"democrat_contestant": "黃俊森/關俊笙",
-	"democrat_organization": "天水圍地區民生促進會/富恩起動",
+	"democrat_contestant": "關俊笙",
+	"democrat_organization": "富恩起動",
 	"organization": [{
-		"name": "黃俊森個人聯絡資料",
-		"webpage": "",
-		"fbpage": "https://www.facebook.com/%E9%BB%83%E4%BF%8A%E6%A3%AE-Wong-Chun-Sum-109038983769829/",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "julywong2013@gmail.com",
-		"whatsapp": "",
-		"telephone": ""
-	},{
-		"name": "關俊笙個人聯絡資料",
+		"name": "個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/leonkwantsw/",
 		"instagram": "https://www.instagram.com/leonkwan_tsw/",
@@ -8951,16 +8951,6 @@
 		"email": "leonkwan.hk@gmail.com",
 		"whatsapp": "5714 8371",
 		"telephone": ""
-	},{
-		"name": "天水圍地區民生促進會",
-		"webpage": "",
-		"fbpage": "https://www.facebook.com/TSWFreedom/",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "tswdeco@gmail.com",
-		"whatsapp": "5118 0685",
-		"telephone": ""
 	}]
 },{
 	"district": "元朗區",
@@ -8968,10 +8958,10 @@
 	"name": "逸澤",
 	"estab_contestant": "郭慶平",
 	"estab_organization": "獨立",
-	"democrat_contestant": "王頴思",
-	"democrat_organization": "熱血公民",
+	"democrat_contestant": "王頴思/張智陽",
+	"democrat_organization": "熱血公民/天水圍地區民生促進會",
 	"organization": [{
-		"name": "個人聯絡資料",
+		"name": "王頴思個人聯絡資料",
 		"webpage": "",
 		"fbpage": "",
 		"instagram": "",
@@ -8990,6 +8980,16 @@
 		"email": "enquiry@civicpassion.hk",
 		"whatsapp": "",
 		"telephone": "3705 1438 / 3705 1439"
+	},{
+		"name": "天水圍地區民生促進會",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/TSWFreedom/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "tswdeco@gmail.com",
+		"whatsapp": "5118 0685",
+		"telephone": ""
 	}]
 },{
 	"district": "元朗區",
