@@ -6013,10 +6013,10 @@
 	"name": "油塘西",
 	"estab_contestant": "呂東孩",
 	"estab_organization": "創建力量",
-	"democrat_contestant": "",
-	"democrat_organization": "",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
 	"organization": [{
-		"name": "",
+		"name": "(待定)",
 		"webpage": "",
 		"fbpage": "",
 		"instagram": "",
@@ -8533,27 +8533,17 @@
 	"name": "屏山中",
 	"estab_contestant": "鄧慶業",
 	"estab_organization": "獨立",
-	"democrat_contestant": "黃俊森",
-	"democrat_organization": "天水圍地區民生促進會",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
 	"organization": [{
-		"name": "個人聯絡資料",
+		"name": "(待定)",
 		"webpage": "",
-		"fbpage": "https://www.facebook.com/%E9%BB%83%E4%BF%8A%E6%A3%AE-Wong-Chun-Sum-109038983769829/",
+		"fbpage": "",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "julywong2013@gmail.com",
+		"email": "",
 		"whatsapp": "",
-		"telephone": ""
-	},{
-		"name": "天水圍地區民生促進會",
-		"webpage": "",
-		"fbpage": "https://www.facebook.com/TSWFreedom/",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "tswdeco@gmail.com",
-		"whatsapp": "5118 0685",
 		"telephone": ""
 	}]
 },{
