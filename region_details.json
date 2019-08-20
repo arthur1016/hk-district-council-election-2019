@@ -1723,18 +1723,28 @@
     "name": "樂康",
 	"estab_contestant": "李進秋",
 	"estab_organization": "香港島各界聯合會",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "曾健成",
+	"democrat_organization": "社會民主連線",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
 		"fbpage": "",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "bullkstsang@yahoo.com.hk",
+		"whatsapp": "9234 8893",
 		"telephone": ""
+	},{
+		"name": "社會民主連線",
+		"webpage": "http://www.lsd.org.hk/",
+		"fbpage": "https://www.facebook.com/hklsd",
+		"instagram": "",
+		"telegram": "http://telegram.me/lsd_action",
+		"youtube": "https://www.youtube.com/c/lsdorghk",
+		"email": "lsd@lsd.org.hk",
+		"whatsapp": "",
+		"telephone": "2375 5338"
 	}]
 },{
 	"district": "東區",
