@@ -9316,29 +9316,9 @@
 	"name": "華都",
 	"estab_contestant": "姚銘",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "虞銘謙/張浚偉",
-	"democrat_organization": "新民主同盟/北區藍圖",
+	"democrat_contestant": "張浚偉",
+	"democrat_organization": "北區藍圖",
 	"organization": [{
-		"name": "虞銘謙個人聯絡資料",
-		"webpage": "",
-		"fbpage": "https://www.facebook.com/LeoYuMH/",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "",
-		"whatsapp": "5744 5911",
-		"telephone": ""
-	},{
-		"name": "新民主同盟",
-		"webpage": "http://neodemocrats.org.hk/",
-		"fbpage": "https://www.facebook.com/NeoDemocrats/",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
-		"email": "neodemocrats@gmail.com",
-		"whatsapp": "",
-		"telephone": ""
-	},{
 		"name": "北區藍圖",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/nd.blueprint/",
