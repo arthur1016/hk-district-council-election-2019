@@ -7684,10 +7684,20 @@
 	"democrat_contestant": "李家偉",
 	"democrat_organization": "富新一代",
 	"organization": [{
+		"name": "個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/kawaileeFS/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
+	},{
 		"name": "富新一代",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/fusungeneration/",
-		"instagram": "",
+		"instagram": "https://www.instagram.com/fusungeneration/",
 		"telegram": "",
 		"youtube": "",
 		"email": "info@tmfusun.com",
