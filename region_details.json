@@ -12485,27 +12485,17 @@
 	"name": "廣康",
 	"estab_contestant": "王虎生",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "麥烈誠",
-	"democrat_organization": "沙田區政",
+	"democrat_contestant": "廖栢康",
+	"democrat_organization": "源居民",
 	"organization": [{
-		"name": "個人聯絡資料",
-		"webpage": "",
-		"fbpage": "https://www.facebook.com/nioxnmak",
+		"name": "源居民",
+		"webpage": "www.siulekyuen.org",
+		"fbpage": "https://www.facebook.com/KYuenbuddy/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
-		"telephone": ""
-	},{
-		"name": "沙田區政",
-		"webpage": "",
-		"fbpage": "https://www.facebook.com/%E6%B2%99%E7%94%B0%E5%8D%80%E6%94%BFCommunity-Sha-Tin-134055657191138/",
-		"instagram": "https://www.instagram.com/nixonmak/",
-		"telegram": "",
-		"youtube": "",
-		"email": "communityshatin@gmail.com",
-		"whatsapp": "6127 6361",
+		"email": "info@siulekyuen.org",
+		"whatsapp": "6110 2914 / 9750 3445",
 		"telephone": ""
 	}]
 },{
@@ -12514,28 +12504,18 @@
 	"name": "廣源",
 	"estab_contestant": "陳敏娟",
 	"estab_organization": "新民黨",
-	"democrat_contestant": "宋子明",
-	"democrat_organization": "工黨",
+	"democrat_contestant": "楊思健",
+	"democrat_organization": "源居民",
 	"organization": [{
-		"name": "個人聯絡資料",
-		"webpage": "",
-		"fbpage": "https://www.facebook.com/SimpsonSTM/",
+		"name": "源居民",
+		"webpage": "www.siulekyuen.org",
+		"fbpage": "https://www.facebook.com/KYuenbuddy/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "5332 1468",
+		"email": "info@siulekyuen.org",
+		"whatsapp": "6110 2914 / 9750 3445",
 		"telephone": ""
-	},{
-		"name": "工黨",
-		"webpage": "http://labour.org.hk/",
-		"fbpage": "https://www.facebook.com/labour.org.hk/",
-		"instagram": "https://www.instagram.com/labourparty_hk/",
-		"telegram": "https://t.me/LabourHK",
-		"youtube": "https://www.youtube.com/user/HKLabourParty",
-		"email": "info@labour.org.hk",
-		"whatsapp": "",
-		"telephone": "2770 8668"
 	}]
 },{
 	"district": "葵青區",
