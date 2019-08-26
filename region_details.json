@@ -5600,9 +5600,19 @@
 	"name": "雙順",
 	"estab_contestant": "符碧珍",
 	"estab_organization": "創建力量",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "東九新動力",
+	"democrat_contestant": "梁漢祺",
+	"democrat_organization": "民協",
 	"organization": [{
+		"name": "民協",
+		"webpage": "http://www.adpl.org.hk/",
+		"fbpage": "https://www.facebook.com/hkadpl/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "info@adpl.org.hk",
+		"whatsapp": "",
+		"telephone": "2782 2699"
+	},{
 		"name": "東九新動力",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/%E6%9D%B1%E4%B9%9D%E6%96%B0%E5%8B%95%E5%8A%9B-330436927302565/",
@@ -6005,10 +6015,10 @@
 	"name": "油翠",
 	"estab_contestant": "龐智笙",
 	"estab_organization": "創建力量",
-	"democrat_contestant": "梁家聲/鍾淬坤",
-	"democrat_organization": "人民力量/獨立",
+	"democrat_contestant": "鍾淬坤",
+	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "鍾淬坤個人聯絡資料",
+		"name": "個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/yauchuiaaron/",
 		"instagram": "",
@@ -6017,16 +6027,6 @@
 		"email": "yauchuiaaron@gmail.com",
 		"whatsapp": "6098 6968",
 		"telephone": ""
-	},{
-		"name": "人民力量",
-		"webpage": "",
-		"fbpage": "https://www.facebook.com/peoplespower/",
-		"instagram": "https://www.instagram.com/peoplepowerhk/",
-		"telegram": "",
-		"youtube": "https://www.youtube.com/channel/UC5tqhizKIdEiv0Qw_AAah0Q",
-		"email": "admin@peoplepower.hk",
-		"whatsapp": "",
-		"telephone": "6396 4111"
 	}]
 },{
 	"district": "觀塘區",
@@ -6199,10 +6199,10 @@
 	"name": "曉麗",
 	"estab_contestant": "蘇麗珍",
 	"estab_organization": "創建力量",
-	"democrat_contestant": "張敏峯/張隆",
-	"democrat_organization": "曉麗新動力/譚香文團隊",
+	"democrat_contestant": "張敏峯",
+	"democrat_organization": "曉麗新動力",
 	"organization": [{
-		"name": "張敏峯個人聯絡資料",
+		"name": "個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/HiuLaiConcern/",
 		"instagram": "https://www.instagram.com/hiulaiconcern/",
@@ -6210,16 +6210,6 @@
 		"youtube": "",
 		"email": "hiulaiconcern@gmail.com",
 		"whatsapp": "9496 3671",
-		"telephone": ""
-	},{
-		"name": "張隆個人聯絡資料",
-		"webpage": "https://www.mandytam.com",
-		"fbpage": "https://www.facebook.com/張隆-872306073132084/",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "factorlung@gmail.com",
-		"whatsapp": "9589 4391",
 		"telephone": ""
 	}]
 },{
