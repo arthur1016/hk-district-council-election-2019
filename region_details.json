@@ -6308,7 +6308,7 @@
 		"email": "clayton.kwuntong@gmail.com",
 		"whatsapp": "6307 4623",
 		"telephone": ""
-	}，{
+	},{
 		"name": "李嘉達個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/KindaLI.KwunTong",
@@ -9719,7 +9719,7 @@
 	"democrat_contestant": "郭㙟豐",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "郭㙟豐個人聯絡資料",
+		"name": "個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/kwoklongfungofficialpage/",
 		"instagram": "",
@@ -9753,14 +9753,14 @@
 	"district": "北區",
 	"code": "N15",
 	"name": "鳳翠",
-	"estab_contestant": "廖興洪/余萬光",
-	"estab_organization": "民建聯/獨立",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"estab_contestant": "廖興洪",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "余萬光",
+	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/profile.php?id=100010436131206",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
