@@ -13069,10 +13069,10 @@
 	"name": "華麗",
 	"estab_contestant": "黃耀聰",
 	"estab_organization": "經民聯",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "民主黨",
+	"democrat_organization": "單仲楷",
 	"organization": [{
-		"name": "(待定)",
+		"name": "",
 		"webpage": "",
 		"fbpage": "",
 		"instagram": "",
@@ -13081,6 +13081,26 @@
 		"email": "",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨新界西支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=8",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkntw@dphk.org",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "葵青區",
