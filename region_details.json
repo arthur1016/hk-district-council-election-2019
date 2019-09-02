@@ -835,16 +835,26 @@
     "name": "大佛口",
 	"estab_contestant": "李均頤",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "梁柏堅",
-	"democrat_organization": "灣仔廣義",
+	"democrat_contestant": "梁柏堅/王慧麟",
+	"democrat_organization": "灣仔廣義/獨立",
 	"organization": [{
-		"name": "個人聯絡資料",
+		"name": "梁柏堅個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/Pakkin.Cousin/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
 		"email": "pakkin@wanchaicommons.com",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "王慧麟個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/bigfutmyfaifut/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
 		"whatsapp": "",
 		"telephone": ""
 	},{
