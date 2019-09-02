@@ -12262,8 +12262,8 @@
 	"name": "耀安",
 	"estab_contestant": "李世榮",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "冼卓嵐/許立燊",
-	"democrat_organization": "民主黨/獨立",
+	"democrat_contestant": "冼卓嵐",
+	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "冼卓嵐個人聯絡資料",
 		"webpage": "",
@@ -12274,16 +12274,6 @@
 		"email": "info@sincheuknam.com",
 		"whatsapp": "6906 9008",
 		"telephone": ""
-	},{
-		"name": "許立燊個人聯絡資料",
-		"webpage": "",
-		"fbpage": "https://www.facebook.com/profile.php?id=100011068922824",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "komahui910@gmail.com",
-		"whatsapp": "9444 5500",
-		"telephone": "2631 5855"
 	},{
 		"name": "民主黨新界東支部",
 		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=9",
