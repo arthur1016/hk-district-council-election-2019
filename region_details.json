@@ -7839,20 +7839,10 @@
 	"name": "龍門",
 	"estab_contestant": "龍瑞卿",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "林偉基/曾錦榮",
-	"democrat_organization": "民主黨/龍門關注組",
+	"democrat_contestant": "曾錦榮",
+	"democrat_organization": "龍門關注組",
 	"organization": [{
-		"name": "林偉基個人聯絡資料",
-		"webpage": "",
-		"fbpage": "https://www.facebook.com/lamwaikeidphk",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "",
-		"whatsapp": "",
-		"telephone": ""
-	},{
-		"name": "曾錦榮個人聯絡資料",
+		"name": "個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/LMtsangkamwing/",
 		"instagram": "",
@@ -7861,26 +7851,6 @@
 		"email": "tsangkamwing.lmcg@gmail.com",
 		"whatsapp": "9689 0983",
 		"telephone": ""
-	},{
-		"name": "民主黨新界西支部",
-		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=8",
-		"fbpage": "",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "dphkntw@dphk.org",
-		"whatsapp": "",
-		"telephone": ""
-	},{
-		"name": "民主黨",
-		"webpage": "http://www.dphk.org",
-		"fbpage": "https://www.facebook.com/thedphk",
-		"instagram": "https://www.instagram.com/democratic_party_hk/",
-		"telegram": "",
-		"youtube": "https://www.youtube.com/user/dphkdphk/",
-		"email": "dphk@dphk.org",
-		"whatsapp": "",
-		"telephone": "2397 7033"
 	},{
 		"name": "龍門關注組",
 		"webpage": "",
