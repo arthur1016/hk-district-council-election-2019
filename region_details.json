@@ -11827,27 +11827,17 @@
 	"estab_contestant": "林宇星",
 	"estab_organization": "新民黨",
 	"democrat_contestant": "李世鴻",
-	"democrat_organization": "新民主同盟",
+	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
-		"webpage": "http://neodemocrats.org.hk/people/li_sai_hung.html",
+		"webpage": "",
 		"fbpage": "https://www.facebook.com/lisaihung/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
 		"email": "lisaihungoffice@gmail.com",
 		"whatsapp": "9862 6066",
-		"telephone": "2613 8228 / 2613 8778 / 2613 8033"
-	},{
-		"name": "新民主同盟",
-		"webpage": "http://neodemocrats.org.hk/",
-		"fbpage": "https://www.facebook.com/NeoDemocrats/",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "https://www.youtube.com/channel/UC1lphTushTCnbbrk-qzaJ_g",
-		"email": "neodemocrats@gmail.com",
-		"whatsapp": "",
-		"telephone": ""
+		"telephone": "2613 8228"
 	}]
 },{
 	"district": "沙田區",
