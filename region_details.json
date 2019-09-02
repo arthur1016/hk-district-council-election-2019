@@ -4477,10 +4477,10 @@
 	"name": "紅磡",
 	"estab_contestant": "林德成",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "關兆倫",
-	"democrat_organization": "紅土家",
+	"democrat_contestant": "關兆倫/何緯彤",
+	"democrat_organization": "紅土家/民主黨",
 	"organization": [{
-		"name": "個人聯絡資料",
+		"name": "關兆倫個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/bighead.kwan/",
 		"instagram": "",
@@ -4488,6 +4488,16 @@
 		"youtube": "",
 		"email": "",
 		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "何緯彤個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/louisawtho/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "louisaho@dphk.org",
+		"whatsapp": "6098 1694",
 		"telephone": ""
 	},{
 		"name": "紅土家",
@@ -4499,6 +4509,26 @@
 		"email": "hungtoalliance@gmail.com",
 		"whatsapp": "5636 7705",
 		"telephone": ""
+	},{
+		"name": "民主黨九龍西支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=7",
+		"fbpage": "",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "dphkklw@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "九龍城區",
