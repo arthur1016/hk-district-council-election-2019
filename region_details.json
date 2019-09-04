@@ -11399,10 +11399,10 @@
 	"name": "愉城",
 	"estab_contestant": "梁家輝",
 	"estab_organization": "新民黨",
-	"democrat_contestant": "石威廉",
-	"democrat_organization": "沙田區政",
+	"democrat_contestant": "石威廉/龍文慧",
+	"democrat_organization": "沙田區政/獨立",
 	"organization": [{
-		"name": "個人聯絡資料",
+		"name": "石威廉個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/shekwilliamofficial/",
 		"instagram": "",
@@ -11411,6 +11411,16 @@
 		"email": "ysampm@gmail.com",
 		"whatsapp": "9318 0533",
 		"telephone": "3709 6090"
+	},{
+		"name": "龍文慧個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E9%9F%B3%E6%A8%82%E8%80%81%E5%B8%ABMavis-106279650727333/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
 	},{
 		"name": "沙田區政",
 		"webpage": "",
