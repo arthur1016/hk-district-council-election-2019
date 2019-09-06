@@ -6619,6 +6619,16 @@
 	"democrat_contestant": "陸靈中",
 	"democrat_organization": "公民黨",
 	"organization": [{
+		"name": "個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/antoniolukCP/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "lcluk@civicparty.hk",
+		"whatsapp": "6111 6489",
+		"telephone": ""
+	},{
 		"name": "公民黨新界西支部",
 		"webpage": "https://www.civicparty.hk/?q=node/24",
 		"fbpage": "",
