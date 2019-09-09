@@ -6810,8 +6810,8 @@
 	"name": "福來",
 	"estab_contestant": "葛兆源",
 	"estab_organization": "工聯會",
-	"democrat_contestant": "黃湛聯/李楚烽",
-	"democrat_organization": "民主黨/獨立",
+	"democrat_contestant": "黃湛聯",
+	"democrat_organization": "民主黨",
 	"organization": [{
 		"name": "黃湛聯個人聯絡資料",
 		"webpage": "",
@@ -6821,16 +6821,6 @@
 		"youtube": "",
 		"email": "",
 		"whatsapp": "",
-		"telephone": ""
-	},{
-		"name": "李楚烽個人聯絡資料",
-		"webpage": "",
-		"fbpage": "https://www.facebook.com/MichaelLeeforTW/",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "michaelleeservice@hotmail.com",
-		"whatsapp": "6696 9121",
 		"telephone": ""
 	},{
 		"name": "民主黨新界西支部",
