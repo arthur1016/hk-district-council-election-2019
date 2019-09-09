@@ -6813,7 +6813,7 @@
 	"democrat_contestant": "黃湛聯",
 	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "黃湛聯個人聯絡資料",
+		"name": "個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/profile.php?id=565903515",
 		"instagram": "",
@@ -7555,8 +7555,8 @@
 	"district": "屯門區",
 	"code": "L13",
 	"name": "三聖",
-	"estab_contestant": "蘇炤成/葉劉淑儀",
-	"estab_organization": "新民黨/新民黨",
+	"estab_contestant": "蘇炤成",
+	"estab_organization": "新民黨",
 	"democrat_contestant": "巫堃泰",
 	"democrat_organization": "獨立",
 	"organization": [{
@@ -7947,7 +7947,7 @@
 	"estab_contestant": "李洪森",
 	"estab_organization": "工聯會",
 	"democrat_contestant": "梁灝文/梁逸朗",
-	"democrat_organization": "獨立/熱血公民",
+	"democrat_organization": "屯門社區網絡/熱血公民",
 	"organization": [{
 		"name": "梁灝文個人聯絡資料",
 		"webpage": "",
@@ -7967,6 +7967,16 @@
 		"youtube": "",
 		"email": "",
 		"whatsapp": "6993 8871",
+		"telephone": ""
+	},{
+		"name": "屯門社區網絡",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/HKTMCN/",
+		"instagram": "https://www.instagram.com/tuenmuncommunity/",
+		"telegram": "https://t.me/tmcnchannel",
+		"youtube": "",
+		"email": "hktmcn@gmail.com",
+		"whatsapp": "5986 9515",
 		"telephone": ""
 	},{
 		"name": "熱血公民",
