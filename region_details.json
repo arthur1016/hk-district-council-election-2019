@@ -1269,8 +1269,8 @@
     "name": "寶馬山",
 	"estab_contestant": "阮建中",
 	"estab_organization": "自由黨",
-	"democrat_contestant": "黎學謙/鄭鳳娟",
-	"democrat_organization": "獨立/反自動當選運動",
+	"democrat_contestant": "黎學謙",
+	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "黎學謙個人聯絡資料",
 		"webpage": "",
@@ -1280,16 +1280,6 @@
 		"youtube": "",
 		"email": "matthewlai.bh@gmail.com",
 		"whatsapp": "5362 3930",
-		"telephone": ""
-	},{
-		"name": "鄭鳳娟個人聯絡資料",
-		"webpage": "",
-		"fbpage": "https://www.facebook.com/%E9%84%AD%E9%B3%B3%E5%A8%9F-Emily-Cheng-103005537717133/",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "fungkuencheng@gmail.com",
-		"whatsapp": "5722 3002",
 		"telephone": ""
 	}]
 },{
