@@ -2493,10 +2493,20 @@
 	"name": "尖沙咀西",
 	"estab_contestant": "潘景和/梁幸輝",
 	"estab_organization": "民建聯/獨立",
-	"democrat_contestant": "馮檢基",
-	"democrat_organization": "獨立",
+	"democrat_contestant": "陳嘉朗/馮檢基",
+	"democrat_organization": "獨立/獨立",
 	"organization": [{
-		"name": "個人聯絡資料",
+		"name": "陳嘉朗個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/lcgorgor/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "tstlesliechan@gmail.com",
+		"whatsapp": "5960 5640",
+		"telephone": ""
+	},{
+		"name": "馮檢基個人聯絡資料",
 		"webpage": "http://fungkinkee.blogspot.com/",
 		"fbpage": "https://www.facebook.com/kinkeefung/",
 		"instagram": "",
