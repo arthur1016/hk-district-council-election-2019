@@ -6356,20 +6356,10 @@
 	"name": "協康",
 	"estab_contestant": "陳振彬",
 	"estab_organization": "創建力量",
-	"democrat_contestant": "馬嘉駿/李嘉達",
-	"democrat_organization": "獨立/獨立",
+	"democrat_contestant": "李嘉達",
+	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "馬嘉駿個人聯絡資料",
-		"webpage": "",
-		"fbpage": "https://www.facebook.com/ClaytonMa.KwunTong",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "clayton.kwuntong@gmail.com",
-		"whatsapp": "6307 4623",
-		"telephone": ""
-	},{
-		"name": "李嘉達個人聯絡資料",
+		"name": "個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/KindaLI.KwunTong",
 		"instagram": "",
