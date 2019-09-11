@@ -12108,10 +12108,20 @@
 	"name": "錦濤",
 	"estab_contestant": "吳啟泰",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "陳國強",
-	"democrat_organization": "獨立",
+	"democrat_contestant": "蘇艷梨/陳國強",
+	"democrat_organization": "獨立/獨立",
 	"organization": [{
-		"name": "個人聯絡資料",
+		"name": "蘇艷梨個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/sasasumos/",
+		"instagram": "https://www.instagram.com/sasasumos",
+		"telegram": "",
+		"youtube": "",
+		"email": "sasasumos@gmail.com",
+		"whatsapp": "",
+		"telephone": "5931 3576"
+	},{
+		"name": "陳國強個人聯絡資料",
 		"webpage": "http://www.inmediahk.net/node/1039161",
 		"fbpage": "",
 		"instagram": "",
