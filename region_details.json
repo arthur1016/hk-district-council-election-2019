@@ -13730,18 +13730,28 @@
 	"name": "東涌北",
 	"estab_contestant": "葉培基/潘俊恩",
 	"estab_organization": "民建聯/實政圓桌",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "林偉基",
+	"democrat_organization": "民主黨",
 	"organization": [{
-		"name": "(待定)",
-		"webpage": "",
+		"name": "民主黨新界西支部",
+		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=8",
 		"fbpage": "",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
+		"email": "dphkntw@dphk.org",
 		"whatsapp": "",
 		"telephone": ""
+	},{
+		"name": "民主黨",
+		"webpage": "http://www.dphk.org",
+		"fbpage": "https://www.facebook.com/thedphk",
+		"instagram": "https://www.instagram.com/democratic_party_hk/",
+		"telegram": "",
+		"youtube": "https://www.youtube.com/user/dphkdphk/",
+		"email": "dphk@dphk.org",
+		"whatsapp": "",
+		"telephone": "2397 7033"
 	}]
 },{
 	"district": "離島區",
