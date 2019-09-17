@@ -146,12 +146,12 @@
 	"district": "中西區",
     "code": "A05",
     "name": "大學",
-	"estab_contestant": "陳捷貴",
-	"estab_organization": "新論壇",
-	"democrat_contestant": "任嘉兒/歐頌賢",
-	"democrat_organization": "獨立/(前)反自動當選運動",
+	"estab_contestant": "陳捷貴/歐頌賢",
+	"estab_organization": "新論壇/(前)反自動當選運動",
+	"democrat_contestant": "任嘉兒",
+	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "任嘉兒個人聯絡資料",
+		"name": "個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/camilleyamkayi/",
 		"instagram": "",
@@ -159,16 +159,6 @@
 		"youtube": "",
 		"email": "camilleyamkayi@gmail.com",
 		"whatsapp": "9851 0015",
-		"telephone": ""
-	},{
-		"name": "歐頌賢個人聯絡資料",
-		"webpage": "",
-		"fbpage": "https://www.facebook.com/chungyin.au.1",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "",
-		"whatsapp": "",
 		"telephone": ""
 	}]
 },{
