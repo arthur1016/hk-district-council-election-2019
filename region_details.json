@@ -758,16 +758,36 @@
     "name": "跑馬地",
 	"estab_contestant": "吳澤森",
 	"estab_organization": "香港島各界聯合會",
-	"democrat_contestant": "張嘉莉",
-	"democrat_organization": "獨立",
+	"democrat_contestant": "張嘉莉/陳詠霞",
+	"democrat_organization": "獨立/2047香港監察",
 	"organization": [{
-		"name": "個人聯絡資料",
+		"name": "張嘉莉個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/mobilecommunitymuseum/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
 		"email": "clarawanchai@gmail.com",
+		"whatsapp": "",
+		"telephone": ""
+	},{
+		"name": "陳詠霞個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/VivianhahahaChan/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "HappyVVVN@gmail.com",
+		"whatsapp": "5393 0874",
+		"telephone": ""
+	},{
+		"name": "2047香港監察",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/2047HKMonitor",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "2047hkmonitor@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
