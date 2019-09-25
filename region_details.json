@@ -9573,10 +9573,10 @@
 	"name": "粉嶺南",
 	"estab_contestant": "何樹光",
 	"estab_organization": "獨立",
-	"democrat_contestant": "張正皓",
-	"democrat_organization": "獨立",
+	"democrat_contestant": "張正皓/李立航",
+	"democrat_organization": "獨立/獨立",
 	"organization": [{
-		"name": "個人聯絡資料",
+		"name": "張正皓個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/fanlingfranco/",
 		"instagram": "",
@@ -9584,6 +9584,16 @@
 		"youtube": "",
 		"email": "francocheungchingho@gmail.com",
 		"whatsapp": "9170 6446",
+		"telephone": ""
+	},{
+		"name": "李立航個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/%E6%9D%8E%E7%AB%8B%E8%88%AA%E7%B2%89%E5%B6%BA%E5%8D%97-108229763876420/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
 		"telephone": ""
 	}]
 },{
