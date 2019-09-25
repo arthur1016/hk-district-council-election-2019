@@ -1462,28 +1462,18 @@
     "name": "健康村",
 	"estab_contestant": "鄭志成",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "李文峰",
-	"democrat_organization": "工黨",
+	"democrat_contestant": "(待定)",
+	"democrat_organization": "(待定)",
 	"organization": [{
-		"name": "個人聯絡資料",
+		"name": "(待定)",
 		"webpage": "",
-		"fbpage": "https://www.facebook.com/limanfung.hk/",
+		"fbpage": "",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "ahfungindistrict@gmail.com",
-		"whatsapp": "9761 6055",
-		"telephone": ""
-	},{
-		"name": "工黨",
-		"webpage": "http://labour.org.hk/",
-		"fbpage": "https://www.facebook.com/labour.org.hk/",
-		"instagram": "https://www.instagram.com/labourparty_hk/",
-		"telegram": "https://t.me/LabourHK",
-		"youtube": "https://www.youtube.com/user/HKLabourParty",
-		"email": "info@labour.org.hk",
+		"email": "",
 		"whatsapp": "",
-		"telephone": "2770 8668"
+		"telephone": ""
 	}]
 },{
 	"district": "東區",
