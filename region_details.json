@@ -12138,9 +12138,19 @@
 	"name": "錦濤",
 	"estab_contestant": "吳啟泰",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "蘇艷梨/陳國強",
-	"democrat_organization": "獨立/獨立",
+	"democrat_contestant": "宋寶光/蘇艷梨/陳國強",
+	"democrat_organization": "獨立/獨立/獨立",
 	"organization": [{
+		"name": "宋寶光個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/mosKamto/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": "9449 6489"
+	},{
 		"name": "蘇艷梨個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/sasasumos/",
@@ -13412,17 +13422,17 @@
 	"name": "翠怡",
 	"estab_contestant": "張慧晶",
 	"estab_organization": "獨立",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "黃俊達",
+	"democrat_organization": "青衣製造",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/ty.chuntat/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "tsingyi.chuntat@gmail.com",
+		"whatsapp": "9222 2372",
 		"telephone": ""
 	}]
 },{
