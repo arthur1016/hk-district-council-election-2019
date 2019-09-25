@@ -9445,12 +9445,12 @@
 	"district": "北區",
 	"code": "N03",
 	"name": "祥華",
-	"estab_contestant": "林智洋/黃嘉浩",
-	"estab_organization": "民建聯/獨立",
-	"democrat_contestant": "陳旭明",
-	"democrat_organization": "民主黨",
+	"estab_contestant": "林智洋",
+	"estab_organization": "民建聯",
+	"democrat_contestant": "陳旭明/黃嘉浩",
+	"democrat_organization": "民主黨/獨立",
 	"organization": [{
-		"name": "個人聯絡資料",
+		"name": "陳旭明個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/陳旭明-Dino-祥華-名都-835885039858762/",
 		"instagram": "",
@@ -9459,6 +9459,16 @@
 		"email": "cheungwahoffice@gmail.com",
 		"whatsapp": "",
 		"telephone": "26831721"
+	},{
+		"name": "黃嘉浩個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/WongKaHo.North/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "",
+		"whatsapp": "",
+		"telephone": ""
 	},{
 		"name": "民主黨新界東支部",
 		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=9",
