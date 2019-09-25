@@ -5960,10 +5960,10 @@
 	"name": "藍田",
 	"estab_contestant": "簡銘東",
 	"estab_organization": "工聯會",
-	"democrat_contestant": "余忠豪",
-	"democrat_organization": "獨立",
+	"democrat_contestant": "余忠豪/馮德森",
+	"democrat_organization": "獨立/獨立",
 	"organization": [{
-		"name": "個人聯絡資料",
+		"name": "余忠豪個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/yuchungho.lamtin/",
 		"instagram": "",
@@ -5971,6 +5971,16 @@
 		"youtube": "",
 		"email": "yuchungho.lamtin@gmail.com",
 		"whatsapp": "9143 7632",
+		"telephone": ""
+	},{
+		"name": "馮德森個人聯絡資料",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/desmondfunglamtin/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "desmondfunglamtin@gmail.com",
+		"whatsapp": "9763 5464",
 		"telephone": ""
 	}]
 },{
