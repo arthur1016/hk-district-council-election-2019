@@ -8005,17 +8005,17 @@
 	"name": "寶田",
 	"estab_contestant": "蘇嘉雯",
 	"estab_organization": "實政圓桌",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "張贊華",
+	"democrat_organization": "獨立",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
-		"instagram": "",
+		"fbpage": "https://www.facebook.com/NeozanStudio/",
+		"instagram": "https://www.instagram.com/Neozan_Studio/",
 		"telegram": "",
-		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"youtube": "https://www.youtube.com/channel/UC1UBkKVc3fPzJXupncriqAA",
+		"email": "neozanstudio@gmail.com",
+		"whatsapp": "6572 7210",
 		"telephone": ""
 	}]
 },{
@@ -8663,17 +8663,27 @@
 	"name": "屏山中",
 	"estab_contestant": "鄧慶業",
 	"estab_organization": "獨立",
-	"democrat_contestant": "(待定)",
-	"democrat_organization": "(待定)",
+	"democrat_contestant": "黃俊森",
+	"democrat_organization": "天水圍地區民生促進會",
 	"organization": [{
-		"name": "(待定)",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/%E9%BB%83%E4%BF%8A%E6%A3%AE-Wong-Chun-Sum-109038983769829/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "julywong2013@gmail.com",
+		"whatsapp": "6571 8000",
+		"telephone": ""
+	},{
+		"name": "天水圍地區民生促進會",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/TSWFreedom/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "tswdeco@gmail.com",
+		"whatsapp": "5118 0685",
 		"telephone": ""
 	}]
 },{
