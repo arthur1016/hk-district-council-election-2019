@@ -3121,58 +3121,18 @@
 	"name": "南昌北",
 	"estab_contestant": "鄭泳舜",
 	"estab_organization": "民建聯",
-	"democrat_contestant": "盧德昌/劉家衡",
-	"democrat_organization": "大專政改關注組/公民黨",
+	"democrat_contestant": "鄧曉文",
+	"democrat_organization": "社民連",
 	"organization": [{
-		"name": "盧德昌個人聯絡資料",
-		"webpage": "",
-		"fbpage": "https://www.facebook.com/Colinlotakcheong/",
+		"name": "社民連",
+		"webpage": "http://www.lsd.org.hk",
+		"fbpage": "https://www.facebook.com/hklsd",
 		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "colin0385@gmail.com",
-		"whatsapp": "5464 3238",
-		"telephone": ""
-	},{
-		"name": "劉家衡個人聯絡資料",
-		"webpage": "",
-		"fbpage": "https://www.facebook.com/NamCheongAndy/",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "",
+		"telegram": "http://telegram.me/lsd_action",
+		"youtube": "https://www.youtube.com/c/lsdorghk",
+		"email": "lsd@lsd.org.hk",
 		"whatsapp": "",
-		"telephone": ""
-	},{
-		"name": "大專政改關注組",
-		"webpage": "https://www.inmediahk.net/user/530451/post#",
-		"fbpage": "https://www.facebook.com/pg/studentfightfordemocracy/",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "studentfightfordemocracy@gmail.com",
-		"whatsapp": "",
-		"telephone": ""
-	},{
-		"name": "公民黨九龍西支部",
-		"webpage": "https://www.civicparty.hk/?q=node/22",
-		"fbpage": "",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "",
-		"whatsapp": "",
-		"telephone": "2710 7770 / 2370 1805"
-	},{
-		"name": "公民黨",
-		"webpage": "http://www.civicparty.hk/",
-		"fbpage": "https://www.facebook.com/civicpartyhk/",
-		"instagram": "https://www.instagram.com/civicpartyhk/",
-		"telegram": "",
-		"youtube": "https://www.youtube.com/user/hkcivicparty",
-		"email": "contact@civicparty.hk",
-		"whatsapp": "",
-		"telephone": "2865 7111"
+		"telephone": "2375 5338"
 	}]
 },{
 	"district": "深水埗區",
