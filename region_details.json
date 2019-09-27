@@ -9620,8 +9620,8 @@
 	"name": "御太",
 	"estab_contestant": "曾勁聰",
 	"estab_organization": "工聯會",
-	"democrat_contestant": "陳梓峯/蔣旻正",
-	"democrat_organization": "山下御太/獨立",
+	"democrat_contestant": "陳梓峯",
+	"democrat_organization": "山下御太",
 	"organization": [{
 		"name": "陳梓峯個人聯絡資料",
 		"webpage": "",
@@ -9631,16 +9631,6 @@
 		"youtube": "",
 		"email": "peopleunderthehill.hk@gmail.com",
 		"whatsapp": "6736 0627",
-		"telephone": ""
-	},{
-		"name": "蔣旻正個人聯絡資料",
-		"webpage": "",
-		"fbpage": "https://www.facebook.com/chiangmanching/",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "mc_chiang6666@hotmail.com",
-		"whatsapp": "5266 7552",
 		"telephone": ""
 	},{
 		"name": "山下御太",
