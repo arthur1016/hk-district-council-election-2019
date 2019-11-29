@@ -130,25 +130,20 @@ header #mobile_menu{
   /*max-height: 600px;
   overflow: scroll;*/
 }
-#infoBoard.existing{
+#infoBoard.estab{
   border: 3px solid blue;
 }
-#infoBoard.inDeliberation{
-  border: 3px solid #FF9A26;
+#infoBoard.demParty{
+  border: 3px solid #FFFF00;
 }
-#infoBoard.notExisting{
-  border: 3px solid red;
+#infoBoard.demIndependent{
+  border: 3px solid #FFCC00;
 }
 #infoBoard #entry_status{
   display:block;
-}/*
-#infoBoard.existing #entry_status, #infoBoard.notExisting #entry_status{
-  display:none;
 }
-#detailInfo {
-  display: none;
-}*/
-#infoBoard.existing #detailInfo, #infoBoard.inDeliberation #detailInfo, #infoBoard.notExisting #detailInfo{
+
+#infoBoard.estab #detailInfo, #infoBoard.demParty #detailInfo, #infoBoard.demIndependent #detailInfo{
   display:block;
 }
 
