@@ -133,16 +133,26 @@
     "contestStatus": "ESTAB",
 	"estab_contestant": "",
 	"estab_organization": "",
-	"democrat_contestant": "",
-	"democrat_organization": "",
+	"democrat_contestant": "賣間囯信",
+	"democrat_organization": "2047香港監察",
 	"organization": [{
-		"name": "",
+		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "",
+		"fbpage": "https://www.facebook.com/uruma4hk/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
+		"email": "thomasuruma@gmail.com",
+		"whatsapp": "6051 8410",
+		"telephone": ""
+	},{
+		"name": "2047香港監察",
+		"webpage": "",
+		"fbpage": "https://www.facebook.com/2047HKMonitor/",
+		"instagram": "",
+		"telegram": "",
+		"youtube": "",
+		"email": "2047hkmonitor@gmail.com",
 		"whatsapp": "",
 		"telephone": ""
 	}]
@@ -1862,7 +1872,7 @@
 		"instagram": "https://www.instagram.com/anguswonghei/",
 		"telegram": "",
 		"youtube": "",
-		"email": "community@aunokhin.hk",
+		"email": "abdanguswong@gmail.com",
 		"whatsapp": "",
 		"telephone": "5500 6191"
 	},{
@@ -1894,7 +1904,7 @@
 		"youtube": "",
 		"email": "",
 		"whatsapp": "6673 0203",
-		"telephone": "2552 2443"
+		"telephone": ""
 	},{
 		"name": "民主黨香港島支部",
 		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
@@ -1944,7 +1954,7 @@
 		"youtube": "",
 		"email": "chanpingyeung@dphk.org",
 		"whatsapp": "9457 1294",
-		"telephone": "2552 2443"
+		"telephone": ""
 	},{
 		"name": "民主黨香港島支部",
 		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
@@ -1995,7 +2005,7 @@
 		"telegram": "",
 		"email": "chanyanyi@dphk.org",
 		"whatsapp": "5300 3363",
-		"telephone": "2871 3900"
+		"telephone": ""
 	},{
 		"name": "民主黨香港島支部",
 		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=158",
@@ -2093,8 +2103,8 @@
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "yuchunheijames@gmail.com",
+		"whatsapp": "6461 4400",
 		"telephone": ""
 	},{
 		"name": "公民黨港島區支部",
@@ -2143,8 +2153,8 @@
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "community@aunokhin.hk",
+		"email": "community@aunokhin.hk",
+		"whatsapp": "5547 9315",
 		"telephone": "5545 8035"
 	},{
 		"name": "南區萬事屋",
@@ -2224,7 +2234,7 @@
 		"telegram": "",
 		"youtube": "",
 		"email": "LSLBecky@gmail.com",
-		"whatsapp": "",
+		"whatsapp": "6687 9281",
 		"telephone": "2875 0363 / 2875 0362"
 	},{
 		"name": "民主黨香港島支部",
@@ -2274,7 +2284,7 @@
 		"telegram": "",
 		"youtube": "",
 		"email": "yimchunho@dphk.org",
-		"whatsapp": "",
+		"whatsapp": "6687 9281",
 		"telephone": "2552 2443 / 2555 8555"
 	},{
 		"name": "民主黨香港島支部",
@@ -2324,8 +2334,8 @@
 		"telegram": "",
 		"youtube": "",
 		"email": "info@paulzimmerman.hk",
-		"whatsapp": "",
-		"telephone": "9096 3070"
+		"whatsapp": "9096 3070",
+		"telephone": ""
 	},{
 		"name": "南區萬事屋",
 		"webpage": "",
@@ -2345,7 +2355,7 @@
 	"estab_contestant": "羅萱",
 	"estab_organization": "香港島各界聯合會",
 	"democrat_contestant": "林德和",
-	"democrat_organization": "扶融置富",
+	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
 		"webpage": "",
@@ -2370,11 +2380,11 @@
 		"name": "個人聯絡資料",
 		"webpage": "",
 		"fbpage": "https://www.facebook.com/kawaitiffany/",
-		"instagram": "",
+		"instagram": "https://www.instagram.com/kawaitiffany/",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
+		"email": "tiffanyykw@gmail.com",
+		"whatsapp": "5545 6550",
 		"telephone": ""
 	},{
 		"name": "南區萬事屋",
@@ -2398,14 +2408,14 @@
 	"democrat_organization": "石排灣力量",
 	"organization": [{
 		"name": "石排灣力量",
-		"webpage": "",
+		"webpage": "https://www.facebook.com/hinchung.chan.184",
 		"fbpage": "https://www.facebook.com/shekpaiwanpower/",
 		"instagram": "https://www.instagram.com/shekpaiwanpower/",
 		"telegram": "",
 		"youtube": "",
-		"email": "",
-		"whatsapp": "",
-		"telephone": "6974 9731"
+		"email": "shekpaiwanpower@gmail.com",
+		"whatsapp": "6974 9731",
+		"telephone": ""
 	},{
 		"name": "南區萬事屋",
 		"webpage": "",
@@ -2434,7 +2444,7 @@
 		"telegram": "",
 		"youtube": "",
 		"email": "wongchukhang@gmail.com",
-		"whatsapp": "",
+		"whatsapp": "9565 8587",
 		"telephone": "2553 2115"
 	},{
 		"name": "民主黨香港島支部",
@@ -2499,7 +2509,7 @@
 	"organization": [{
 		"name": "個人聯絡資料",
 		"webpage": "",
-		"fbpage": "https://www.facebook.com/%E5%BD%AD%E5%8D%93%E6%A3%8B-Michael-Pang-107016567299612/",
+		"fbpage": "https://www.facebook.com/cheukkeipang/",
 		"instagram": "",
 		"telegram": "",
 		"youtube": "",
