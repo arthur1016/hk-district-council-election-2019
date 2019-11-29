@@ -17,9 +17,7 @@ function showRegions(path, toDraw) {
 	  
 	  var defaultText = "<p class='defaultText'><u>勿忘五大訴求</u><br/>完全撤回逃犯修例<br/>撤銷6月12日暴動定性<br/>撤銷反送中抗爭者控罪<br/>成立獨立調查委員會<br/>立即實行雙普選</p>";
 	  
-	  var d = new Date();
-      var datetime = d.getFullYear() + "年" + (d.getMonth() + 1) + "月" + d.getDate() + "日";// + d.getHours() + "時" + d.getMinutes() + "分";
-      $("#entry_status").html("在全部452位民選區議員中,來自<span style='background-color: #FFFF00' title='民主黨、公民黨、民協、新民主同盟、工黨、街工、社民連、人民力量、熱血公民'>民主派政黨</span>共" + demPartyRegions.toString() + "位,來自<span style='background-color: #FFCC00'>民主派地區組織或獨立人士</span>共" + demIndependentRegions.toString() + "位,來自<span style='background-color: #ADD8E6'>非民主派</span>共" + (452-demPartyRegions-demIndependentRegions).toString() + "位。" + "<br/><br/>"+ defaultText);
+      $("#entry_status").html("在全部452位民選區議員中,來自<span style='background-color: #FFFF00' title='民主黨(91)、公民黨(32)、民協(19)、新民主同盟(19)、工黨(7)、街工(4)、社民連(2)、人民力量(1)、熱血公民(2)'><strong>民主派政黨</strong></span>共" + demPartyRegions.toString() + "位,來自<span style='background-color: #FFCC00'><strong>民主派地區組織或獨立人士</strong></span>共" + demIndependentRegions.toString() + "位,來自<span style='background-color: #ADD8E6'><strong>非民主派</strong></span>共" + (452-demPartyRegions-demIndependentRegions).toString() + "位。" + "<br/><br/>"+ defaultText);
   });
 }
 
@@ -195,7 +193,7 @@ function onRegionClick(e) {
                           organzation_content = organzation_content + "<br/>";
                         });
                     } else {
-                      organzation_content = "";
+						organzation_content = "";
                     }
 					
                     document.getElementById("organzation_content").innerHTML = organzation_content;
