@@ -7349,11 +7349,11 @@
 	"district": "屯門區",
 	"code": "L02",
 	"name": "兆置",
-    "contestStatus": "PARTY",
+    "contestStatus": "INDPNT",
 	"estab_contestant": "林阮輝",
 	"estab_organization": "民建聯",
 	"democrat_contestant": "林頌鎧",
-	"democrat_organization": "民主黨",
+	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
 		"webpage": "",
@@ -7364,26 +7364,6 @@
 		"email": "lam88@dphk.org",
 		"whatsapp": "",
 		"telephone": "2618 2787"
-	},{
-		"name": "民主黨新界西支部",
-		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=8",
-		"fbpage": "",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "dphkntw@dphk.org",
-		"whatsapp": "",
-		"telephone": ""
-	},{
-		"name": "民主黨",
-		"webpage": "http://www.dphk.org",
-		"fbpage": "https://www.facebook.com/thedphk",
-		"instagram": "https://www.instagram.com/democratic_party_hk/",
-		"telegram": "",
-		"youtube": "https://www.youtube.com/user/dphkdphk/",
-		"email": "dphk@dphk.org",
-		"whatsapp": "",
-		"telephone": "2397 7033"
 	}]
 },{
 	"district": "屯門區",
@@ -7729,11 +7709,11 @@
 	"district": "屯門區",
 	"code": "L14",
 	"name": "恒福",
-    "contestStatus": "PARTY",
+    "contestStatus": "INDPNT",
 	"estab_contestant": "方淳恩",
 	"estab_organization": "民建聯",
 	"democrat_contestant": "朱順雅",
-	"democrat_organization": "民主黨",
+	"democrat_organization": "獨立",
 	"organization": [{
 		"name": "個人聯絡資料",
 		"webpage": "",
@@ -7744,26 +7724,6 @@
 		"email": "beatrice_chu@dphk.org",
 		"whatsapp": "9221 8358",
 		"telephone": "2463 0889"
-	},{
-		"name": "民主黨新界西支部",
-		"webpage": "http://www.dphk.org/index.php?route=contact/contact&cid=4&contact_id=8",
-		"fbpage": "",
-		"instagram": "",
-		"telegram": "",
-		"youtube": "",
-		"email": "dphkntw@dphk.org",
-		"whatsapp": "",
-		"telephone": ""
-	},{
-		"name": "民主黨",
-		"webpage": "http://www.dphk.org",
-		"fbpage": "https://www.facebook.com/thedphk",
-		"instagram": "https://www.instagram.com/democratic_party_hk/",
-		"telegram": "",
-		"youtube": "https://www.youtube.com/user/dphkdphk/",
-		"email": "dphk@dphk.org",
-		"whatsapp": "",
-		"telephone": "2397 7033"
 	}]
 },{
 	"district": "屯門區",
